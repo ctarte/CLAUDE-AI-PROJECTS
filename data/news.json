@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-18T10:15:32.340Z",
+  "generatedAt": "2026-09-18T10:25:43.718Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
+        {
+          "id": "4a7b35fbcf1b0dc3",
+          "title": "At least 16 killed in attack on mosque in Pakistan",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-09-18T10:13:02.000Z",
+          "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a1/live/b96c79e0-b347-11f1-a430-4d16ee157c41.jpg"
+        },
         {
           "id": "09d56a0899798174",
           "title": "Three dead and eight injured in Philippines school shooting",
@@ -43,16 +53,6 @@
           "sourceUrl": "https://aljazeera.com",
           "publishedAt": "2026-09-18T09:12:09.000Z",
           "summary": "Harry Kane could become first Ballon d'Or from England since 2001, but striker focused on Bayern Munich trophies.",
-          "image": null
-        },
-        {
-          "id": "d4b310009173bb4f",
-          "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
-          "url": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-09-18T09:10:42.000Z",
-          "summary": "The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.",
           "image": null
         }
       ]
@@ -281,26 +281,6 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "5009414ccc7f2ea1",
-          "title": "Think you can design a better iPhone? Here’s your chance",
-          "url": "https://www.fastcompany.com/91606973/design-the-next-iphone-builder",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-18T10:00:00.000Z",
-          "summary": "If you ever wanted to design your own iPhone, a new website gives you the tools. “Design the Next iPhone” is a one-off site from Neal Agarwal, a game designer, that lets users add features ranging…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91606973-neal-fun-design-an-iphone.jpg"
-        },
-        {
-          "id": "4c1bfccb27c17b2a",
-          "title": "7 ads that define ‘The New York Times’",
-          "url": "https://www.fastcompany.com/91608364/7-ads-that-define-the-new-york-times",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-18T10:00:00.000Z",
-          "summary": "This week, The New York Times is celebrating the 175 anniversary of its founding on September 18, 1851. To commemorate the major milestone, the publication is paying tribute to one of the…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91608364-the-new-york-times-175-anniversary-advertising.jpg"
-        },
-        {
           "id": "a184ed18eb7aa76f",
           "title": "AI systems don’t have a drive to survive. Here’s why",
           "url": "https://www.fastcompany.com/91607899/ai-systems-dont-have-a-drive-to-survive",
@@ -329,6 +309,26 @@
           "publishedAt": "2026-09-18T04:27:00.000Z",
           "summary": "This article is republished with permission from Laser Wars, a newsletter about military laser weapons and other futuristic defense technology. The U.S. Navy has awarded a modest contract to…",
           "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91609056-Tech-Laser-Wars-Navys-new-laser-weapon-contract.jpg"
+        },
+        {
+          "id": "0e299a0f7baab221",
+          "title": "Selena Gomez’s Rare Beauty gives away part of every sale. Here’s where the money goes",
+          "url": "https://www.fastcompany.com/91606361/selena-gomezs-rare-beauty-gives-away-part-of-every-sale-heres-where-the-money-goes",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-17T22:36:45.000Z",
+          "summary": "When Selena Gomez founded Rare Beauty in 2020, she wanted the cosmetics brand to have meaning and represent different people. Gomez, a recording artist, actress, and entrepreneur, found that meaning…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91606361-Selena-Gomezs-Rare-Beauty-gives-away-part-of-every-sale.-Heres-where-the-money-goes-1.jpg"
+        },
+        {
+          "id": "63cbe15c65a52331",
+          "title": "NYC’s new robotoilets will kick you out after 10 minutes—whether you’re finished or not",
+          "url": "https://www.fastcompany.com/91608953/nycs-new-robotoilets-will-kick-you-out-after-10-minutes-whether-youre-finished-or-not",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-17T21:23:07.000Z",
+          "summary": "New York City Mayor Zohran Mamdani is tackling yet another urban annoyance: the city’s lack of public restrooms. As of June 2025, New York City had just 975 operating public restrooms across its five…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91608953-nyc-new-robotoilets.jpg"
         }
       ]
     },
