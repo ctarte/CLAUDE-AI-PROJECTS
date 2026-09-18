@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:06:49.674Z",
+  "generatedAt": "2026-09-18T10:15:32.340Z",
   "isSample": false,
   "categories": {
     "world": {
@@ -61,6 +61,16 @@
       "label": "Crypto",
       "articles": [
         {
+          "id": "9f66073c413dbc27",
+          "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+          "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "sourceUrl": "https://coindesk.com",
+          "publishedAt": "2026-09-18T10:07:33.000Z",
+          "summary": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/993df2e2bfe6457f309bb7771a210877078feee1-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        },
+        {
           "id": "674c63bdf246029e",
           "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
           "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
@@ -99,16 +109,6 @@
           "publishedAt": "2026-09-18T09:01:55.000Z",
           "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
           "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg"
-        },
-        {
-          "id": "c368a7c3880af3f0",
-          "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-          "url": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph.com News",
-          "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-09-18T08:50:38.000Z",
-          "summary": "Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1.jpg"
         }
       ]
     },
@@ -201,16 +201,6 @@
           "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GOP-reality-check_091826_Kochi_AP_Jose-Luis-Magana.jpg?w=900"
         },
         {
-          "id": "e3ff9f1e88a2aa80",
-          "title": "International students fear midterms won't help pro-Palestinian activists targeted by Trump",
-          "url": "https://thehill.com/homenews/education/6095836-international-students-midterms-pro-palestinian-activists-trump-immigration/",
-          "source": "TheHill.com Just In",
-          "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-09-18T10:00:00.000Z",
-          "summary": "The Trump administration is showing no signs of backing away from its crackdown on international college students as partisan division over support for Palestine heats up ahead of the midterm…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/InternationalStudents_Lonas_AP_HeatherAinsworth.jpg?w=900"
-        },
-        {
           "id": "05a8084178d3aaaf",
           "title": "Gen Z believes in the billionaire tax",
           "url": "https://thehill.com/homenews/campaign/6096809-gen-z-taxes-wealthy/",
@@ -219,6 +209,16 @@
           "publishedAt": "2026-09-18T10:00:00.000Z",
           "summary": "More than two-thirds of Generation Z thinks wealthy Americans should pay up. A new CBS/YouGov poll released Sunday found that 69 percent of respondents under 30 favor candidates who support raising…",
           "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/AP26169551403961-e1781800505790.jpg?w=900"
+        },
+        {
+          "id": "e3ff9f1e88a2aa80",
+          "title": "International students fear midterms won't help pro-Palestinian activists targeted by Trump",
+          "url": "https://thehill.com/homenews/education/6095836-international-students-midterms-pro-palestinian-activists-trump-immigration/",
+          "source": "TheHill.com Just In",
+          "sourceUrl": "https://thehill.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "The Trump administration is showing no signs of backing away from its crackdown on international college students as partisan division over support for Palestine heats up ahead of the midterm…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/InternationalStudents_Lonas_AP_HeatherAinsworth.jpg?w=900"
         }
       ]
     },
@@ -281,6 +281,26 @@
       "label": "Trends",
       "articles": [
         {
+          "id": "5009414ccc7f2ea1",
+          "title": "Think you can design a better iPhone? Here’s your chance",
+          "url": "https://www.fastcompany.com/91606973/design-the-next-iphone-builder",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "If you ever wanted to design your own iPhone, a new website gives you the tools. “Design the Next iPhone” is a one-off site from Neal Agarwal, a game designer, that lets users add features ranging…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91606973-neal-fun-design-an-iphone.jpg"
+        },
+        {
+          "id": "4c1bfccb27c17b2a",
+          "title": "7 ads that define ‘The New York Times’",
+          "url": "https://www.fastcompany.com/91608364/7-ads-that-define-the-new-york-times",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "This week, The New York Times is celebrating the 175 anniversary of its founding on September 18, 1851. To commemorate the major milestone, the publication is paying tribute to one of the…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91608364-the-new-york-times-175-anniversary-advertising.jpg"
+        },
+        {
           "id": "a184ed18eb7aa76f",
           "title": "AI systems don’t have a drive to survive. Here’s why",
           "url": "https://www.fastcompany.com/91607899/ai-systems-dont-have-a-drive-to-survive",
@@ -309,32 +329,32 @@
           "publishedAt": "2026-09-18T04:27:00.000Z",
           "summary": "This article is republished with permission from Laser Wars, a newsletter about military laser weapons and other futuristic defense technology. The U.S. Navy has awarded a modest contract to…",
           "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91609056-Tech-Laser-Wars-Navys-new-laser-weapon-contract.jpg"
-        },
-        {
-          "id": "0e299a0f7baab221",
-          "title": "Selena Gomez’s Rare Beauty gives away part of every sale. Here’s where the money goes",
-          "url": "https://www.fastcompany.com/91606361/selena-gomezs-rare-beauty-gives-away-part-of-every-sale-heres-where-the-money-goes",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-17T22:36:45.000Z",
-          "summary": "When Selena Gomez founded Rare Beauty in 2020, she wanted the cosmetics brand to have meaning and represent different people. Gomez, a recording artist, actress, and entrepreneur, found that meaning…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91606361-Selena-Gomezs-Rare-Beauty-gives-away-part-of-every-sale.-Heres-where-the-money-goes-1.jpg"
-        },
-        {
-          "id": "63cbe15c65a52331",
-          "title": "NYC’s new robotoilets will kick you out after 10 minutes—whether you’re finished or not",
-          "url": "https://www.fastcompany.com/91608953/nycs-new-robotoilets-will-kick-you-out-after-10-minutes-whether-youre-finished-or-not",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-17T21:23:07.000Z",
-          "summary": "New York City Mayor Zohran Mamdani is tackling yet another urban annoyance: the city’s lack of public restrooms. As of June 2025, New York City had just 975 operating public restrooms across its five…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91608953-nyc-new-robotoilets.jpg"
         }
       ]
     },
     "stock-market": {
       "label": "Stock Market",
       "articles": [
+        {
+          "id": "180cc060cf11481f",
+          "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+          "url": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+          "source": "MarketWatch.com",
+          "sourceUrl": "https://feeds.content.dowjones.io",
+          "publishedAt": "2026-09-18T10:08:00.000Z",
+          "summary": "Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook.",
+          "image": "https://images.mktw.net/im-67439365"
+        },
+        {
+          "id": "775dd52248a4b085",
+          "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+          "url": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+          "source": "MarketWatch.com",
+          "sourceUrl": "https://feeds.content.dowjones.io",
+          "publishedAt": "2026-09-18T10:08:00.000Z",
+          "summary": "Bank of America calculates this week’s Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007.",
+          "image": "https://images.mktw.net/im-45285362"
+        },
         {
           "id": "001541556818a50d",
           "title": "Take Five: High stakes, low bars",
@@ -364,26 +384,6 @@
           "publishedAt": "2026-09-18T09:55:00.000Z",
           "summary": "",
           "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0SC_L.jpg"
-        },
-        {
-          "id": "58d5dd4570e34d95",
-          "title": "Venezuela nears deal to move $4 billion gold reserve to New York, FT says",
-          "url": "https://www.investing.com/news/commodities-news/venezuela-nears-deal-to-move-4-billion-gold-reserve-to-new-york-ft-says-4906665",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-18T09:54:37.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/news/Gold_800x533_L_1760612130.jpg"
-        },
-        {
-          "id": "17372cf83d13faee",
-          "title": "Investors buy US stocks at fastest pace in three months, BofA says",
-          "url": "https://www.investing.com/news/stock-market-news/investors-buy-us-stocks-at-fastest-pace-in-three-months-bofa-says-4906920",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-18T09:54:36.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0SA_L.jpg"
         }
       ]
     },
@@ -502,7 +502,7 @@
       "articles": [
         {
           "id": "e6339e8f821cae6d",
-          "title": "Court Urged To Block Carving Of Trump’s Name On Another D.C. Building—The Institute Of Peace",
+          "title": "Court Urged To Block Engraving Of Trump’s Name On Another D.C. Building—The Institute Of Peace",
           "url": "https://www.forbes.com/sites/siladityaray/2026/09/18/court-urged-to-block-engraving-of-trumps-name-on-another-dc-building-the-institute-of-peace/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
@@ -556,6 +556,46 @@
       "label": "Fashion — Men",
       "articles": [
         {
+          "id": "18a153206d61d650",
+          "title": "Kith x On Expands the K-Tech Line With the New K-Tech 3",
+          "url": "https://hypebeast.com/2026/9/kith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info",
+          "source": "Hypebeast",
+          "sourceUrl": "https://hypebeast.com",
+          "publishedAt": "2026-09-18T10:07:42.000Z",
+          "summary": "Name: Kith K-Tech Fall 2026MSRP: $180- 190 USDRelease Date: Available NowWhere to Buy: KithKith and On are expanding their collaborative footwear partnership for Fall 2026 with the introduction of…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fkith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+        },
+        {
+          "id": "941659b52113f653",
+          "title": "URBAN RESEARCH Reworks the Salomon XA PRO 3D GTX in Earthy Tones",
+          "url": "https://hypebeast.com/2026/9/urban-research-salomon-xa-pro-3d-gtx-brown-official-images-info",
+          "source": "Hypebeast",
+          "sourceUrl": "https://hypebeast.com",
+          "publishedAt": "2026-09-18T10:02:40.000Z",
+          "summary": "Name: URBAN RESEARCH × Salomon XA PRO 3D GTX “Brown”Colorway: “Brown”SKU: TBCMSRP: ¥23,100 JPY (approx. $147 USD)Release Date: October 2026URBAN RESEARCH reunites with Salomon for another exclusive…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Ffturban-research-salomon-xa-pro-3d-gtx-brown-official-images-info.jpg?w=800&cbr=1&q=90&fit=max"
+        },
+        {
+          "id": "862bd1f9ef5050dc",
+          "title": "ENGWE’s “Born to Fly” Spirit Takes Flight With the Eagle All-Terrain Dirt Bike",
+          "url": "https://hypebeast.com/2026/9/engwes-born-to-fly-spirit-takes-flight-with-the-eagle-all-terrain-dirt-bike",
+          "source": "Hypebeast",
+          "sourceUrl": "https://hypebeast.com",
+          "publishedAt": "2026-09-18T10:00:37.000Z",
+          "summary": "Global e-bike maker ENGWE is officially turning the page on traditional e-mobility with the launch of the Eagle, its first electric dirt bike. Known for its versatile urban commuting lineup, the…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F13%2FENGWEs-Born-to-Fly-Spirit-Takes-Flight-With-the-Eagle-All-Terrain-Dirt-Bike-000.jpg?w=800&cbr=1&q=90&fit=max"
+        },
+        {
+          "id": "89630f05183a0bf6",
+          "title": "LeBron James Previews the Nike LeBron 24 \"Chosen 1s\"",
+          "url": "https://hypebeast.com/2026/9/nike-lebron-24-chosen-1s-io8201-700-first-look-revealed-release-info",
+          "source": "Hypebeast",
+          "sourceUrl": "https://hypebeast.com",
+          "publishedAt": "2026-09-18T09:49:10.000Z",
+          "summary": "Summary LeBron James has debuted a first look at the upcoming Nike LeBron 24 \"Chosen 1s\" during a workout sessionThe silhouette features a bold Tour Yellow upper accented by hits of Metallic Gold and…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fnike-lebron-24-chosen-1s-IO8201-700-first-look-revealed-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+        },
+        {
           "id": "0b3e3bd90724ac1c",
           "title": "Brain Dead and Andersson Bell Team up for Outdoor-Inspired Technical Wear Collection",
           "url": "https://hypebeast.com/2026/9/brain-dead-andersson-bell-outdoor-inspired-technical-wear-collection-release-info",
@@ -564,52 +604,52 @@
           "publishedAt": "2026-09-18T09:19:49.000Z",
           "summary": "Summary Brain Dead and Andersson Bell have joined forces for a collaborative collection inspired by technical outdoor wearThe campaign features Tuareg guitarist Mdou Moctar highlighting the…",
           "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fbrain-dead-andersson-bell-outdoor-inspired-technical-wear-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
-        },
-        {
-          "id": "a26e3d0a50efd6f5",
-          "title": "HOKA Gives the TOR SUMMIT LEATHER TP an All-Black Finish",
-          "url": "https://hypebeast.com/2026/9/hoka-tor-summit-leather-tp-black-1182950-bblc-release-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-18T09:09:23.000Z",
-          "summary": "Name: HOKA TOR SUMMIT LEATHER TP “Black”Colorway: Black/BlackSKU: 1182950-BBLCMSRP: ¥40,700 JPY (approx. $259 USD)Release Date: Available NowWhere to Buy: HOKAHOKA expands its rugged lifestyle…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fhoka-tor-summit-leather-tp-black-1182950-bblc-release-info-1.jpg?w=800&cbr=1&q=90&fit=max"
-        },
-        {
-          "id": "d6eccb964149dee4",
-          "title": "G-DRAGON and McDonald’s Serve Up a Gochujang Butter Menu Across Asia",
-          "url": "https://hypebeast.com/2026/9/g-dragon-mcdonalds-asia-limited-collaboration-special-gochujang-butter-menu-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-18T09:09:20.000Z",
-          "summary": "Summary G-DRAGON and McDonald’s launch a Gochujang Butter menu across 13 Asian markets.Highlights include a K-Crispy Thigh Burger, Chicken McNuggets and Korean-inspired sides and…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fftg-dragon-mcdonalds-asia-limited-collaboration-special-gochujang-butter-menu-info.jpg?w=800&cbr=1&q=90&fit=max"
-        },
-        {
-          "id": "3098ec93be3465e4",
-          "title": "Nike SHAI 002 Expected to Release in February 2027",
-          "url": "https://hypebeast.com/2026/9/nike-shai-002-expected-to-release-in-february-2027-reports",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-18T08:49:38.000Z",
-          "summary": "Summary Shai Gilgeous-Alexander's next signature model the Nike SHAI 002 is reportedly expected to debut in February 2027According to reports from brandon1an the initial colorway is listed in a Hot…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fnike-shai-002-expected-to-release-in-february-2027-reports-000.jpg?w=800&cbr=1&q=90&fit=max"
-        },
-        {
-          "id": "4ffd98b2ffac4519",
-          "title": "PROJECT PUMA PLUS. Explores “Functional Beauty” for FW26",
-          "url": "https://hypebeast.com/2026/9/puma-project-puma-plus-fall-winter-2026-collection-release-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-18T08:43:29.000Z",
-          "summary": "Summary PROJECT PUMA PLUS. returns for FW26 with a focus on “functional beauty.”Natural textures and muted tones inform relaxed, understated sportswear.The collection launches October 16 through PUMA…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F18%2Fftpuma-project-puma-plus-fall-winter-2026-collection-release-info.jpg?w=800&cbr=1&q=90&fit=max"
         }
       ]
     },
     "architecture": {
       "label": "Architecture",
       "articles": [
+        {
+          "id": "16d6651573d6cf21",
+          "title": "Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\"",
+          "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-09-18T10:00:25.000Z",
+          "summary": "Chinese designer Bin Wu has unveiled the Pavilion of Time, which features timber screens topped by a circular mirror, in the courtyard of Domaine National du Palais-Royal for Paris Design Week. Wu…",
+          "image": "http://static.dezeen.com/uploads/2026/09/bin-wu-pavilion-of-time-paris-design-week_dezeen_1704_col_sq-411x411.jpg"
+        },
+        {
+          "id": "2fa07d503d8faf81",
+          "title": "Khoy sofa bed by Khoy",
+          "url": "https://www.dezeen.com/2026/09/18/khoy-sofa-bed-khoy-dezeen-showroom/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-09-18T09:30:45.000Z",
+          "summary": "Dezeen Showroom: Finnish company Khoy's flagship product transforms from a seat into a bed by simply unzipping it, without relying on conventional \"over-engineered\" mechanisms. Available in sizes…",
+          "image": "http://static.dezeen.com/uploads/2026/09/khoy-sofa-bed-design_dezeen_2364_sq2-411x411.jpg"
+        },
+        {
+          "id": "99546b6f44281ac6",
+          "title": "Is London having a design renaissance?",
+          "url": "https://www.dezeen.com/2026/09/18/london-design-festival-2026-dezeen-weekly-podcast/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-09-18T09:15:50.000Z",
+          "summary": "It's LDF week, and this year's edition is surprisingly strong. Could it be that London's creative scene is recovering after a difficult decade? Listen to the latest episode of Dezeen Weekly now. In…",
+          "image": "http://static.dezeen.com/uploads/2026/09/dezeen-weekly-podcast-18-september-2026-sq-411x411.jpg"
+        },
+        {
+          "id": "87be9407d06abc83",
+          "title": "RCA design students exercise restraint in One Tool One Stool exhibition",
+          "url": "https://www.dezeen.com/2026/09/18/rca-design-students-exercise-restraint-in-one-tool-one-stool-exhibition/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-09-18T09:00:12.000Z",
+          "summary": "Chiselled acoustic foam, hand-bent metal and interlocking rulers feature in an exhibition of stools created with single tools, presented by students from the Royal College of Art at London Design…",
+          "image": "http://static.dezeen.com/uploads/2026/09/brompton-design-district-rca-design-graduates-one-tool-one-stool-exhibition-london-design-festival-sq-411x411.jpg"
+        },
         {
           "id": "97ebc986bb820ca9",
           "title": "Studio Egret West revises Battersea Power Station masterplan for final phases",
@@ -619,46 +659,6 @@
           "publishedAt": "2026-09-18T08:00:50.000Z",
           "summary": "Architecture practice Studio Egret West has submitted a \"more-permeable\" masterplan for the final phases of the Battersea Power Station development in London. Designed for the development's remaining…",
           "image": "http://static.dezeen.com/uploads/2026/09/studio-egret-west-battersea-power-station-masterplan-news-sq_dezeen_2364_col_0-411x411.jpg"
-        },
-        {
-          "id": "ee4f09cdcf784aa6",
-          "title": "Tom Pearson unveils riveted aluminium furniture with droplet-like patterns",
-          "url": "https://www.dezeen.com/2026/09/18/tom-pearson-riveting-aluminium-furniture/",
-          "source": "Dezeen",
-          "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-09-18T05:00:44.000Z",
-          "summary": "Designer Tom Pearson has created industrial furniture pieces with rivets that are both structural and decorative for the 10,000 Rivets collection, on show during London Design Festival. The line,…",
-          "image": "http://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_sq4-411x411.jpg"
-        },
-        {
-          "id": "2541e48c1dbda2a7",
-          "title": "Grand Ji Hotel debuts at Paris Design Week",
-          "url": "https://www.dezeen.com/2026/09/18/grand-ji-hotel-debuts-at-paris-design-week/",
-          "source": "Dezeen",
-          "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-09-18T04:00:14.000Z",
-          "summary": "Promotion: H World has debuted its latest hotel brand, the Grand Ji Hotel, in Hangzhou, China, designed by Chinese studio Vermilion Zhou Design Group, which aims to reinvent hotel design through its…",
-          "image": "http://static.dezeen.com/uploads/2026/09/H-world-_dezeen_2364_col_6-411x411.jpg"
-        },
-        {
-          "id": "5061ea72599b62b6",
-          "title": "Asmara Heritage Project: Documenting a Colonial Project that Became Eritrea's National Symbol",
-          "url": "https://www.archdaily.com/1184936/asmara-heritage-project-documenting-a-colonial-project-that-became-eritreas-national-symbol",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-09-18T04:00:00.000Z",
-          "summary": "Asmara, the capital of Eritrea, sits at over 2,300 meters above sea level on a plateau at the edge of the Great Rift Valley escarpment. Although situated in a country not known for large visitor…",
-          "image": "https://images.adsttc.com/media/images/6aa3/a3d0/9637/5601/88df/3d0f/newsletter/asmara-heritage-project-documenting-a-colonial-project-that-became-a-national-symbol_4.jpg?1789109216"
-        },
-        {
-          "id": "bc727280e2067b33",
-          "title": "Lorne Road House / Foomann Architects",
-          "url": "https://www.archdaily.com/1185282/lorne-road-house-foomann-architects",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-09-18T03:00:00.000Z",
-          "summary": "Lorne Road is a semi-detached Edwardian cottage. Renovated several years after its neighbour, the alteration is sympathetic to the heritage and contemporary buildings, and the calm and cohesive…",
-          "image": "https://images.adsttc.com/media/images/6aab/aa3f/8d91/7901/8920/4fd2/newsletter/lorne-road-house-foomann-architects_20.jpg?1789635165"
         }
       ]
     }
