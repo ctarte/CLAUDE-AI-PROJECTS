@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:25:43.718Z",
+  "generatedAt": "2026-09-18T10:47:37.683Z",
   "isSample": false,
   "categories": {
     "world": {
@@ -11,9 +11,29 @@
           "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-09-18T10:13:02.000Z",
-          "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC.",
+          "publishedAt": "2026-09-18T10:39:31.000Z",
+          "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a1/live/b96c79e0-b347-11f1-a430-4d16ee157c41.jpg"
+        },
+        {
+          "id": "4770b5791c06c848",
+          "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+          "source": "NPR Topics: World",
+          "sourceUrl": "https://feeds.npr.org",
+          "publishedAt": "2026-09-18T10:39:14.000Z",
+          "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fc2%2Fde953e2c411698438f5300c50217%2Fap26260581564231.jpg"
+        },
+        {
+          "id": "8fd59a103435c8a7",
+          "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+          "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-09-18T10:18:43.000Z",
+          "summary": "This is a breaking news story.",
+          "image": null
         },
         {
           "id": "09d56a0899798174",
@@ -34,32 +54,22 @@
           "publishedAt": "2026-09-18T09:43:43.000Z",
           "summary": "Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women's safety.",
           "image": null
-        },
-        {
-          "id": "e4fba327693679b0",
-          "title": "India star Sooryavanshi urged to be patient, says coach Gambhir",
-          "url": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-09-18T09:34:37.000Z",
-          "summary": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
-          "image": null
-        },
-        {
-          "id": "8c3f88a8a8838c98",
-          "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
-          "url": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-09-18T09:12:09.000Z",
-          "summary": "Harry Kane could become first Ballon d'Or from England since 2001, but striker focused on Bayern Munich trophies.",
-          "image": null
         }
       ]
     },
     "crypto": {
       "label": "Crypto",
       "articles": [
+        {
+          "id": "276832c79f0aab4a",
+          "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+          "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "sourceUrl": "https://coindesk.com",
+          "publishedAt": "2026-09-18T10:33:05.000Z",
+          "summary": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/836ed3bca786c37ab6d40c3c8e2936188ef5cc4c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        },
         {
           "id": "9f66073c413dbc27",
           "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
@@ -99,16 +109,6 @@
           "publishedAt": "2026-09-18T09:14:03.000Z",
           "summary": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg"
-        },
-        {
-          "id": "b9a3629d836a05f7",
-          "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-          "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
-          "source": "Decrypt",
-          "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-09-18T09:01:55.000Z",
-          "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg"
         }
       ]
     },
@@ -171,6 +171,16 @@
       "label": "Politics",
       "articles": [
         {
+          "id": "8156558172c25812",
+          "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-09-18T10:37:06.000Z",
+          "summary": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44bf/live/a35a45d0-b2f5-11f1-b1d1-571ed4d7ff2c.png"
+        },
+        {
           "id": "3b7b2749079b5e71",
           "title": "Democrat leads Marshall in tight Kansas Senate race: Poll",
           "url": "https://thehill.com/homenews/campaign/6096719-hamilton-leads-marshall-kansas-senate-poll/",
@@ -199,16 +209,6 @@
           "publishedAt": "2026-09-18T10:00:00.000Z",
           "summary": "Republicans are heading into the final stretch of the midterm race recognizing a blunt message: Voters are frustrated, and acknowledging those frustrations might be key to keeping them in the GOP…",
           "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GOP-reality-check_091826_Kochi_AP_Jose-Luis-Magana.jpg?w=900"
-        },
-        {
-          "id": "05a8084178d3aaaf",
-          "title": "Gen Z believes in the billionaire tax",
-          "url": "https://thehill.com/homenews/campaign/6096809-gen-z-taxes-wealthy/",
-          "source": "TheHill.com Just In",
-          "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-09-18T10:00:00.000Z",
-          "summary": "More than two-thirds of Generation Z thinks wealthy Americans should pay up. A new CBS/YouGov poll released Sunday found that 69 percent of respondents under 30 favor candidates who support raising…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/AP26169551403961-e1781800505790.jpg?w=900"
         },
         {
           "id": "e3ff9f1e88a2aa80",
@@ -281,6 +281,36 @@
       "label": "Trends",
       "articles": [
         {
+          "id": "fbc561615a697f89",
+          "title": "In the battle between AI optimists and doomsayers, no one is the winner",
+          "url": "https://www.fastcompany.com/91608942/in-the-battle-between-ai-optimists-and-doomsayers-no-one-is-the-winner",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-18T10:30:00.000Z",
+          "summary": "It could be the end of the world as we know it. Or maybe it’s all just a marketing stunt. Somehow, these have become the two poles of the debate about the future of artificial intelligence and its…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608942-in-the-battle-of-ai-optimists-and-doomsayers-nobody-is-a-winner-rob-walker-branded.jpg"
+        },
+        {
+          "id": "5009414ccc7f2ea1",
+          "title": "Think you can design a better iPhone? Here’s your chance",
+          "url": "https://www.fastcompany.com/91606973/design-the-next-iphone-builder",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "If you ever wanted to design your own iPhone, a new website gives you the tools. “Design the Next iPhone” is a one-off site from Neal Agarwal, a game designer, that lets users add features ranging…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91606973-neal-fun-design-an-iphone.jpg"
+        },
+        {
+          "id": "4c1bfccb27c17b2a",
+          "title": "7 ads that define ‘The New York Times’",
+          "url": "https://www.fastcompany.com/91608364/7-ads-that-define-the-new-york-times",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "This week, The New York Times is celebrating the 175 anniversary of its founding on September 18, 1851. To commemorate the major milestone, the publication is paying tribute to one of the…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91608364-the-new-york-times-175-anniversary-advertising.jpg"
+        },
+        {
           "id": "a184ed18eb7aa76f",
           "title": "AI systems don’t have a drive to survive. Here’s why",
           "url": "https://www.fastcompany.com/91607899/ai-systems-dont-have-a-drive-to-survive",
@@ -299,36 +329,6 @@
           "publishedAt": "2026-09-18T05:00:00.000Z",
           "summary": "The biggest hiring myth in tech is that AI is making junior engineers obsolete. The logic seems sound: AI can write code, so why hire people to write more of it? Junior engineers have always learned…",
           "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608061-hiring-more-junior-engineers-in-the-age-of-AI.jpg"
-        },
-        {
-          "id": "a2eb1e46e5b5b747",
-          "title": "The Navy’s push for shipboard laser weapons just got a new entrant",
-          "url": "https://www.fastcompany.com/91609056/the-navys-push-for-shipboard-laser-weapons-just-got-a-new-entrant",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-18T04:27:00.000Z",
-          "summary": "This article is republished with permission from Laser Wars, a newsletter about military laser weapons and other futuristic defense technology. The U.S. Navy has awarded a modest contract to…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91609056-Tech-Laser-Wars-Navys-new-laser-weapon-contract.jpg"
-        },
-        {
-          "id": "0e299a0f7baab221",
-          "title": "Selena Gomez’s Rare Beauty gives away part of every sale. Here’s where the money goes",
-          "url": "https://www.fastcompany.com/91606361/selena-gomezs-rare-beauty-gives-away-part-of-every-sale-heres-where-the-money-goes",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-17T22:36:45.000Z",
-          "summary": "When Selena Gomez founded Rare Beauty in 2020, she wanted the cosmetics brand to have meaning and represent different people. Gomez, a recording artist, actress, and entrepreneur, found that meaning…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91606361-Selena-Gomezs-Rare-Beauty-gives-away-part-of-every-sale.-Heres-where-the-money-goes-1.jpg"
-        },
-        {
-          "id": "63cbe15c65a52331",
-          "title": "NYC’s new robotoilets will kick you out after 10 minutes—whether you’re finished or not",
-          "url": "https://www.fastcompany.com/91608953/nycs-new-robotoilets-will-kick-you-out-after-10-minutes-whether-youre-finished-or-not",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-17T21:23:07.000Z",
-          "summary": "New York City Mayor Zohran Mamdani is tackling yet another urban annoyance: the city’s lack of public restrooms. As of June 2025, New York City had just 975 operating public restrooms across its five…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91608953-nyc-new-robotoilets.jpg"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "180cc060cf11481f",
-          "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
-          "url": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+          "id": "c5c9d736d59011e3",
+          "title": "Exclusive-Anthropic quietly sets up biology lab as it ramps AI drug program",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-4906956",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-09-18T10:44:42.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0T3_L.jpg"
+        },
+        {
+          "id": "2eb9de9a1a8e8694",
+          "title": "Morning Bid: Apocalypse later",
+          "url": "https://www.investing.com/news/commodities-news/morning-bid-apocalypse-later-4907032",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-09-18T10:44:15.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0W5_L.jpg"
+        },
+        {
+          "id": "fa288838f9572797",
+          "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
+          "url": "https://www.investing.com/news/economy-news/barclays-backs-november-boe-hike-warns-middle-east-conflict-could-spur-more-4906680",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-09-18T10:42:33.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0CL_L.jpg"
+        },
+        {
+          "id": "d598928b2dba77fe",
+          "title": "All Active Asset Capital appoints Steven Smith as director",
+          "url": "https://www.investing.com/news/company-news/all-active-asset-capital-appoints-steven-smith-as-director-93CH-4907024",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-09-18T10:39:53.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg"
+        },
+        {
+          "id": "a26adbb849fc227b",
+          "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
+          "url": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
           "source": "MarketWatch.com",
           "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-09-18T10:08:00.000Z",
-          "summary": "Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook.",
-          "image": "https://images.mktw.net/im-67439365"
-        },
-        {
-          "id": "775dd52248a4b085",
-          "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
-          "url": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
-          "source": "MarketWatch.com",
-          "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-09-18T10:08:00.000Z",
-          "summary": "Bank of America calculates this week’s Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007.",
-          "image": "https://images.mktw.net/im-45285362"
-        },
-        {
-          "id": "001541556818a50d",
-          "title": "Take Five: High stakes, low bars",
-          "url": "https://www.investing.com/news/economy-news/take-five-high-stakes-low-bars-4906923",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-18T09:55:21.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0S1_L.jpg"
-        },
-        {
-          "id": "3bbe08b36b022974",
-          "title": "Saudi Aramco to lift Gulf exports to 60 million in September and October - Reuters",
-          "url": "https://www.investing.com/news/economy-news/saudi-aramco-to-lift-gulf-exports-to-60-million-in-september-and-october--reuters-4906922",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-18T09:55:14.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM5G1H0_L.jpg"
-        },
-        {
-          "id": "8480b0d9a30c5e50",
-          "title": "US plans Medicaid most-favored-nation pricing for some drugs in all states, Semafor reports",
-          "url": "https://www.investing.com/news/stock-market-news/us-plans-medicaid-mostfavorednation-pricing-for-some-drugs-in-all-states-semafor-reports-4906921",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-18T09:55:00.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H0SC_L.jpg"
+          "publishedAt": "2026-09-18T10:39:00.000Z",
+          "summary": "Warren Buffett, the investing legend that turned Berkshire Hathaway into an massive conglomerate, has officially stepped aside as chairman after leaving as CEO at the beginning of the year.",
+          "image": "https://images.mktw.net/im-49017786"
         }
       ]
     },
@@ -501,8 +501,38 @@
       "label": "Business",
       "articles": [
         {
+          "id": "2861e44e152f5255",
+          "title": "Is Michael Carrick Fighting For His Job As Manchester United Manager?",
+          "url": "https://www.forbes.com/sites/grahamruthven/2026/09/18/is-michael-carrick-fighting-for-his-job-as-manchester-united-manager/",
+          "source": "Forbes",
+          "sourceUrl": "https://forbes.com",
+          "publishedAt": "2026-09-18T10:05:26.000Z",
+          "summary": "Michael Carrick is under pressure as Manchester United manager after the Old Trafford team's damaging defeats to Brighton and Manchester City.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6aad0c731b97e2bc5abaca95/0x0.jpg"
+        },
+        {
+          "id": "fea4566c527c18ee",
+          "title": "Blue Jays Wife Shares Biggest Issue With Leaving Texas For Canada",
+          "url": "https://www.forbes.com/sites/peterchawaga/2026/09/18/blue-jays-wife-shares-biggest-issue-with-leaving-texas-for-canada/",
+          "source": "Forbes",
+          "sourceUrl": "https://forbes.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "The Toronto Blue Jays’ hottest hitter faces a household obstacle after a trade brought him and his family abroad.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6aabf29a2225a67ec902352f/0x0.jpg?width=960&precrop=1927%2C1084%2Cx623%2Cy11"
+        },
+        {
+          "id": "733b4cc5b929af7c",
+          "title": "How Martinelli’s Turned The Champagne Of Apple Cider Into A $500 Million Family Business",
+          "url": "https://www.forbes.com/sites/chloesorvino/2026/09/18/how-martinellis-turned-the-champagne-of-apple-cider-into-a-500-million-family-business/",
+          "source": "Forbes",
+          "sourceUrl": "https://forbes.com",
+          "publishedAt": "2026-09-18T10:00:00.000Z",
+          "summary": "They came to America seeking a fortune from the California Gold Rush. Instead, they found sweet success in apples and built a business that’s heading toward a fifth generation.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6aac256c6a1c99487efccf60/0x0.jpg?width=960&precrop=1919%2C1079%2Cx0%2Cy0"
+        },
+        {
           "id": "e6339e8f821cae6d",
-          "title": "Court Urged To Block Engraving Of Trump’s Name On Another D.C. Building—The Institute Of Peace",
+          "title": "Court Urged To Block Carving Of Trump’s Name On Another D.C. Building—The Institute Of Peace",
           "url": "https://www.forbes.com/sites/siladityaray/2026/09/18/court-urged-to-block-engraving-of-trumps-name-on-another-dc-building-the-institute-of-peace/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
@@ -519,36 +549,6 @@
           "publishedAt": "2026-09-18T08:43:39.000Z",
           "summary": "Everything you need to know about MobLand Season 2.",
           "image": "https://imageio.forbes.com/specials-images/imageserve/6aacae35d8f27da61446c1f5/0x0.jpg?width=960&precrop=960%2C540%2Cx0%2Cy49"
-        },
-        {
-          "id": "642a35c27be8dfd6",
-          "title": "New ‘Reinforcement Learning For Calibrated Decisions’ Makes AI Headlines But Look Past The Hype",
-          "url": "https://www.forbes.com/sites/lanceeliot/2026/09/18/new-reinforcement-learning-for-calibrated-decisions-makes-ai-headlines-but-look-past-the-hype/",
-          "source": "Forbes",
-          "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-18T07:15:00.000Z",
-          "summary": "Newly announced reinforcement learning with calibrated decisions (RLCD) is mindfully unpacked. An AI Insider analysis and scoop.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/670f01d712e7e9207c8c8cab/0x0.jpg"
-        },
-        {
-          "id": "8424f27ccf1372b6",
-          "title": "Why Europe Border Checks Are Making A (Temporary) Comeback",
-          "url": "https://www.forbes.com/sites/alexledsom/2026/09/18/why-europe-border-checks-are-making-a-temporary-comeback/",
-          "source": "Forbes",
-          "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-18T07:06:57.000Z",
-          "summary": "Several Schengen countries—the area that allows free movement of people within its borders—have reintroduced temporary internal border checks. Here's what to know.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6aaa93bd96674d4ca26903cf/0x0.jpg?width=960"
-        },
-        {
-          "id": "3be0f1b5af3c2a21",
-          "title": "Barbra Streisand Calls Out Kennedy Center Closure, Blames Trump’s ‘Unchecked Ego’",
-          "url": "https://www.forbes.com/sites/siladityaray/2026/09/18/barbra-streisand-calls-out-kennedy-center-closure-blames-trumps-unchecked-ego/",
-          "source": "Forbes",
-          "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-18T06:59:10.000Z",
-          "summary": "The 2008 Kennedy Center honoree said “galling and painful” for her to witness what was happening to the institution amid Trump's threats to demolish the building.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6aacde9c6f2d7f8e1236357f/0x0.jpg?width=960"
         }
       ]
     },
