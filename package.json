@@ -1,0 +1,13 @@
+{
+  "name": "cii-global-morning-brief",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Commercial Investments International, Inc. — Global & Emerging Market Trends daily morning brief.",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

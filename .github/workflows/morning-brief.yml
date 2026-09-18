@@ -1,0 +1,72 @@
+name: Morning Brief — Sync & Deploy
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/news.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest headlines
+        run: npm run fetch-news
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "cii-morning-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data/news.json; then
+            git add data/news.json
+            git commit -m "chore: refresh daily headlines [skip ci]"
+            git push
+          else
+            echo "No headline changes to commit."
+          fi
+
+      - name: Prepare static site
+        run: |
+          mkdir -p _site
+          cp -r index.html assets data _site/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

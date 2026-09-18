@@ -1,0 +1,666 @@
+{
+  "generatedAt": "2026-09-18T09:48:34.630Z",
+  "isSample": true,
+  "categories": {
+    "world": {
+      "label": "World",
+      "articles": [
+        {
+          "id": "02ab1eb85dbfc8b9",
+          "title": "World Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "3c80ee7433d5cdae",
+          "title": "World Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "f9ab0aa6d673f4e8",
+          "title": "World Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "7390d1d26ca20faf",
+          "title": "World Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "c2fc783f96850ff6",
+          "title": "World Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "crypto": {
+      "label": "Crypto",
+      "articles": [
+        {
+          "id": "0ba81e9bd48acec2",
+          "title": "Crypto Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "811051534c48379d",
+          "title": "Crypto Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "12c3498c22964743",
+          "title": "Crypto Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "10cd15a0b2dea72f",
+          "title": "Crypto Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "ef3bd315acfa4872",
+          "title": "Crypto Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "economy": {
+      "label": "Economy",
+      "articles": [
+        {
+          "id": "641296cf64dcdf61",
+          "title": "Economy Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "aaf8d8bed290c370",
+          "title": "Economy Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "72fec9eba9330d2b",
+          "title": "Economy Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "0986aa8a74223faa",
+          "title": "Economy Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "5e855a395239f88a",
+          "title": "Economy Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "politics": {
+      "label": "Politics",
+      "articles": [
+        {
+          "id": "fa9f13f01ba95397",
+          "title": "Politics Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "bd9778b5a8172c62",
+          "title": "Politics Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "aab6ebf92ce9d90c",
+          "title": "Politics Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "506f5fc7429b160d",
+          "title": "Politics Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "2965afc1cefa6acb",
+          "title": "Politics Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "ai": {
+      "label": "AI",
+      "articles": [
+        {
+          "id": "6514044401d0aaa8",
+          "title": "AI Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "fe363103e9500aee",
+          "title": "AI Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "dc2c0d4a1bbebd4e",
+          "title": "AI Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "2c0a052d7aa756de",
+          "title": "AI Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "409417eb6c442705",
+          "title": "AI Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "trends": {
+      "label": "Trends",
+      "articles": [
+        {
+          "id": "91de3bea12598088",
+          "title": "Trends Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "69426e02ce26b7b1",
+          "title": "Trends Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "3b1b4d0113e785a0",
+          "title": "Trends Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "6f009d2f1851a4ac",
+          "title": "Trends Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "1860a5906b65e7cc",
+          "title": "Trends Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "stock-market": {
+      "label": "Stock Market",
+      "articles": [
+        {
+          "id": "97385916f51354ca",
+          "title": "Stock Market Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "cac7accffad9b8b1",
+          "title": "Stock Market Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "bcdd715f38af7a1b",
+          "title": "Stock Market Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "ea3883955091185d",
+          "title": "Stock Market Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "7922f4bef2433f30",
+          "title": "Stock Market Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "marketing": {
+      "label": "Marketing",
+      "articles": [
+        {
+          "id": "352bc9f6c6beed42",
+          "title": "Marketing Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "0c9a0518759e878c",
+          "title": "Marketing Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "9a7eb6cf93fc7074",
+          "title": "Marketing Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "edc088d79a9318cb",
+          "title": "Marketing Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "f38074e65d9ec4ea",
+          "title": "Marketing Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "technology": {
+      "label": "Technology",
+      "articles": [
+        {
+          "id": "02a3ca346435abd6",
+          "title": "Technology Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "a427a0d10892692c",
+          "title": "Technology Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "39115d9b165d7ad8",
+          "title": "Technology Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "0947bc0e97943e73",
+          "title": "Technology Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "2fe186ad42f9b445",
+          "title": "Technology Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "articles": [
+        {
+          "id": "bb99a6b006e5e42f",
+          "title": "Business Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "a06a980de3ff5afe",
+          "title": "Business Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "1b2c45370942fa4d",
+          "title": "Business Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "6723ae8a9a78a544",
+          "title": "Business Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "b3fdfd19ba43f161",
+          "title": "Business Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "fashion-men": {
+      "label": "Fashion — Men",
+      "articles": [
+        {
+          "id": "3a9a076559a7b494",
+          "title": "Fashion — Men Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "8242bbe2d1c4229b",
+          "title": "Fashion — Men Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "2a6e4a5784578bc3",
+          "title": "Fashion — Men Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "cbaa8191378ec2a7",
+          "title": "Fashion — Men Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "4f1e77defbd1edbc",
+          "title": "Fashion — Men Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    },
+    "architecture": {
+      "label": "Architecture",
+      "articles": [
+        {
+          "id": "d4a5f8d5df428f92",
+          "title": "Architecture Brief — Preview Story 1",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T09:48:34.630Z",
+          "summary": "Coverage syncs automatically each morning from leading global publishers once the daily brief workflow runs.",
+          "image": null
+        },
+        {
+          "id": "fd71aa940195edc7",
+          "title": "Architecture Brief — Preview Story 2",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T06:48:34.630Z",
+          "summary": "This preview card will be replaced by a live headline, summary, and source link on the next scheduled sync.",
+          "image": null
+        },
+        {
+          "id": "f29b6e9613fd03c9",
+          "title": "Architecture Brief — Preview Story 3",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T03:48:34.630Z",
+          "summary": "Real-time articles populate this section from vetted international news and trade sources after the first automated fetch.",
+          "image": null
+        },
+        {
+          "id": "98dccf2e8f62d217",
+          "title": "Architecture Brief — Preview Story 4",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-18T00:48:34.630Z",
+          "summary": "Placeholder content — connect the daily sync (GitHub Actions) to pull today's top five stories for this section.",
+          "image": null
+        },
+        {
+          "id": "07634c33b9514ed9",
+          "title": "Architecture Brief — Preview Story 5",
+          "url": "#",
+          "source": "Preview Feed",
+          "sourceUrl": "",
+          "publishedAt": "2026-09-17T21:48:34.630Z",
+          "summary": "Once live, this card will show the original publisher's headline, a short summary, and a direct link to the source.",
+          "image": null
+        }
+      ]
+    }
+  }
+}
