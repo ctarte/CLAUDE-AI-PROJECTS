@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-09-29T10:07:24.822Z",
+  "generatedAt": "2026-09-30T10:07:55.513Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "094a5f129ace0f05",
-          "title": "Malaysia begins sending back Rohingya refugees despite safety warnings",
-          "url": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-09-29T09:27:06.000Z",
-          "summary": "About 1,500 refugees are to be sent back in the first phase, despite criticism from rights groups.",
-          "image": null
-        },
-        {
-          "id": "6d892689e00ed23e",
-          "title": "Argentina’s Milei threatens legal action over Falklands oil project",
-          "url": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-09-29T09:17:22.000Z",
-          "summary": "Argentina gives UK two weeks to cease operations or face maritime court action.",
-          "image": null
-        },
-        {
-          "id": "fb9c5ac6a0fce181",
-          "title": "OpenAI scraps rollout of new model over safety concerns",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "id": "e16fa8268a8f2d19",
+          "title": "Israel-bound flight diverted after fight between pilots",
+          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-09-29T09:14:13.000Z",
-          "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg"
+          "publishedAt": "2026-09-30T09:54:19.000Z",
+          "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e314/live/6923d020-bca0-11f1-bd53-81692d9847e1.jpg"
         },
         {
-          "id": "56f62aebf85ba524",
-          "title": "US’s Marco Rubio says UK airbase incident involved ‘foreign actor’",
-          "url": "https://www.aljazeera.com/news/2026/9/29/uss-marco-rubio-says-uk-airbase-incident-involved-foreign-actor?traffic_source=rss",
+          "id": "f0c36a9cc73af85b",
+          "title": "‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation",
+          "url": "https://www.aljazeera.com/news/2026/9/30/i-wanted-to-live-a-ukrainian-orphans-journey-through-russian-occupation?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-09-29T09:12:37.000Z",
-          "summary": "Washington's top diplomat calls the suspected plot 'a very serious situation' after five were arrested over the weekend.",
+          "publishedAt": "2026-09-30T09:54:07.000Z",
+          "summary": "Denys Kostev says he was forcibly transferred in 2022 and coerced into pro-Russian campaigns before finally escaping.",
           "image": null
         },
         {
-          "id": "b5127fbac6c7d90e",
-          "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-          "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-          "source": "NPR Topics: World",
-          "sourceUrl": "https://feeds.npr.org",
-          "publishedAt": "2026-09-29T09:00:00.000Z",
-          "summary": "Turkey's bid for regional influence comes at a time when the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel, and continues with the stalemated,…",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5634x3756+0+0/resize/5634x3756!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F70%2F23eeab59427cb164218e9b77c20b%2Fap26265582716871.jpg"
+          "id": "84ab4c1f0a57e6e7",
+          "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
+          "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-09-30T09:49:53.000Z",
+          "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ff/live/eb5c7d60-bcac-11f1-a3e9-bbda6f9b9e25.jpg"
+        },
+        {
+          "id": "21627df08707321e",
+          "title": "Photos: A journalist is crowned king in Uganda",
+          "url": "https://www.aljazeera.com/gallery/2026/9/30/photos-a-journalist-is-crowned-king-in-uganda?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-09-30T09:39:00.000Z",
+          "summary": "The death of King Oyo Nyimba in August triggered widespread grief and a succession dispute in Uganda’s Tooro Kingdom.",
+          "image": null
+        },
+        {
+          "id": "a365546dd6a0bc52",
+          "title": "UK‘s PM Burnham sets out plans to reshape public services",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/uks-pm-burnham-sets-out-plans-to-reshape-public-services?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-09-30T08:48:59.000Z",
+          "summary": "UK's PM Andy Burnham is promising a major improvement to public services including social care, housing and energy.",
+          "image": null
         }
       ]
     },
@@ -61,54 +61,54 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "60062f447904c133",
-          "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-          "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph.com News",
-          "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-09-29T09:50:22.000Z",
-          "summary": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png"
-        },
-        {
-          "id": "fe57c6c927883ebf",
-          "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
-          "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+          "id": "52f64280b7a3ea3d",
+          "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+          "url": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-09-29T09:45:31.000Z",
-          "summary": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+          "publishedAt": "2026-09-30T08:50:22.000Z",
+          "summary": "The ChatGPT maker is pursuing fresh funding after delaying its public listing, while expanding its AI tools despite mounting safety concerns.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
         },
         {
-          "id": "de1f4418d6bc7513",
-          "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-          "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
-          "source": "Decrypt",
-          "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-09-29T09:38:57.000Z",
-          "summary": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg"
-        },
-        {
-          "id": "8ac18adce8c1b5b4",
-          "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-          "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+          "id": "2115bb8c5ec0b7b6",
+          "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+          "url": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-09-29T09:06:11.000Z",
-          "summary": "Why yields are rising matters more for bitcoin than how high they go.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/856a0977f5be04928578ad232bbb18d29da95a30-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+          "publishedAt": "2026-09-30T08:27:00.000Z",
+          "summary": "The new Zakura nodes caught up with the network in just over six hours in Gemini’s deployments. The crypto exchange’s previous software took close to a day.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c9b66992e0b49d88c5e43c27ec3774ec16684fd-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
         },
         {
-          "id": "7f557d56985d547c",
-          "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
-          "url": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "id": "bd73d8e9cd29a16e",
+          "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+          "url": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "sourceUrl": "https://coindesk.com",
+          "publishedAt": "2026-09-30T08:25:43.000Z",
+          "summary": "Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        },
+        {
+          "id": "d6f4d6265656a826",
+          "title": "Bitcoin bulls have one price level to defend",
+          "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "sourceUrl": "https://coindesk.com",
+          "publishedAt": "2026-09-30T07:04:41.000Z",
+          "summary": "Here's the level analysts are watching and what a break below it could mean for the bulls.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+        },
+        {
+          "id": "57857bb748953e2d",
+          "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
+          "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-09-29T08:51:25.000Z",
-          "summary": "BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2R6QTGGW0GWR2RKYMQNCC/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings.jpg"
+          "publishedAt": "2026-09-30T07:00:00.000Z",
+          "summary": "AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers the euro, Swiss franc and Swedish krona.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q01DCHR1M2F18EADTH89EF/stablecoin11.png"
         }
       ]
     },
@@ -171,54 +171,54 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "85c0c3be2e64f3a9",
-          "title": "Tariff challengers take Trump back to court: 'Rinse and repeat'",
-          "url": "https://thehill.com/homenews/administration/6116146-trump-tariffs-section-301-court-battle/",
+          "id": "9a642f06ad2f04f0",
+          "title": "Trump finds close ally in Nvidia’s Huang at key AI juncture",
+          "url": "https://thehill.com/policy/technology/6119187-nvidia-ceo-trump-ai-ally/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-09-29T10:00:00.000Z",
-          "summary": "President Trump hopes the third time will be the charm as his latest round of tariffs heads to court this week. The Supreme Court already ruled Trump can’t invoke an emergency statute to impose his…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Supreme_Schonfeld_AP_RodLamkeyJr.jpg?w=900"
+          "publishedAt": "2026-09-30T10:00:00.000Z",
+          "summary": "Nvidia CEO Jensen Huang is becoming one of President Trump’s fiercest allies on AI at a critical juncture for the industry. In the face of mounting concerns over the future of AI, Huang is one of the…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26272745775511-e1790716577948.jpg?w=900"
         },
         {
-          "id": "a0775b6814febdf5",
-          "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-          "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
+          "id": "f977ec93c0fc5266",
+          "title": "Burnham to fight next election on pledge to change voting system",
+          "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-09-29T09:10:03.000Z",
-          "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/f2dc70f0-bbd4-11f1-9dd5-e33ded893e86.png"
+          "publishedAt": "2026-09-30T09:45:32.000Z",
+          "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36a/live/dff20db0-bc1a-11f1-b84f-b5367b64d530.jpg"
         },
         {
-          "id": "5efd19b437405b5d",
-          "title": "Should Andy Burnham call an early general election?",
-          "url": "https://www.bbc.co.uk/news/videos/c9rk3ger1gjzo?at_medium=RSS&at_campaign=rss",
+          "id": "c515b49eeedfaf30",
+          "title": "Household energy bills forecast to see biggest rise in four years",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-09-29T08:58:37.000Z",
-          "summary": "Young delegates at the Labour conference in Liverpool air their views.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ea/live/68ce4e70-bbe2-11f1-bc1f-3f186ca4140c.jpg"
+          "publishedAt": "2026-09-30T09:08:22.000Z",
+          "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c4/live/78692c20-bc9a-11f1-a430-4d16ee157c41.jpg"
         },
         {
-          "id": "b0f510478d390152",
-          "title": "Lucy Powell: Labour committed to pension triple lock",
-          "url": "https://www.bbc.co.uk/news/videos/c8r4vg6lz9xdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-09-29T08:09:23.000Z",
-          "summary": "The Education Secretary Lucy Powell reaffirmed Labour's manifesto pledge to maintain the triple lock.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e7/live/10263f50-bbdb-11f1-a430-4d16ee157c41.jpg"
+          "id": "8317cf0b91b29ca7",
+          "title": "Jon Ossoff’s hosting fundraisers — and they’re not all for his reelection campaign",
+          "url": "https://www.politico.com/news/2026/09/30/jon-ossoff-fundraiser-georgia-democratic-party-01098615",
+          "source": "Politics",
+          "sourceUrl": "https://rss.politico.com",
+          "publishedAt": "2026-09-30T09:00:00.000Z",
+          "summary": "The Democratic senator is spending significant attention on boosting the Georgia Democratic Party and its coordinated campaign in the final stretch of the midterms.",
+          "image": "https://static.politico.com/1e/be/fbe0ee914e45a6de19dbb8935eb9/election-2-26-georgia-13752.jpg"
         },
         {
-          "id": "82b2e87e5f1622c4",
-          "title": "Labour supporters on how Britain could be better",
-          "url": "https://www.bbc.co.uk/news/videos/cmvgyxzy0290o?at_medium=RSS&at_campaign=rss",
+          "id": "3fb2ac5d5733e415",
+          "title": "Move to rejoin EU among options for UK, says Burnham",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-09-29T07:23:45.000Z",
-          "summary": "Young Labour supporters at their party conference in Liverpool give their views on how Britain could be better.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/50d4fcc0-bb41-11f1-a430-4d16ee157c41.jpg"
+          "publishedAt": "2026-09-30T08:49:47.000Z",
+          "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a47b/live/8c3f0cc0-bc94-11f1-aea9-9d551b09264d.jpg"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "label": "AI",
       "articles": [
         {
-          "id": "a54b0644eac77f89",
-          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "id": "309d870a65d838d8",
+          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+          "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-29T05:13:43.000Z",
-          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+          "publishedAt": "2026-09-29T23:30:55.000Z",
+          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
           "image": null
         },
         {
-          "id": "b9ef252a9e2dfa56",
-          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "id": "1b1d0d455584ee23",
+          "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-29T00:30:00.000Z",
-          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "publishedAt": "2026-09-29T22:20:59.000Z",
+          "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
           "image": null
         },
         {
-          "id": "220dea2c55f48506",
-          "title": "OpenAI reportedly ditches model over safety concerns",
-          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+          "id": "6421ca855574f79a",
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-28T23:39:20.000Z",
-          "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+          "publishedAt": "2026-09-29T20:15:47.000Z",
+          "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
           "image": null
         },
         {
-          "id": "43cfd2e61fc0c201",
-          "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-          "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-          "source": "MIT Technology Review",
-          "sourceUrl": "https://technologyreview.com",
-          "publishedAt": "2026-09-28T22:17:07.000Z",
-          "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and…",
+          "id": "4a7426e1fdc4d2d4",
+          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-09-29T19:52:37.000Z",
+          "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
           "image": null
         },
         {
-          "id": "a84e841eac253bfe",
-          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+          "id": "447bf1aab0079f2b",
+          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-28T21:29:18.000Z",
-          "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+          "publishedAt": "2026-09-29T18:35:00.000Z",
+          "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
           "image": null
         }
       ]
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "85c0309c3302d5a4",
-          "title": "How to look like a space company without space company clichés",
-          "url": "https://www.fastcompany.com/91614321/turion-space-rebrand",
+          "id": "f68072f5a81b37f8",
+          "title": "Trump’s AI Force could make AI’s risks worse. Here’s what to do instead",
+          "url": "https://www.fastcompany.com/91614276/trumps-ai-force-could-risks-worse",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-29T09:30:00.000Z",
-          "summary": "A lot has changed at Turion Space since it was founded in 2020. Originally focused on space debris removal, the Irvine, California-based company has since transformed into a space infrastructure…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/q_auto,c_fit/wp-cms-2/2026/09/g-2-91614321-turion-rebrand.gif"
+          "publishedAt": "2026-09-30T09:30:00.000Z",
+          "summary": "Artificial intelligence dominated the opening of the UN General Assembly in New York on September 22, 2026. Ahead of the meeting, 20 nations released a statement requesting “human direction,…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91614276-donald-trump-AI-task-force.jpg"
         },
         {
-          "id": "4ded68600546d446",
-          "title": "The $100 billion comeback of the American tween",
-          "url": "https://www.fastcompany.com/91610365/the-100-billion-comeback-of-the-american-tween",
+          "id": "c972a395debbb0cf",
+          "title": "Why McDonald’s, Dunkin’, Starbucks, and other chains keep making their rewards programs worse—and getting away with it",
+          "url": "https://www.fastcompany.com/91607721/mcdonalds-dunkin-starbucks-other-chains-rewards-programs-worse-getting-away-with-it-restaurant-loyalty",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-29T09:00:00.000Z",
-          "summary": "I remember stepping into the mall as an 11-year-old with a sequined purse stuffed with pocket money. I’d pop into Claire’s to buy some watermelon Lip Smackers, then hit up Limited Too for baby Ts.…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91610365-return-of-the-tween.jpg"
+          "publishedAt": "2026-09-30T09:00:00.000Z",
+          "summary": "Aaron Braun had decided to play the long game with his Dunkin’ Rewards points. For five years, his employer, an IT company that kept him on the road, covered his coffee and breakfast via a company…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91607721-restaurant-point-system.jpg"
         },
         {
-          "id": "759ee701db762033",
-          "title": "This hydrogen-powered drone maker believes lasers could be the next big airborne weapon",
-          "url": "https://www.fastcompany.com/91614176/this-hydrogen-powered-drone-maker-thinks-lasers-could-be-the-next-big-airborne-weapon",
+          "id": "68f568b204924cbe",
+          "title": "Forget flexibility. Working parents need predictability",
+          "url": "https://www.fastcompany.com/91612775/forget-flexibility-working-parents-need-predictability",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-29T09:00:00.000Z",
-          "summary": "This article is republished with permission from Laser Wars, a newsletter about military laser weapons and other futuristic defense technology. On a modern battlefield defined by the ever-expanding…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91614176-this-hydrogen-powered-drone-maker-thinks-lasers-could-be-the-next-big-airborne-weapon.jpg"
+          "publishedAt": "2026-09-30T09:00:00.000Z",
+          "summary": "For years, we have believed that flexibility is the key to survival for working parents. We advocate for flexible hours, flexible PTO, flexible locations. And the ability to log on from the…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612775-parents-need-predictability.jpg"
         },
         {
-          "id": "983cbe25ae42d8fe",
-          "title": "How to choose between ChatGPT’s ‘chat’ and ‘work’ modes",
-          "url": "https://www.fastcompany.com/91613573/chatgpt-chat-work-modes-how-to-choose",
+          "id": "4c9b20d6e0ae5b4e",
+          "title": "Trump’s new AI chatbot is surprisingly good. But it doesn’t fix government",
+          "url": "https://www.fastcompany.com/91615011/trumps-new-ai-chatbot-is-surprisingly-good-but-it-doesnt-fix-government",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-29T08:30:00.000Z",
-          "summary": "In the parlance of tech companies, I’m a “heavy user” of AI chatbots like ChatGPT and Claude. How much do I use these tools? Let’s put it this way: If ChatGPT goes down for a few hours, my…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91613573how-to-choose-between-chatgpts-chat-and-work-modes.jpg"
+          "publishedAt": "2026-09-30T09:00:00.000Z",
+          "summary": "If there are two things Donald Trump loves more than anything in life, it’s participating in elaborate signing ceremonies and artificial intelligence—sorry, superintelligence. And on September 29,…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91615011-trumps-new-ai-chatbot-is-surprisingly-good-but-it-doesnt-fix-government.jpg"
         },
         {
-          "id": "82d806cd6c313a1a",
-          "title": "Why even the smartest people on the planet can think really dumb things",
-          "url": "https://www.fastcompany.com/91611128/smartest-people-think-really-dumb-things",
+          "id": "8987e307fda60f2f",
+          "title": "New research reveals what coffee really does to your gut—and it’s surprising",
+          "url": "https://www.fastcompany.com/91615041/new-research-reveals-what-coffee-really-does-to-your-gut-brain-science",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-09-29T08:00:00.000Z",
-          "summary": "Not too long ago, I listened to tech investor Jason Calacanis on a podcast. He confidently made a number of strange assertions, including that Russia’s invasion of Ukraine could easily be resolved…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91611128-smart-people-dumb-things.jpg"
+          "publishedAt": "2026-09-30T09:00:00.000Z",
+          "summary": "Is coffee actually good for you? Some experts tout its health benefits, such as lowering the risk of type 2 diabetes and Alzheimer’s disease. At the same time, excessive caffeine consumption has been…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91615041-coffee-gut.jpg"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "422a4416159f7094",
-          "title": "Close Brothers FY26 slides: cost cuts deliver as profit falls 17%",
-          "url": "https://www.investing.com/news/company-news/close-brothers-fy26-slides-cost-cuts-deliver-as-profit-falls-17-93CH-4921936",
+          "id": "cb5c548dc74b2409",
+          "title": "Earnings call transcript: SkiStar Q4 2026 stock rises on record profit",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-skistar-q4-2026-stock-rises-on-record-profit-93CH-4924464",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-29T10:02:34.000Z",
+          "publishedAt": "2026-09-30T09:44:44.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXMPEM3G1AZ_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
         },
         {
-          "id": "d5c3f18c39b08763",
-          "title": "Hartree Partners buys $604k of Hudson Technologies stock",
-          "url": "https://www.investing.com/news/insider-trading-news/hartree-partners-buys-604k-of-hudson-technologies-stock-93CH-4921933",
+          "id": "7cbb11e07efa91f8",
+          "title": "DFI Retail to acquire Maxim’s Starbucks business for $340m",
+          "url": "https://www.investing.com/news/company-news/dfi-retail-to-acquire-maxims-starbucks-business-for-340m-93CH-4924463",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-29T10:00:59.000Z",
+          "publishedAt": "2026-09-30T09:44:43.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/starbucks_2_M_1440048864.jpg"
         },
         {
-          "id": "f53c270e71b4edcf",
-          "title": "US stock futures flat as tech bounce meets crude-driven caution",
-          "url": "https://www.investing.com/news/economy-news/us-stock-futures-flat-as-tech-bounce-meets-crudedriven-caution-4921932",
+          "id": "4ea8d936e15b3fd2",
+          "title": "Japanese economic panel members emphasise BOJ’s independence",
+          "url": "https://www.investing.com/news/economy-news/japanese-economic-panel-members-emphasise-bojs-independence-4924462",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-29T10:00:57.000Z",
+          "publishedAt": "2026-09-30T09:42:50.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8S0PO_L.jpg"
+          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8T0P0_L.jpg"
         },
         {
-          "id": "bcb16290ad998495",
-          "title": "Exclusive-Anthropic leaders to control AI lab via ’Founder LLC’ to promote public good over market forces",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-leaders-to-control-ai-lab-via-founder-llc-to-promote-public-good-over-market-forces-4921448",
+          "id": "f5c8a7d1337069db",
+          "title": "Bank of England sees growing risk that dangers from AI and debt will materialise",
+          "url": "https://www.investing.com/news/stock-market-news/bank-of-england-sees-growing-risk-that-dangers-from-ai-and-debt-will-materialise-4924457",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-29T10:00:38.000Z",
+          "publishedAt": "2026-09-30T09:42:32.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8S00G_L.jpg"
+          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8T0OL_L.jpg"
         },
         {
-          "id": "875658cc58e1b6be",
-          "title": "Why is Bloomin’ Brands stock rallying today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-bloomin-brands-stock-rallying-today-93CH-4921927",
+          "id": "f77a82ece7d92720",
+          "title": "Gold on pace for monthly drop as U.S. inflation data looms",
+          "url": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-09-29T09:59:12.000Z",
+          "publishedAt": "2026-09-30T09:42:13.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+          "image": "https://content-media.investing.com/news/LYNXMPEA660DP_M.jpg"
         }
       ]
     },
@@ -391,54 +391,54 @@
       "label": "Marketing",
       "articles": [
         {
-          "id": "907bef96419ea246",
-          "title": "DoorDash doubles down on WPP, naming agency global media partner",
-          "url": "https://www.marketingdive.com/news/doordash-doubles-down-on-wpp-naming-agency-global-media-partner/831473/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-09-28T15:00:00.000Z",
-          "summary": "WPP continues to succeed in deepening relationships with existing clients following a similar win with Estée Lauder and scoring Wendy’s U.S. media.",
-          "image": null
+          "id": "1739abfaef938a7c",
+          "title": "Profound vs. Athena AI for AEO: How the tools compare",
+          "url": "https://blog.hubspot.com/marketing/profound-vs-athenahq",
+          "source": "Marketing",
+          "sourceUrl": "https://blog.hubspot.com",
+          "publishedAt": "2026-09-29T17:00:02.000Z",
+          "summary": "If you’ve searched “Profound versus Athena AI for AEO,” you’ve probably already hit a wall: every comparison you find is written by a competitor, an affiliate, or the vendors themselves.",
+          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
         },
         {
-          "id": "23181cf223650043",
-          "title": "Twisted Tea dons camo for collab campaign as brand faces headwinds",
-          "url": "https://www.marketingdive.com/news/twisted-tea-dons-camo-for-collab-campaign-as-brand-faces-headwinds/831472/",
+          "id": "9df754e3722c8f32",
+          "title": "How Thorne’s brand platform led to a $3.8B P&G deal — and what’s next",
+          "url": "https://www.marketingdive.com/news/how-thornes-brand-platform-led-to-a-38b-pg-deal-and-whats-next/831494/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-09-28T14:46:00.000Z",
-          "summary": "The fall-focused effort taps into cultural trends around camo fashion and arrives as a new CMO prepares to join parent company Boston Beer.",
-          "image": "https://imgproxy.divecdn.com/_ucjtlLVGqrA_EBRLuWt9h-hPyuM519WUTp1iqRlS-Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90d2lzdGVkLXRlYS1yZWFsdHJlZS5wbmc=.webp"
+          "publishedAt": "2026-09-29T17:00:00.000Z",
+          "summary": "Chief Growth Officer Mary Beech details how work with brand consultancy Redscout turned consumer insights into campaigns and a communication style.",
+          "image": "https://imgproxy.divecdn.com/qO-CmzOcvfegkB5_PdGiYec8n6qWteRsQKmvcTZN7Zc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMi10aG9ybmUuanBn.webp"
         },
         {
-          "id": "a158679d7c646e47",
-          "title": "Dave & Buster’s shakes up agencies amid bid to rebuild brand relevance",
-          "url": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
+          "id": "f6c6c0120129bcff",
+          "title": "NHL taps Adobe as creative, marketing and AI partner",
+          "url": "https://www.marketingdive.com/news/nhl-taps-adobe-as-creative-marketing-and-ai-partner/831601/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-09-28T14:10:00.000Z",
-          "summary": "Gut and Mediaplus are joining the chain’s roster to develop more distinctive marketing and better connect national scale to local activities.",
-          "image": "https://imgproxy.divecdn.com/QTP-55M4nGPOvzxOcTEX-su1AxUBJCr-f4_BLZUy5FE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5NTQxMTgzLmpwZw==.webp"
+          "publishedAt": "2026-09-29T16:30:00.000Z",
+          "summary": "The partnership follows a surge in cultural relevancy for the league in the wake of the Winter Olympics and popular shows such as “Heated Rivalry.”",
+          "image": "https://imgproxy.divecdn.com/C9PExzHFKxfTr6ml-mYmi45NEEKoHUBt9aCrIpZ1amw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MTk2ODE2MTYuanBn.webp"
         },
         {
-          "id": "570c976490cc0ba9",
-          "title": "E.l.f. jams to second music album under entertainment marketing arm",
-          "url": "https://www.marketingdive.com/news/elf-jams-to-second-music-album-under-entertainment-marketing-arm/831453/",
+          "id": "27750c61cffd6576",
+          "title": "CMOs must rethink entry-level talent as AI alters marketing needs: Gartner",
+          "url": "https://www.marketingdive.com/news/cmos-must-rethink-entry-level-talent-as-ai-alters-marketing-needs-gartner/831604/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-09-28T13:55:00.000Z",
-          "summary": "“Mirror Mix” features seven rising artists and will be promoted through a partnership with lyrics platform Genius around its Open Mic content series.",
-          "image": "https://imgproxy.divecdn.com/JiR9wfEqtbTEzng9FLzRkYSeVyppu-VTOqUpgfMqN_w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS84Mjh4NDY2XzEud2VicA==.webp"
+          "publishedAt": "2026-09-29T14:37:00.000Z",
+          "summary": "Many marketers will be able to eliminate bottom-rung roles by 2030, but the researcher recommends handing new hires greater responsibility instead.",
+          "image": "https://imgproxy.divecdn.com/9IAK6O9gYs4a9qGbcZrxgOmXWBVGZ9fr_CQ0Tke4YmE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk1NzY5OTE1LmpwZw==.webp"
         },
         {
-          "id": "600ee697d4f2eebd",
-          "title": "Subway’s CMO on finding room to grow between competitors in QSR",
-          "url": "https://www.marketingdive.com/news/subways-cmo-on-finding-room-to-grow-between-competitors-in-qsr/831341/",
+          "id": "65aebd5da9fabe39",
+          "title": "How Amazon is streamlining ad buys across multiple formats with AI",
+          "url": "https://www.marketingdive.com/news/how-amazon-is-streamlining-ad-buys-across-multiple-formats-with-ai/831492/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-09-28T11:30:00.000Z",
-          "summary": "“The challenges are real, which is why we're taking such a big swing now,” Jeff Klein said of the chain’s new brand platform from Martin.",
-          "image": "https://imgproxy.divecdn.com/21JaRCfbGcsI7Cky5o_SAqtHFTELI2P8GMt99NIcw48/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TVUJXQVktT1JMQU5ETy0xNTIuanBn.webp"
+          "publishedAt": "2026-09-29T13:00:00.000Z",
+          "summary": "Amazon Ads executive Kelly MacLean walks through advances announced today that promise to simplify how marketers work with the platform.",
+          "image": "https://imgproxy.divecdn.com/XsWJTMBwBYJZ8E0FVnhCV00iF1Pvew_iKHC0o-UKnG4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hbWF6b24tdXBmcm9udC0yMDI2LkpQRw==.webp"
         }
       ]
     },
@@ -446,54 +446,54 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "875e29a81c0fba12",
-          "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-          "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+          "id": "66cf3fca4ff1585e",
+          "title": "Apple Pay finally launches in India after years on the sidelines",
+          "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-29T10:00:00.000Z",
-          "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+          "publishedAt": "2026-09-30T04:08:00.000Z",
+          "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
           "image": null
         },
         {
-          "id": "98e0e5b7c67da4a6",
-          "title": "Your car’s data privacy problems are worse than you think",
-          "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+          "id": "1eb6183d721b63e0",
+          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-09-29T10:00:00.000Z",
-          "summary": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive,…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2247409540.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-09-30T00:19:13.000Z",
+          "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "ec49bd497dc63724",
-          "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-          "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+          "id": "309d870a65d838d8",
+          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+          "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-29T09:00:00.000Z",
-          "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+          "publishedAt": "2026-09-29T23:30:55.000Z",
+          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
           "image": null
         },
         {
-          "id": "a54b0644eac77f89",
-          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-09-29T05:13:43.000Z",
-          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-          "image": null
+          "id": "0205a3f4941d64d9",
+          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+          "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+          "source": "Ars Technica",
+          "sourceUrl": "https://feeds.arstechnica.com",
+          "publishedAt": "2026-09-29T22:30:37.000Z",
+          "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg"
         },
         {
-          "id": "49c8b8118427610b",
-          "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-          "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+          "id": "719d3195b24b8f32",
+          "title": "Trump orders US government to call AI ‘Super Intelligence’",
+          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-09-29T01:00:00.000Z",
-          "summary": "The Headphone 1 Pro flagship headphones keep Nothing’s aesthetic while adding some surprises. | Photo: John Higgins / The Verge Nothing has been on a bit of an audio tear this year, releasing the…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-09-29T22:25:45.000Z",
+          "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         }
       ]
     },
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "2dd3028a2ce88169",
-          "title": "Tyson Fury Willing To Fight The 'Monster' If Anthony Joshua Pulls Out",
-          "url": "https://www.forbes.com/sites/brianmazique/2026/09/29/tyson-fury-willing-to-fight-the-monster-if-anthony-joshua-pulls-out/",
-          "source": "Forbes",
-          "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-29T08:19:13.000Z",
-          "summary": "Tyson Fury says David Benavidez is an option if Anthony Joshua misses their Dec. 11 Cardiff date. Benavidez has already agreed to face Jai Opetaia on May 5.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6abb73ff570de1a69a384ed5/0x0.jpg?width=960&precrop=2796%2C1573%2Cx0%2Cy144"
+          "id": "1167c52032471f3e",
+          "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+          "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+          "source": "Business News",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-09-30T09:45:01.000Z",
+          "summary": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
+          "image": null
         },
         {
-          "id": "d7582df7b9687f41",
-          "title": "Canelo Alvarez Says His Next Opponent's Style Is 'Too Simple'",
-          "url": "https://www.forbes.com/sites/brianmazique/2026/09/29/canelo-alvarez-says-his-next-opponents-style-is-too-simple/",
+          "id": "1f40b377b61d3a84",
+          "title": "International Podcast Day Celebrates Podcasting’s Growing Global Influence",
+          "url": "https://www.forbes.com/sites/frankracioppi/2026/09/30/international-podcast-day-celebrates-podcastings-growing-global-influence/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-29T07:27:34.000Z",
-          "summary": "anelo Alvarez says Christian Mbilli's style is too simple ahead of their Oct. 31 title fight. Mbilli is 29-0-1 and holds the WBC super middleweight belt.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6abb67f4a4c572f0d02979f9/0x0.jpg?width=960&precrop=2635%2C1482%2Cx867%2Cy381"
+          "publishedAt": "2026-09-30T09:00:00.000Z",
+          "summary": "The industry celebrates its reach and innovation annually on September 30th with International Podcast Day.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a97f11374748b4d43f0afa6/0x0.jpg"
         },
         {
-          "id": "0ef4b23ed586a9a6",
-          "title": "Independent Certification For AI Trustworthiness Makes Important Headway At DTC And Harvard BKC Workshop",
-          "url": "https://www.forbes.com/sites/lanceeliot/2026/09/29/independent-certification-for-ai-trustworthiness-makes-important-headway-at-dtc-and-harvard-bkc-workshop/",
+          "id": "c11a7ab49102a6fd",
+          "title": "Premier League Cult Hero Makes His Boxing Debut Against UK’s ‘Hardest Man’",
+          "url": "https://www.forbes.com/sites/brianmazique/2026/09/30/premier-league-cult-hero-makes-his-boxing-debut-against-uks-hardest-man/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-29T07:14:00.000Z",
-          "summary": "A new effort to devise an AI trustworthy certification deserves rapt attention. DTC and Harvard BKC convened an AI Trust Summit. An AI insider analysis and scoop.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/68719bc5ef85ab7c3009cda4/0x0.jpg?width=960&precrop=3241%2C2160%2Cx137%2Cy0"
+          "publishedAt": "2026-09-30T05:54:43.000Z",
+          "summary": "James Collins makes his boxing debut against Big Stacks on Oct. 10 at the Copper Box Arena in London. Date, venue, card and what to know.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6abca3a183bcf1bfe1b2177e/0x0.jpg?width=960&precrop=2190%2C1231%2Cx0%2Cy0"
         },
         {
-          "id": "9cb8167a035d4acd",
-          "title": "How To Tell If Meat Is Safe To Eat With 167,639 Pounds Being Recalled",
-          "url": "https://www.forbes.com/sites/brucelee/2026/09/29/how-to-tell-if-meat-is-safe-to-eat-with-167639-pounds-being-recalled/",
+          "id": "4ed298e5beb2cc16",
+          "title": "Today’s Wordle #1929: Hints, Clues And Answer For Wednesday September 30",
+          "url": "https://www.forbes.com/sites/erikkain/2026/09/30/wordle-hints-clues-answers-wednesday-september-30/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-29T07:05:41.000Z",
-          "summary": "Star Meat Delivery Inc., is recalling 167,639 pounds of beef, pork and goat products due to their bearing false USDA inspection marks. Here's how to check your meat.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6abb5fed28fcd3ad98672ac3/0x0.jpg"
+          "publishedAt": "2026-09-30T05:42:16.000Z",
+          "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?width=960"
         },
         {
-          "id": "86d009de8bd1c8dd",
-          "title": "Former Plastics Salesman Becomes Billionaire As Chip-Cooling Materials Maker’s Shares Soar 719% On Debut",
-          "url": "https://www.forbes.com/sites/ywang/2026/09/29/former-plastics-salesman-becomes-billionaire-as-chip-cooling-materials-makers-shares-soar-719-on-debut/",
+          "id": "c89ac719ea88b005",
+          "title": "NYT Pips Answers And Walkthrough For Wednesday, September 30",
+          "url": "https://www.forbes.com/sites/erikkain/2026/09/30/nyt-pips-answers-and-walkthrough-for-wednesday-september-30/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-09-29T06:35:42.000Z",
-          "summary": "Shenzhen HFC chairman Sun Aixiang, who began his career selling plastics, now has a net worth of $1.7 billion. His brother-in-law, company director Zhao Jianping, has also become a billionaire.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6abb5bb5d59708bf6a360af1/0x0.jpg?width=960"
+          "publishedAt": "2026-09-30T05:34:48.000Z",
+          "summary": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ab58dac7c924a7cc293822f/0x0.jpg?width=960"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "1560ad753c1150bc",
-          "title": "Sony Is Skipping CES 2027 for the First Time in Over Six Decades",
-          "url": "https://hypebeast.com/2026/9/sony-officially-exits-ces-2027-after-60-year-run",
+          "id": "a78fc1cefa743213",
+          "title": "First 'Game of Thrones' Movie 'Aegon’s Conquest' Sets Summer 2029 Release Date",
+          "url": "https://hypebeast.com/2026/9/hbo-game-of-thrones-aegons-conquest-summer-2029-release-date",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-29T09:30:30.000Z",
-          "summary": "Summary Sony officially skips the 2027 Consumer Electronics Show to end a 60-year run at the trade eventThe exit highlights a corporate pivot away from traditional consumer hardware toward…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2Fsony-officially-exits-ces-2027-after-60-year-run-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-09-30T09:22:24.000Z",
+          "summary": "Summary HBO has scheduled its upcoming 'Game of Thrones' feature film 'Aegon's Conquest' for a June 6 2029 theatrical releaseThe movie will be directed by Owen Harris with a screenplay written by…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Fhbo-game-of-thrones-aegons-conquest-summer-2029-release-date-000.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "01df48fed34cbdf9",
-          "title": "Lexus Is Selling Its 67-Foot USD LY 680 Luxury Yacht Internationally for the First Time",
-          "url": "https://hypebeast.com/2026/9/lexus-ly-680-luxury-yacht-expands-to-global-markets",
+          "id": "3f5869861a61ce77",
+          "title": "Erling Haaland's New Nike Phantom 6 Low Elite Only Shows Its True Colors When It Gets Wet",
+          "url": "https://hypebeast.com/2026/9/nike-phantom-6-low-elite-erling-haaland-hq2332-401-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-29T09:00:31.000Z",
-          "summary": "Summary Lexus is expanding sales of its 68-foot luxury yacht to international markets starting in SeptemberThe vessel will make its official overseas debut at the Fort Lauderdale International Boat…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2Flexus-ly-680-luxury-yacht-expands-to-global-markets-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-09-30T09:19:49.000Z",
+          "summary": "Name: Nike Phantom 6 Low Elite \"Erling Haaland\"Colorway: Baltic Blue/Glacier Blue/Blue EclipseSKU: HQ2332-401MSRP: $280 USDRelease Date: October 1Where to Buy: NikeNike is giving Erling Haaland a…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2FftNike-Phantom-6-Low-Elite-Erling-Haaland-HQ2332-401-Release-Info.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "536cc9aa8b0456b3",
-          "title": "Bose Launches Its First Wired Earbuds Since 2015 With Active Noise Cancellation for $99 USD",
-          "url": "https://hypebeast.com/2026/9/bose-noise-cancelling-wired-earbuds-arrive-via-usb-c",
+          "id": "5451eda7524b1d25",
+          "title": "The Nike Moon Shoe OG Blooms With Florals Atop the Original Waffle Sole",
+          "url": "https://hypebeast.com/2026/9/nike-moon-shoe-floral-coconut-milk-iz6169-122-official-images-japan-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-29T08:30:32.000Z",
-          "summary": "Summary Bose returns to wired audio for the first time since 2015 with the $99 Noise Cancelling Wired EarbudsThe plug-and-play USB-C release leverages proprietary QuietControl active noise…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2Fbose-noise-cancelling-wired-earbuds-arrive-via-usb-c-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-09-30T09:19:35.000Z",
+          "summary": "Name: Nike Moon Shoe “Floral/Coconut Milk”Colorway: Coconut Milk/Mosswood Brown/Fennel/Light KhakiSKU: IZ6169-122MSRP: ¥15,730 JPY (approx. $100 USD)Release Date: October 1 (Japan), TBC (Global)Where…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2FftNike-Moon-Shoe-Floral-Coconut-Milk-IZ6169-122-official-images-Japan-Release-Info.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "33a8f38022db55c3",
-          "title": "Birkenstock Taps Cole Bennett to Reimagine the Boston Clog in Wool Felt",
-          "url": "https://hypebeast.com/2026/9/birkenstock-cole-bennett-boston-wooly-moon-buckle-collaboration-release-info",
+          "id": "0ddeb42d8df818ef",
+          "title": "Apple Announces the iPhone Duo Pre-Order Date as Its First Foldable Smartphone Launches October 23",
+          "url": "https://hypebeast.com/2026/9/apple-announces-iphone-duo-pre-order-timeline",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-29T08:16:09.000Z",
-          "summary": "Name: Birkenstock x Cole Bennett Boston Wooly Moon BuckleColorway: WhiteSKU: TBCMSRP: TBCRelease Date: October 1Where to Buy: Cole Bennett, 1774Reconnecting a relationship that spans nearly a decade,…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2Fftbirkenstock-cole-bennett-boston-wooly-moon-buckle-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-09-30T09:19:27.000Z",
+          "summary": "Summary Apple announced the official 'Get ready' pre-order timeline for the highly anticipated iPhone Duo, starting October 12, 2026The brand's first foldable smartphone features a 7.6-inch inner…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Fftapple-announces-iphone-duo-pre-order-timeline.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "30bf88304471454e",
-          "title": "BLACKPINK's JISOO Stars in Debut Salomon Campaign",
-          "url": "https://hypebeast.com/2026/9/blackpink-jisoo-debut-salomon-campaign-xt-6-whisper-4-og-gore-tex-apparel-shoe-fw26-release-info",
+          "id": "fc103de6e0bc819e",
+          "title": "LEGO Unveils Icons 'Dragon Ball: Shenron & Goku' Building Set",
+          "url": "https://hypebeast.com/2026/9/lego-dragon-ball-shenron-goku-set-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-09-29T08:12:17.000Z",
-          "summary": "Summary BLACKPINK member JISOO stars in her first official campaign as Salomon's global brand ambassadorTitled In The Open the campaign explores winter landscapes across Seoul through the brand's…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F29%2Fblackpink-jisoo-debut-salomon-campaign-xt-6-whisper-4-og-gore-tex-apparel-shoe-fw26-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-09-30T09:15:40.000Z",
+          "summary": "Summary LEGO has officially announced the Icons Dragon Ball Shenron & Goku building set tailored for adult fans of the franchiseThe 1,764-piece set features a poseable Eternal Dragon Shenron coiling…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F30%2Flego-dragon-ball-shenron-goku-set-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "94e42e008d70cd9b",
-          "title": "Capri Comfort chair by Piergiorgio Cazzaniga for Andreu World",
-          "url": "https://www.dezeen.com/2026/09/29/capri-comfort-armchairs-piergiorgio-cazzaniga-andreu-world-dezeen-showroom/",
+          "id": "1e821fc2949989ee",
+          "title": "RIBA paid £150,000 to former president Alan Jones to settle legal dispute",
+          "url": "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-09-29T09:30:55.000Z",
-          "summary": "Dezeen Showroom: designer Piergiorgio Cazzaniga and furniture brand Andreu World have added extra cushioning to one of their successful seating designs to make Capri Comfort – a minimalist executive…",
-          "image": "http://static.dezeen.com/uploads/2026/09/capri-comfort-chair-piergiorgio-cazzaniga-andreu-world_dezeen_2364_sq-411x411.jpg"
+          "publishedAt": "2026-09-30T09:00:02.000Z",
+          "summary": "The Royal Institute of British Architects has paid £150,000 to its former president Alan Jones, settling a long-running legal dispute over its handling of his personal information. The £150,000…",
+          "image": "http://static.dezeen.com/uploads/2018/08/alan-jones-riba-president_dezeen_2364_sq-411x411.jpg"
         },
         {
-          "id": "7f77d85fec673e07",
-          "title": "Renovated warehouse becomes permanent home of African Futures Institute in Ghana",
-          "url": "https://www.dezeen.com/2026/09/29/african-futures-institute-headquarters-lesley-lokko-ghana/",
+          "id": "d961f36fe3a9ca5f",
+          "title": "Recyclable Wildflower installation among timber prototypes at BuildFest 2026",
+          "url": "https://www.dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-09-29T09:02:33.000Z",
-          "summary": "A former tile warehouse in Accra, Ghana, has been transformed into the headquarters of the African Futures Institute, an independent architecture school founded by Ghanaian-Scottish architect Lesley…",
-          "image": "http://static.dezeen.com/uploads/2026/09/african-futures-institute-headquarters-lesley-lokko-ghana_dezeen_2364_sq_1-411x411.jpg"
+          "publishedAt": "2026-09-30T07:00:08.000Z",
+          "summary": "A recyclable timber pavilion designed to mimic wildflowers is among the prototypes built by students at BuildFest 2026, shown in this video produced by Dezeen. Designed by students from Lehigh…",
+          "image": "http://static.dezeen.com/uploads/2026/09/wildflower_sq1-411x411.jpg"
         },
         {
-          "id": "0b3f919f35b0f2b9",
-          "title": "City Girls lamps are designed to look like outfits casually thrown together",
-          "url": "https://www.dezeen.com/2026/09/29/city-girls-lamps-london/",
+          "id": "4213307dd1747648",
+          "title": "Snøhetta designs Hong Kong clubhouse with undulating playground and rope-climbing tower",
+          "url": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-09-29T08:00:26.000Z",
-          "summary": "Anonymous London design duo City Girls creates one-off lighting out of reclaimed lace, coat hangers and scale models scavenged from eBay, Facebook Marketplace and the side of the road. City Girls…",
-          "image": "http://static.dezeen.com/uploads/2026/09/city-girls-lamps-london-reclaimed-materials-sq-411x411.jpg"
+          "publishedAt": "2026-09-30T05:00:05.000Z",
+          "summary": "Architecture studio Snøhetta added tunnelling playgrounds to Sky House, the final of four clubhouses that make up its Pavilia Farm residential development in Tai Wai, Hong Kong. Called Sky House, the…",
+          "image": "http://static.dezeen.com/uploads/2026/09/snohetta-sky-house-pavilia-farm-playground-community-centre-hong-kong_dezeen_2364_col_2-1704x2560-1-411x411.jpg"
         },
         {
-          "id": "ad69ccfd8072564c",
-          "title": "Five architecture courses recently featured on Dezeen Courses",
-          "url": "https://www.dezeen.com/2026/09/29/five-architecture-courses-dezeen-courses/",
+          "id": "9e2ad717651595eb",
+          "title": "Norman Foster to give keynote speech at Dezeen Awards 2026 party",
+          "url": "https://www.dezeen.com/2026/09/30/norman-foster-dezeen-awards-2026-party-keynote/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-09-29T07:00:25.000Z",
-          "summary": "Dezeen Courses: for our latest roundup, we've selected five architecture-related courses recently featured on Dezeen Courses. This roundup includes programmes that enhance various skills, from…",
-          "image": "http://static.dezeen.com/uploads/2026/09/Dezeen-architecture-courses_dezeen_2364_col_0-411x411.jpg"
+          "publishedAt": "2026-09-30T04:00:10.000Z",
+          "summary": "British architect Norman Foster is set to deliver a keynote speech at this year's Dezeen Awards party, which will take place at the Royal Opera House in London on 16 November. In his address, Foster…",
+          "image": "http://static.dezeen.com/uploads/2026/09/norman-foster-dezeen-awards-2026-party-keynote_dezeen_2364_col_0-411x411.jpg"
         },
         {
-          "id": "7be910a869a17053",
-          "title": "Modular House with a Sloping Facade / Papundekl Architects",
-          "url": "https://www.archdaily.com/1185668/modular-house-with-a-sloping-facade-papundekl-architects",
+          "id": "c66bf902555cb6f8",
+          "title": "PATH House / Hendre Bloem Interior Design",
+          "url": "https://www.archdaily.com/1186022/path-hendre-bloem-interior-design",
           "source": "ArchDaily Global",
           "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-09-29T06:00:00.000Z",
-          "summary": "This single-story family home in a South Bohemian village navigates a dual context: it respects local rural heritage on one side while completely opening up to nature on the other. Designed for a…",
-          "image": "https://images.adsttc.com/media/images/6ab4/7aab/e78f/b301/883c/f3a1/newsletter/modular-house-with-a-sloping-facade-papundekl-architects_24.jpg?1790212799"
+          "publishedAt": "2026-09-30T03:00:00.000Z",
+          "summary": "Located on the outskirts of Prince Albert in South Africa's Karoo, PATH is a one-bedroom retreat that explores the relationship between architecture, landscape, materiality, and scale. Arranged over…",
+          "image": "https://images.adsttc.com/media/images/6abc/0862/a979/aa00/0118/7dcf/newsletter/HENDREBLOEM_PATHPRINCEALBERT__ParisB_19_HR_2880px.jpg?1790707901"
         }
       ]
     }
