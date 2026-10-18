@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-10-17T10:14:17.492Z",
+  "generatedAt": "2026-10-18T10:14:21.950Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "8d691fdb102f398b",
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "id": "85126632508d4516",
+          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-10-17T09:58:17.000Z",
-          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"
+          "publishedAt": "2026-10-18T09:56:45.000Z",
+          "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg"
         },
         {
-          "id": "ba043d9db13839e5",
-          "title": "LIVE: India vs West Indies – fifth T20 International",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
+          "id": "4bb046541135d18e",
+          "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+          "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-17T09:54:49.000Z",
-          "summary": "Follow updates, including toss and team news, from our live text commentary stream of the series decider.",
+          "publishedAt": "2026-10-18T09:42:40.000Z",
+          "summary": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
           "image": null
         },
         {
-          "id": "c0a7fcf5f9139bb3",
-          "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
-          "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+          "id": "094c49d8e23664dc",
+          "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+          "url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-17T09:47:55.000Z",
-          "summary": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+          "publishedAt": "2026-10-18T09:22:44.000Z",
+          "summary": "Sudanese are facing growing costs of medicine caused by the country's civil war.",
           "image": null
         },
         {
-          "id": "1246c2c5440ab788",
-          "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-          "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+          "id": "c5304dc40c604c15",
+          "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+          "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-17T09:44:47.000Z",
-          "summary": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala's busy livestock market.",
+          "publishedAt": "2026-10-18T09:16:54.000Z",
+          "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
           "image": null
         },
         {
-          "id": "b6bb1637df093af8",
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-10-17T09:42:13.000Z",
-          "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
+          "id": "460a7a1cffd11556",
+          "title": "LIVE: Leeds United vs Manchester United – Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-10-18T09:16:06.000Z",
+          "summary": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
+          "image": null
         }
       ]
     },
@@ -61,54 +61,54 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "6253ec0f0eb264ac",
-          "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-          "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "id": "5a8290564bc1b1a5",
+          "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+          "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-17T10:00:07.000Z",
-          "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg"
+          "publishedAt": "2026-10-18T09:14:26.000Z",
+          "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat-police.jpg"
         },
         {
-          "id": "a7dfcbd9835acc86",
-          "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-          "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph.com News",
-          "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-17T08:32:11.000Z",
-          "summary": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg"
-        },
-        {
-          "id": "2f7210966e832e3a",
-          "title": "Bitget to discontinue services for some users in one-off exercise",
-          "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph.com News",
-          "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-17T07:26:57.000Z",
-          "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg"
-        },
-        {
-          "id": "13937726ecce9a54",
-          "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-          "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+          "id": "8e27774775959579",
+          "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+          "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-10-17T06:39:48.000Z",
-          "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem…",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+          "publishedAt": "2026-10-18T07:13:32.000Z",
+          "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/286577a8289b83ce1529d6d1d4853747c94ebd18-1444x796.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
         },
         {
-          "id": "9713d0d47cb199d8",
-          "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-          "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+          "id": "9f8942c173776d36",
+          "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+          "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-10-18T06:26:53.000Z",
+          "summary": "The round brings AIsa’s total funding to more than $9 million.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg"
+        },
+        {
+          "id": "a93a0edab8ec6e17",
+          "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+          "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-10-17T02:30:00.000Z",
-          "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future…",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+          "publishedAt": "2026-10-18T01:06:35.000Z",
+          "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        },
+        {
+          "id": "0173995c89cf43fc",
+          "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+          "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+          "source": "Decrypt",
+          "sourceUrl": "https://decrypt.co",
+          "publishedAt": "2026-10-17T17:01:03.000Z",
+          "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million—days after the PAC expanded its…",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png"
         }
       ]
     },
@@ -171,54 +171,54 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "2170a83da252d988",
-          "title": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
-          "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/",
+          "id": "4f3dd1e81e53dd2e",
+          "title": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+          "url": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-17T02:46:56.000Z",
-          "summary": "President Trump signed an executive order Friday evening to waive sanctions against Russia set to take effect soon under a recently signed legislative package. The president officially signed the…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286046303753-e1792169936906.jpg?w=900"
+          "publishedAt": "2026-10-18T10:00:00.000Z",
+          "summary": "A growing chorus of House Republicans is warning President Trump that they’re ready to block additional Pentagon funding unless the administration gets tougher on Russia. Behind Defense Secretary…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/BlockingPentagonFunding_Lillis-Timotija_AP_MarkSchiefelbein.jpg?w=900"
         },
         {
-          "id": "cd62b838ab439215",
-          "title": "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
-          "url": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/",
+          "id": "a2e1eccb2fb11a49",
+          "title": "Democrats want to curb Trump’s power with House majority. This is their greatest tool",
+          "url": "https://thehill.com/homenews/house/6154578-appropriations-committee-oversight-strategy/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-17T02:29:45.000Z",
-          "summary": "Katie Zacharia issued her first public statement Friday night after a White House official announced she'd be \"transitioning out\" of the press secretary post after just five days in the role. In a…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286519686780-e1792204004649.jpg?w=900"
+          "publishedAt": "2026-10-18T10:00:00.000Z",
+          "summary": "House Democrats are eyeing their power over federal spending as one of their strongest tools to push back against President Trump’s agenda if they win back the majority in November. A Democratic…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/delaurorosa_090126gn02_w.jpg?w=900"
         },
         {
-          "id": "69b5a2ce4776d84a",
-          "title": "Secret Service deputy chief stepping down",
-          "url": "https://thehill.com/homenews/administration/6155544-secret-service-deputy-director-quinn-resigns/",
+          "id": "cce139956e9716a0",
+          "title": "Bulldozed trees spike DC tensions: Inside Trump’s takeover of East Potomac Park",
+          "url": "https://thehill.com/newsletters/keeping-score/6155056-trump-east-potomac-park-plans/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-17T01:44:59.000Z",
-          "summary": "Matt Quinn, the deputy director of the U.S. Secret Service (USSS), announced Friday he was stepping down after a year-and-a-half in the role. Quinn said in a statement posted to social platform X he…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26289632394100-e1792199746470.jpg?w=900"
+          "publishedAt": "2026-10-18T10:00:00.000Z",
+          "summary": "A federal judge on Monday will hear testimony from officials in President Trump’s Department of Interior about the administration’s plans for East Potomac Park, a sprawling piece of National Park…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26283698995899-e1791818950679.jpg?w=900"
         },
         {
-          "id": "b66048a8dedc6fe1",
-          "title": "Federal agents searched Omar's trash for DNA before raid: Sources",
-          "url": "https://thehill.com/homenews/6155559-federal-raid-ilhan-omar-dna-trash/",
+          "id": "40390e93c300c8e8",
+          "title": "Shapiro launches super PAC as presidential speculation mounts",
+          "url": "https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-17T01:43:02.000Z",
-          "summary": "Investigators have used secretive “dumpster diving” to obtain DNA when search warrants were not possible.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26285444558371.jpg?w=900"
+          "publishedAt": "2026-10-18T02:38:31.000Z",
+          "summary": "Pennsylvania Gov. Josh Shapiro (D) is launching a new political action committee (PAC), raising speculation that the governor may run for president in 2028. The committee, called New Path PAC, says…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/6a0d22a8d08a31.63940777-e1792290339347.jpeg?w=900"
         },
         {
-          "id": "f13e9b084dac1edb",
-          "title": "More lawmakers report suspicious packages at offices",
-          "url": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/",
+          "id": "18a16f553321277c",
+          "title": "CDC sends a 'disease detective' to Pennsylvania amid measles outbreak",
+          "url": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-17T00:06:58.000Z",
-          "summary": "Several lawmakers said Friday their offices across the country had received suspicious mailings following reports earlier this week of letters containing unknown substances at U.S. election offices.…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GettyImages-1228086135-e1758201203746.jpg?w=800"
+          "publishedAt": "2026-10-18T01:46:05.000Z",
+          "summary": "The Centers for Disease Control and Prevention (CDC) is sending a disease expert to assist with the response to the ongoing measles outbreak in Pennsylvania. “CDC will continue working closely with…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/RFK-Jr_071226_Weixel_Getty_Anna-Moneymaker.jpg?w=900"
         }
       ]
     },
@@ -226,13 +226,33 @@
       "label": "AI",
       "articles": [
         {
-          "id": "d0f11237d1f3614e",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "id": "568162b981af2493",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-16T21:22:28.000Z",
-          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with…",
+          "publishedAt": "2026-10-17T21:31:32.000Z",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "image": null
+        },
+        {
+          "id": "b769f5e984a396b0",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-10-17T20:21:19.000Z",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "image": null
+        },
+        {
+          "id": "51c1c9a5e48bf763",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-10-17T18:48:08.000Z",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
           "image": null
         },
         {
@@ -254,26 +274,6 @@
           "publishedAt": "2026-10-16T17:52:24.000Z",
           "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
           "image": null
-        },
-        {
-          "id": "1f9b468e86423e35",
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-16T16:30:00.000Z",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators,…",
-          "image": null
-        },
-        {
-          "id": "3ee888866ef9d7e3",
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-16T16:30:00.000Z",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators,…",
-          "image": null
         }
       ]
     },
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "7877a4d392dd92a6",
-          "title": "Why companies may be liable for AI errors",
-          "url": "https://www.fastcompany.com/91623691/companies-liable-ai-errors",
+          "id": "9144442d943a5568",
+          "title": "The AI productivity paradox: Why AI is everywhere except in the productivity numbers",
+          "url": "https://www.fastcompany.com/91623123/ai-productivity-paradox",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-17T09:30:00.000Z",
-          "summary": "Artificial intelligence has moved quickly from a novelty on the job to a common workplace tool. Gallup found that 52% of U.S. employees and 68% of professional services workers were using AI by…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-91623691-companies-held-liable-when-AI-hurts-clients-and-customers.jpg"
+          "publishedAt": "2026-10-18T09:30:00.000Z",
+          "summary": "In December 2024, just as the AI hype was ramping up, my colleagues Nicole Radziwill, Todd McClees, and I warned in the Harvard Business Review that most enterprises were poorly positioned to benefit…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623123-ai-productivity-paradox.jpg"
         },
         {
-          "id": "8a04ea6d12081844",
-          "title": "Yes, you should be backing up your iPhone every day. Here’s how",
-          "url": "https://www.fastcompany.com/91603161/yes-you-should-be-backing-up-your-iphone-every-day-heres-how-icloud-data",
+          "id": "12d1549b1e03be1d",
+          "title": "This quick test will tell you if your home Wi-Fi is to blame for laggy internet",
+          "url": "https://www.fastcompany.com/91606189/slow-wi-fi-open-speed-test",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-17T09:00:00.000Z",
-          "summary": "Despite the wealth of critical personal data our iPhones hold, many people don’t back up their devices regularly. Usually, this is because the amount of data they’d need to back up in iCloud would…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-91603161-you-should-back-up-your-iphone-everyday.jpg"
+          "publishedAt": "2026-10-18T09:00:00.000Z",
+          "summary": "If you suspect something’s amiss with your home network, the first thing you might do is run ​a speed test from sites like speedtest.net or fast.com​—or even the newer Orb speed test tool featured…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91606189-before-you-blame-netflix-or-zoom-for-lagging-run-this-free-5-minute-test.jpg"
         },
         {
-          "id": "72aec743910cd75a",
-          "title": "Don’t use Kindle to find your next great read—use this free app instead",
-          "url": "https://www.fastcompany.com/91613574/find-kindle-ebooks-uncovered",
+          "id": "e59fb2be559fac0d",
+          "title": "What’s with those bobblehead NFL helmets?",
+          "url": "https://www.fastcompany.com/91623293/whats-with-those-bobblehead-nfl-helmets",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-17T09:00:00.000Z",
-          "summary": "Reading is great. Finding something to read is annoying. We all know the saying “don’t judge a book by its cover,” but what else are you supposed to judge a book by? Whether you’re walking through a…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91613574-the-kindle-ebook-discovery-companion-you-never-knew-you-needed.jpg"
+          "publishedAt": "2026-10-18T09:00:00.000Z",
+          "summary": "If you’ve been watching the NFL this season, you’ve probably noticed that a few dozen players have pretty big heads. Not in the diva sense, but literally. Take Chris Olave, the New Orleans Saints…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623293-bobblehead-nfl-helmets.jpg"
         },
         {
-          "id": "3201c4cb698aa45a",
-          "title": "7 tips to help you survive the cost of living crisis",
-          "url": "https://www.fastcompany.com/91624045/7-tips-to-help-you-survive-the-cost-of-living-crisis",
+          "id": "555e5958918bc99b",
+          "title": "What happens when people have to jump in to clean up AI’s mess?",
+          "url": "https://www.fastcompany.com/91625215/cleaning-up-ai-mess",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-17T09:00:00.000Z",
-          "summary": "America is in the middle of a cost of living crisis. The median sale price for a home in 2026 is $410,700, according to the Federal Reserve. Even if you’ve already bought a house, Zillow estimates…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91624045-7-tips-to-help-you-survive-the-cost-of-living-crisis.jpg"
+          "publishedAt": "2026-10-18T09:00:00.000Z",
+          "summary": "Imagine an artificial intelligence system that has performed reliably for months. Its recommendations are almost always right, and the employee reviewing them has learned that close scrutiny rarely…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91625215-as-ai-takes-on-more-tasks-what-happens-when-people-have-to-jump-in-to-clean-up-after-it.jpg"
         },
         {
-          "id": "06f11ba44ac61e31",
-          "title": "Why the Paramount‑Warner merger threatens democracy",
-          "url": "https://www.fastcompany.com/91623140/paramount-warner-merger-threatens-democracy",
+          "id": "bb6802c1bcdc3e91",
+          "title": "AI’s biggest breakthrough isn’t chatbots—it’s the eureka moment",
+          "url": "https://www.fastcompany.com/91622554/ai-biggest-breakthrough-eureka-moment",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-17T08:30:00.000Z",
-          "summary": "Media critic Ben Bagdikian warned in 2004 that five corporations had accumulated “more communications power than was exercised by any despot or dictatorship in history.” More than 20 years later, a…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623140-paramount-warner-merger-problem-for-democracy.jpg"
+          "publishedAt": "2026-10-18T08:00:00.000Z",
+          "summary": "Below, Richard Socher shares five key insights from his new book, The Eureka Machine: Why AI Is the Key to Unlocking a New Era of Scientific Discoveries. Richard is a pioneering AI researcher and…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91622554-ais-biggest-breakthrough-wont-be-a-chatbot.jpg"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "dfcbb8cfa47174b2",
-          "title": "Idt director Judah Schorr sells $1.12m in class B common stock",
-          "url": "https://www.investing.com/news/insider-trading-news/idt-director-judah-schorr-sells-112m-in-class-b-common-stock-93CH-4955364",
+          "id": "2fdc8cc14d06a784",
+          "title": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
+          "url": "https://www.investing.com/news/economy-news/microsoft-pulls-out-of-uk-data-centre-deal-with-nscale-telegraph-reports-4955855",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-17T09:45:59.000Z",
+          "publishedAt": "2026-10-18T09:22:53.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/LYNXNPEB6J0AM_M.jpg"
         },
         {
-          "id": "9a94e5324b84e789",
-          "title": "Nuveen municipal credit fund trustee Toth sells $71,811 in shares",
-          "url": "https://www.investing.com/news/insider-trading-news/nuveen-municipal-credit-fund-trustee-toth-sells-71811-in-shares-93CH-4955363",
+          "id": "adcb7122ed9d71e7",
+          "title": "EOS Falls 11% In Rout",
+          "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4955850",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-17T09:45:51.000Z",
+          "publishedAt": "2026-10-18T09:02:59.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/Eos_800x533_L_1556445015.jpg"
         },
         {
-          "id": "2e19a793ec47aab5",
-          "title": "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP",
-          "url": "https://www.investing.com/news/economy-news/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp-4955359",
+          "id": "9a1114a5fde5a4c1",
+          "title": "Russia hits Ukraine’s energy sector 76 times in a week, Zelenskiy says",
+          "url": "https://www.investing.com/news/economy-news/russia-hits-ukraines-energy-sector-76-times-in-a-week-zelenskiy-says-4955841",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-17T09:18:19.000Z",
+          "publishedAt": "2026-10-18T08:44:37.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9G08J_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEJ4H0R1_L.jpg"
         },
         {
-          "id": "81c975e7da31a6bd",
-          "title": "Russia says it struck Ukrainian steel plants and power infrastructure",
-          "url": "https://www.investing.com/news/economy-news/russia-says-it-struck-ukrainian-steel-plants-and-power-infrastructure-4955358",
+          "id": "e75fda76c314d7cc",
+          "title": "Olesen Value Fund sells $716,664 of Solitron Devices stock",
+          "url": "https://www.investing.com/news/insider-trading-news/olesen-value-fund-sells-716664-of-solitron-devices-stock-93CH-4955832",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-17T09:08:59.000Z",
+          "publishedAt": "2026-10-18T08:16:06.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEL480SM_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
         },
         {
-          "id": "639e92fe5577ae9f",
-          "title": "BJ’s Wholesale EVP, CFO Felice sells $887k in shares",
-          "url": "https://www.investing.com/news/insider-trading-news/bjs-wholesale-evp-cfo-felice-sells-887k-in-shares-93CH-4955356",
+          "id": "60b177c99d0c839a",
+          "title": "China proposes export curbs on 12 key solar manufacturing technologies",
+          "url": "https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-17T09:00:59.000Z",
+          "publishedAt": "2026-10-18T08:06:30.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/JinkoSolar_800x533_L_1644469275.jpg"
         }
       ]
     },
@@ -401,16 +401,6 @@
           "image": "https://no-cache.hubspot.com/cta/default/53/b9960dd8-68b8-4caa-8a08-d3f7b7c3406e.png"
         },
         {
-          "id": "a3c42dc4b2421e8c",
-          "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
-          "url": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-16T12:00:00.000Z",
-          "summary": "Advertisers who added new creative weekly saw a 23% higher return on investment compared to those who only added creative once or twice.",
-          "image": "https://imgproxy.divecdn.com/2o2Z13cTwkmLl4HGrXInYYxPdWLX0i6vzTBjol6Z8kI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMTEtMjlfMDkyODU5LnBuZw==.webp"
-        },
-        {
           "id": "c782424aa1c666ae",
           "title": "What marketers need to know from Advertising Week New York 2026",
           "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
@@ -419,6 +409,16 @@
           "publishedAt": "2026-10-16T12:00:00.000Z",
           "summary": "Marketers from Smirnoff, Liquid Death and Chili’s converged at AWNY to talk AI, connecting with culture and the evolving creator economy.",
           "image": null
+        },
+        {
+          "id": "a3c42dc4b2421e8c",
+          "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
+          "url": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-16T12:00:00.000Z",
+          "summary": "Advertisers who added new creative weekly saw a 23% higher return on investment compared to those who only added creative once or twice.",
+          "image": "https://imgproxy.divecdn.com/2o2Z13cTwkmLl4HGrXInYYxPdWLX0i6vzTBjol6Z8kI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMTEtMjlfMDkyODU5LnBuZw==.webp"
         },
         {
           "id": "c77819a26c672d9c",
@@ -446,54 +446,54 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "8a848b0f24947dc0",
-          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+          "id": "568162b981af2493",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-17T02:36:18.000Z",
-          "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing…",
+          "publishedAt": "2026-10-17T21:31:32.000Z",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
           "image": null
         },
         {
-          "id": "596dd45e1e865a2e",
-          "title": "All the news about the iPhone Duo",
-          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-16T23:36:26.000Z",
-          "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "cb4458cafd2f99b5",
-          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-16T22:51:22.000Z",
-          "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "d0f11237d1f3614e",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "id": "5c37b2406edd5a29",
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-16T21:22:28.000Z",
-          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with…",
+          "publishedAt": "2026-10-17T20:55:52.000Z",
+          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
           "image": null
         },
         {
-          "id": "b140e0bf691ca144",
-          "title": "OpenAI models hacked a crypto wallet and breached more websites",
-          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-          "source": "Ars Technica",
-          "sourceUrl": "https://feeds.arstechnica.com",
-          "publishedAt": "2026-10-16T20:59:01.000Z",
-          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+          "id": "b769f5e984a396b0",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-10-17T20:21:19.000Z",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "image": null
+        },
+        {
+          "id": "bb38f1891d1520bf",
+          "title": "TikTok bans Musk documentary account",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-10-17T19:32:23.000Z",
+          "summary": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "id": "51c1c9a5e48bf763",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-10-17T18:48:08.000Z",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "image": null
         }
       ]
     },
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "08d1424f235824c4",
-          "title": "La Liga Has Replaced The Premier League As The Home Of Soccer’s Top Earners",
-          "url": "https://www.forbes.com/sites/samleveridge/2026/10/17/la-liga-has-replaced-the-premier-league-as-the-home-of-soccers-top-earners/",
+          "id": "fbd1790727828249",
+          "title": "Blue Jays Castoff Joins Division Rival Immediate After Season Ends",
+          "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/blue-jays-castoff-joins-division-rival-immediate-after-season-ends/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-17T08:44:10.000Z",
-          "summary": "Forbes' 2026 ranking of soccer’s highest-paid players shows Spain’s La Liga supplying four of the top ten, while the Premier League has only one.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad32ecd210f5bb0d546d3bd/0x0.jpg"
+          "publishedAt": "2026-10-18T10:00:00.000Z",
+          "summary": "The Toronto Blue Jays received an update on a five-year member of the organization who has returned with an American League East rival.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/691b859f7f1be4ffd065a6c5/0x0.jpg"
         },
         {
-          "id": "328c19a6f239cc4e",
-          "title": "Highest-Paid Soccer Players 2026: Messi Hits A New High But Can’t Touch Ronaldo",
-          "url": "https://www.forbes.com/sites/hanktucker/2026/10/17/the-worlds-highest-paid-soccer-players-2026/",
+          "id": "c2810b76392675b3",
+          "title": "The Challenges Facing Former Soccer Players-Turned-Pundits",
+          "url": "https://www.forbes.com/sites/clementelisi/2026/10/18/the-challenges-facing-former-soccer-players-turned-pundits/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-17T05:30:00.000Z",
-          "summary": "After Cristiano Ronaldo and Lionel Messi's World Cup swan song, Forbes ranks soccer's highest-paid players. See how much star footballers are making on and off the field.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ac7e2fa5db6f171b2335185/0x0.jpg?width=960&precrop=1919%2C1079%2Cx0%2Cy0"
+          "publishedAt": "2026-10-18T09:00:00.000Z",
+          "summary": "Former teammates Landon Donovan and Eddie Johnson are involved in a public feud. The dispute began when Donovan said Americans love to overhype young players.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad40677a80e265ef25461cf/0x0.jpg"
         },
         {
-          "id": "ab0db9fbb4d35888",
-          "title": "Charleigh Bullock Could Be Team USA’s Breakout Star At Rotterdam Worlds",
-          "url": "https://www.forbes.com/sites/carolineprice/2026/10/16/charleigh-bullock-could-be-team-usas-breakout-star-at-rotterdam-worlds/",
+          "id": "8f18c213608cb4d9",
+          "title": "Sebastian Fundora Scored Buzzer-Beater TKO — But Terence Crawford Says It Shouldn’t Have Counted",
+          "url": "https://www.forbes.com/sites/brianmazique/2026/10/18/sebastian-fundora-scored-buzzer-beater-tko---but-terence-crawford-says-it-shouldnt-have-counted/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-17T02:46:36.000Z",
-          "summary": "Olympic medalists may headline Team USA’s rosters at the 2026 World Gymnastics Championships in Rotterdam, but 16-year-old Charleigh Bullock could be the team’s secret weapon.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad2d79f10f1ca47cd83095c/0x0.jpg?width=960&precrop=1708%2C960%2Cx0%2Cy0"
+          "publishedAt": "2026-10-18T04:18:38.000Z",
+          "summary": "Sebastian Fundora vs. Ermal Hadribeaj results: a 12th-round TKO kept Fundora’s WBC title, but Terence Crawford and Tim Bradley criticized referee Thomas Taylor’s call.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad447ecb167ba3a79318723/0x0.jpg?width=960&precrop=3308%2C1860%2Cx0%2Cy132"
         },
         {
-          "id": "e2061e67093cbcea",
-          "title": "How To Watch Team USA At The World Gymnastics Championships",
-          "url": "https://www.forbes.com/sites/carolineprice/2026/10/16/how-to-watch-team-usa-at-the-world-gymnastics-championships/",
+          "id": "7979c1a66f1f3925",
+          "title": "AEW WrestleDream 2026 Results As Will Ospreay Predictably Wins Clockwork Carnage",
+          "url": "https://www.forbes.com/sites/alfredkonuwa/2026/10/18/aew-wrestledream-2026-results-as-will-ospreay-predictably-wins-clockwork-carnage/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-17T02:01:59.000Z",
-          "summary": "The 2026 Artistic Gymnastics World Championships begin October 17 in Rotterdam, Netherlands, and Team USA’s top gymnasts set their sights on a medal haul in Holland. Here's how to watch.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad2d533361376cea1b3bec9/0x0.jpg?width=960&precrop=4081%2C2297%2Cx551%2Cy575"
+          "publishedAt": "2026-10-18T04:17:09.000Z",
+          "summary": "Will Ospreay prevailed in an entertaining Clockwork Carnage match that came down to the final seconds at AEW WrestleDream 2026.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad405d5c12e9a27f131214a/0x0.jpg"
         },
         {
-          "id": "87e525ffaa2d05b9",
-          "title": "WWE SmackDown Results, Winners And Grades On October 16, 2026",
-          "url": "https://www.forbes.com/sites/alfredkonuwa/2026/10/16/wwe-smackdown-results-winners-and-grades-on-october-16-2026/",
+          "id": "37f279f9c362d6be",
+          "title": "NFL Week 6 Sunday Night Football Best Bets—Cowboys At Packers",
+          "url": "https://www.forbes.com/sites/joshshepardson/2026/10/17/nfl-week-6-sunday-night-football-best-bets-cowboys-at-packers/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-17T02:01:15.000Z",
-          "summary": "WWE SmackDown results, winners and grades on October 16, 2026",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad2c159bbcde1226fa11ccc/0x0.jpg"
+          "publishedAt": "2026-10-18T03:43:57.000Z",
+          "summary": "Find out which alt passing and receiving props are enticing bets in the NFL Week 6 Sunday Night Football contest between the Packers and the Cowboys.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad43d2809af25d36efa6c10/0x0.jpg?width=960&precrop=1561%2C950%2Cx0%2Cy90"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "73d0e1c70bd2bd3f",
-          "title": "Nico Hulkenberg and Gabriel Bortoleto Star in ic! berlin’s Inaugural Motorsport Campaign",
-          "url": "https://hypebeast.com/2026/10/nico-hulkenberg-gabriel-bortoleto-star-ic-berlin-motorsport-campaign",
+          "id": "3cc112a72b803c78",
+          "title": "Vacheron Constantin’s First Concours d’Élégance Spotlights 34 Historic Watches",
+          "url": "https://hypebeast.com/2026/10/phillips-in-association-with-bacs-russo-vacheron-constantin-concours-delegance-horlogere-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-17T09:50:19.000Z",
-          "summary": "German eyewear label ic! berlin has officially launched its first campaign as the Official Partner of Audi Revolut F1® Team, starring drivers Nico Hulkenberg and Gabriel Bortoleto.Shot by…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F12%2Fic-berlin-audi-revolut-f1-team-campaign-nico-hulkenberg-gabriel-bortoleto-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-18T09:06:44.000Z",
+          "summary": "Summary Phillips and Vacheron Constantin announced 34 finalists for the inaugural Concours d’Elégance Horlogère.A 14-member jury evaluated over 550 vintage timepieces spanning 1755 to 1999.Winners…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F18%2Fphillips-in-association-with-bacs-russo-vacheron-constantin-concours-delegance-horlogere-info-000.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "abb1e99e0d19f175",
-          "title": "Why Denis Villeneuve Needed James Bond to Finally Leave 'Dune' Behind",
-          "url": "https://hypebeast.com/2026/10/why-denis-villeneuve-needed-james-bond-to-finally-leave-dune-behind",
+          "id": "ac7a21e5e68b42b4",
+          "title": "SEGA’s ‘Stranger Than Heaven’ Act 1 Trailer Introduces Snoop Dogg’s Orpheus",
+          "url": "https://hypebeast.com/2026/10/sega-stranger-than-heaven-act-1-kokura-story-trailer-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-17T08:00:34.000Z",
-          "summary": "Summary Denis Villeneuve revealed that signing on to direct the next James Bond film gave him the momentum needed to conclude his 'Dune' trilogyAdapting Frank Herbert’s Dune Messiah the third chapter…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F17%2Fwhy-denis-villeneuve-needed-james-bond-to-finally-leave-dune-behind-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-18T08:27:44.000Z",
+          "summary": "Summary Stranger Than Heaven’s Act 1 trailer follows Makoto Daito’s arrival in 1915 Kokura.Snoop Dogg’s Orpheus plays a major role in shaping Makoto’s early path.The game launches January 15, 2027.…",
+          "image": null
         },
         {
-          "id": "ec25160c8460b933",
-          "title": "Craig McDean Celebrates ‘Ducati's 750 Supersport’ in New Tokyo Photography Exhibition",
-          "url": "https://hypebeast.com/2026/10/craig-mcdean-photo-exhibition-under-r-tokyo-merch-info",
+          "id": "0dfb32f317078cf2",
+          "title": "‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer",
+          "url": "https://hypebeast.com/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-17T06:00:22.000Z",
-          "summary": "Summary Craig McDean presents 750 Super Sport, a Ducati-inspired photography exhibition at UNDER R TOKYO.Exclusive merchandise includes graphic T-shirts and long-sleeved tops featuring McDean's…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F17%2Fcraig-mcdean-photo-exhibition-under-r-tokyo-merch-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-18T06:18:37.000Z",
+          "summary": "Summary Bleach: Thousand-Year Blood War - The Calamity releases its final promotional trailer.The preview centers on Ichigo’s climactic confrontation with Yhwach.The final two episodes arrive October…",
+          "image": null
         },
         {
-          "id": "5e8eb6cb09254c40",
-          "title": "Baracuta x WILD THINGS x WACKO MARIA Go Reversible and Furry",
-          "url": "https://hypebeast.com/2026/10/baracuta-wild-things-wacko-maria-fall-winter-2026-fw26-collaboration-collection-release-info",
+          "id": "ec97f1779604ce2f",
+          "title": "CJ Hendry’s “Juju Mega” Takes the Cult Collectible Online for the First Time",
+          "url": "https://hypebeast.com/2026/10/cj-hendry-juju-mega-first-ever-online-drop-hong-kong-pop-up-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-17T04:00:22.000Z",
-          "summary": "Summary WACKO MARIA reconnects with Baracuta and Wild Things for a three-style Fall/Winter 2026 outerwear capsuleBaracuta’s G9 Harrington Jacket goes fully reversible, pairing a cotton-polyester face…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F14%2FBARACUTA-WILD-THINGS-WACKO-MARIA-fall-winter-2026-FW26-Collaboration-collection-Release-Info.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-18T05:15:13.000Z",
+          "summary": "Summary CJ Hendry expands her Juju universe with Juju Mega in 10 colorways.A Hong Kong pop-up previews the release from October 28–31, 2026.The first global online drop launches November 1 in…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F16%2Fcj-hendry-juju-mega-first-ever-online-drop-hong-kong-pop-up-info-0.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "ea83b2732e76e834",
-          "title": "The Nike Air Force 1 Low “Lace Metallic Gold” Swaps Leather for Woven Texture and Floral Trim",
-          "url": "https://hypebeast.com/2026/10/nike-air-force-1-low-lace-metallic-gold-ix7038-121-official-images",
+          "id": "3217f6799eeb1ec2",
+          "title": "MAS Transforms Karimoku’s Tokyo Gallery Into an Imaginary Japanese Inn",
+          "url": "https://hypebeast.com/2026/10/mas-karimoku-oyado-mas-commons-tokyo-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-17T02:00:25.000Z",
-          "summary": "Name: Nike Air Force 1 Low “Lace Metallic Gold”Colorway: Sail/Gum Light Brown-Metallic GoldSKU: IX7038-121MSRP: $120 USDRelease Date: Fall 2026Nike is set to deliver the Air Force 1 Low “Lace…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F14%2FftNike-Air-Force-1-Low-Lace-Metallic-Gold-IX7038-121-Official-Images.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-18T04:00:42.000Z",
+          "summary": "Summary MAS transforms Karimoku Commons Tokyo into an imagined Japanese inn for “Oyado MAS.”The exhibition explores the brand’s “New Japanese Comfort” through furniture, craft and…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F16%2Fmas-karimoku-oyado-mas-commons-tokyo-info.jpg?w=800&cbr=1&q=90&fit=max"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "5a099d6a6dcaff19",
-          "title": "This week we revealed the Stirling Prize winner",
-          "url": "https://www.dezeen.com/2026/10/17/stirling-prize-winner-this-week/",
+          "id": "278d3a240cc37487",
+          "title": "Seven striking buildings that make a statement with red",
+          "url": "https://www.dezeen.com/2026/10/18/seven-red-buildings-roundup/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-10-17T05:00:12.000Z",
-          "summary": "This week on Dezeen, we reported on the Lion Green Road housing scheme in Croydon winning the Stirling Prize. Designed by local studio Mary Duggan Architects with Ruff Architects, the project was…",
-          "image": "http://static.dezeen.com/uploads/2026/10/lion-green-road-mary-duggan-ruff-architects-london-riba-stirling-prize-2026-winner_dezeen_2364_sq_1-411x411.jpg"
+          "publishedAt": "2026-10-18T09:00:10.000Z",
+          "summary": "A timber-clad fire station and an arena with a zigzagging facade are among the projects that feature in this roundup of red buildings. Liden's Brandstation, Sweden, by Kod Arkitekter Stockholm studio…",
+          "image": "http://static.dezeen.com/uploads/2026/10/red-buildings-roundup_dezeen_2364_col_2-411x411.jpg"
         },
         {
-          "id": "32f7ea461b77019a",
-          "title": "HARMAY Changsha Guojin Street Store / STUDIO SPLASH",
-          "url": "https://www.archdaily.com/1186874/harmay-changsha-guojin-street-store-studio-splash",
+          "id": "578c726e6fd75de2",
+          "title": "Karimoku New Standard and ASICS create furniture made from crushed trainers",
+          "url": "https://www.dezeen.com/2026/10/18/karimoku-new-standard-asics-furniture-crushed-trainers/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-10-18T05:00:58.000Z",
+          "summary": "Furniture brand Karimoku New Standard has announced the global release of its KNS x ASICS Collaboration, which repurposes upcycled foam from unused ASICS trainers as cushioning for two seating…",
+          "image": "http://static.dezeen.com/uploads/2026/10/kns-x-asics-furniture-karimoku_dezeen_2364_col_sq-411x411.jpg"
+        },
+        {
+          "id": "21548bb3b1a7dca4",
+          "title": "Beijing 1733 ByteDance Commercial Project / XU Studio",
+          "url": "https://www.archdaily.com/1186852/beijing-1733-bytedance-commercial-project-xu-studio",
           "source": "ArchDaily Global",
           "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-17T02:00:00.000Z",
-          "summary": "Located on Guojin Street at the core of Changsha's Wuyi Square commercial district, the project sits within an underground retail spine linking street-level entrances with subterranean transit hubs,…",
-          "image": "https://images.adsttc.com/media/images/6ad0/3eb4/b2c4/c300/0178/f5b6/newsletter/07_Interior___Aaron_Shao.jpg?1792032487"
+          "publishedAt": "2026-10-18T02:00:00.000Z",
+          "summary": "In highly rational and efficiently operated office parks, how can commercial spaces evolve beyond their role as functional amenities and become shared environments with a sense of life and warmth?…",
+          "image": "https://images.adsttc.com/media/images/6acf/d694/7887/fb3b/1182/d652/newsletter/beijing-1733-bytedance-commercial-project-xu-studio_15.jpg?1792005800"
         },
         {
-          "id": "2168526a12fcec30",
-          "title": "7 Best Murphy Beds That Are Stylish and Space-Saving (2026)",
-          "url": "https://www.architecturaldigest.com/story/best-murphy-beds",
-          "source": "Architectural Digest",
-          "sourceUrl": "https://architecturaldigest.com",
-          "publishedAt": "2026-10-16T22:04:37.000Z",
-          "summary": "These frames help you make space for overnight guests without sacrificing your room’s style",
-          "image": "https://media.architecturaldigest.com/photos/672271a07f410941aa1c51b9/master/pass/AD1122_CHENG_4.jpg"
+          "id": "f842729ac2e0d1b4",
+          "title": "Sangwich Club / east bureau",
+          "url": "https://www.archdaily.com/1186199/sangwich-club-east-bureau",
+          "source": "ArchDaily Global",
+          "sourceUrl": "https://archdaily.com",
+          "publishedAt": "2026-10-17T21:00:00.000Z",
+          "summary": "Sangwich Club is a 109.3-square-meter sandwich bar in central Almaty, designed by east bureau as a place that reveals itself gradually. Rather than building the interior around a single visual…",
+          "image": "https://images.adsttc.com/media/images/6abe/be89/07c3/d100/017f/c889/newsletter/07_Damir_Otegen.jpg?1790885630"
         },
         {
-          "id": "0ce94ca2f961ca3c",
-          "title": "Apologies to Kelly Clarkson, but Bird Decor Is Having a Moment",
-          "url": "https://www.architecturaldigest.com/story/bird-decor-is-having-a-moment",
-          "source": "Architectural Digest",
-          "sourceUrl": "https://architecturaldigest.com",
-          "publishedAt": "2026-10-16T21:41:45.000Z",
-          "summary": "From Julianne Moore's kitchen to the Chanel runway, we haven't seen so many examples of \"put a bird on it\" since 2011",
-          "image": "https://media.architecturaldigest.com/photos/6ad29941439f02d8f746f8c4/master/pass/02_KellyClarkson.jpg"
-        },
-        {
-          "id": "de95b8f9ac2a9d39",
-          "title": "Marlene Dietrich at Home: 10 Photos of the Legendary Leading Lady’s Opulent LA Life",
-          "url": "https://www.architecturaldigest.com/story/marlene-dietrich-at-home-photos-of-the-legendary-leading-ladys-opulent-la-life",
-          "source": "Architectural Digest",
-          "sourceUrl": "https://architecturaldigest.com",
-          "publishedAt": "2026-10-16T20:24:32.000Z",
-          "summary": "Mirrors and murals lined the California manse Dietrich rented from a socialite countess",
-          "image": "https://media.architecturaldigest.com/photos/6ad26605566ffe882ed41539/master/pass/GettyImages-56465460.jpg"
+          "id": "9a4aa8e3f9a948b7",
+          "title": "Diana Kellogg updates her Tribeca home using salvaged materials",
+          "url": "https://www.dezeen.com/2026/10/17/diana-kellogg-historic-tribeca-residence-renovation/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-10-17T17:00:11.000Z",
+          "summary": "New York architect Diana Kellogg has renovated her historic Tribeca residence, highlighting materials repurposed from its industrial past. Kellogg and her family have occupied the home on Staple…",
+          "image": "http://static.dezeen.com/uploads/2026/10/4-staple-street_diana-kellogg-architects_dezeen_sq2ex-411x411.jpg"
         }
       ]
     }
