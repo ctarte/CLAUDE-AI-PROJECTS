@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-10-20T14:36:34.910Z",
+  "generatedAt": "2026-10-21T14:47:57.853Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "ff7e710f6a2dc54e",
-          "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-          "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-10-20T14:24:19.000Z",
-          "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "id": "713f2e047f06292e",
-          "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-10-20T14:09:42.000Z",
-          "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg"
-        },
-        {
-          "id": "ae1f8484b483e8d1",
-          "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
-          "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
+          "id": "7be3cfd1d4ed8b76",
+          "title": "US congressional candidate Brad Lander freed after West Bank detention",
+          "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-20T14:00:49.000Z",
-          "summary": "The UK's new prime minister has made big promises and is a popular leader, but there is still talk of an early election.",
+          "publishedAt": "2026-10-21T14:12:15.000Z",
+          "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
           "image": null
         },
         {
-          "id": "0420afff2ca1f318",
-          "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
-          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+          "id": "643456b192e63747",
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-10-20T13:51:40.000Z",
-          "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1411/live/d0cca190-cc8e-11f1-bc2e-018d645d8d21.jpg"
+          "publishedAt": "2026-10-21T14:04:28.000Z",
+          "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec56/live/86acad50-cd4f-11f1-8177-0f8bd59b54c4.jpg"
         },
         {
-          "id": "551e0766b802b806",
-          "title": "Indonesians protest over land-clearing fires",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+          "id": "af1b570deca7247d",
+          "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+          "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-20T13:23:44.000Z",
-          "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
+          "publishedAt": "2026-10-21T13:58:17.000Z",
+          "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
           "image": null
+        },
+        {
+          "id": "6e840d5ab577def8",
+          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-10-21T13:49:50.000Z",
+          "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg"
+        },
+        {
+          "id": "dd065b9d406fcc50",
+          "title": "Family of prison officer killed by IRA receives state apology",
+          "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-10-21T13:35:27.000Z",
+          "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg"
         }
       ]
     },
@@ -61,44 +61,24 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "9b613196ef29d3df",
-          "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
-          "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+          "id": "2f329cc00390ae50",
+          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-10-20T14:04:10.000Z",
-          "summary": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg"
+          "publishedAt": "2026-10-21T14:24:25.000Z",
+          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png"
         },
         {
-          "id": "448523e20ff2be4d",
-          "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-          "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-10-20T13:35:08.000Z",
-          "summary": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-        },
-        {
-          "id": "6be7d31dd18e4951",
-          "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-          "url": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "id": "315ce41b451bea64",
+          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+          "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-20T13:30:00.000Z",
-          "summary": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5A2NQ7V86JRXXH8Y521EE8Y/yat-siu-trade-secrets.png"
-        },
-        {
-          "id": "bc105ed390b8597a",
-          "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-          "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph.com News",
-          "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-20T13:04:28.000Z",
-          "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg"
+          "publishedAt": "2026-10-21T13:57:14.000Z",
+          "summary": "Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-blockchain-industry-is-still-thriving-solana.jpg"
         },
         {
           "id": "043a2bf5f6f78168",
@@ -106,15 +86,65 @@
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-20T12:50:13.000Z",
+          "publishedAt": "2026-10-21T13:34:54.000Z",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
           "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+        },
+        {
+          "id": "7101f264f5c7dcda",
+          "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+          "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-10-21T13:31:39.000Z",
+          "summary": "CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F7BDZS98A483J2RAEAA5FE/hi-transactions-stopped-warning.jpg"
+        },
+        {
+          "id": "9e7faeacd85fadf5",
+          "title": "5 alternatives to Ledger to store your Bitcoin",
+          "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-10-21T13:30:00.000Z",
+          "summary": "Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CK9G3Z3RXSRTZS1TKE0MXV/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.jpg"
         }
       ]
     },
     "economy": {
       "label": "Economy",
       "articles": [
+        {
+          "id": "21f314981c987167",
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+          "source": "Economy",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-10-21T11:20:58.000Z",
+          "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+          "image": null
+        },
+        {
+          "id": "b4a8274ead94fb2d",
+          "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+          "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+          "source": "Economy",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-10-21T07:50:10.000Z",
+          "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+          "image": null
+        },
+        {
+          "id": "8dfe3d4e085b2fb2",
+          "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+          "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+          "source": "Economy",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-10-21T01:01:01.000Z",
+          "summary": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+          "image": null
+        },
         {
           "id": "2df85f9df779d60c",
           "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
@@ -134,36 +164,6 @@
           "publishedAt": "2026-10-19T08:23:33.000Z",
           "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
           "image": null
-        },
-        {
-          "id": "da27e7ac744641f4",
-          "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-          "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-          "source": "Economy",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-10-16T22:34:29.000Z",
-          "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-          "image": null
-        },
-        {
-          "id": "d311eb6241a5f7e8",
-          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-          "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-          "source": "Economy",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-10-16T22:33:05.000Z",
-          "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-          "image": null
-        },
-        {
-          "id": "1e6bd290617e7f71",
-          "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-          "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-          "source": "Economy",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-10-16T16:27:31.000Z",
-          "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-          "image": null
         }
       ]
     },
@@ -171,54 +171,54 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "559df62b85709b27",
-          "title": "Bank of America’s fine is a warning to Wall Street",
-          "url": "https://thehill.com/opinion/finance/6158534-bank-of-america-money-laundering-fine/",
+          "id": "13efabee1b4956b6",
+          "title": "'The President is not popular': GOP candidate cuts apparent AI prompt from website",
+          "url": "https://thehill.com/homenews/campaign/6162245-eric-pratt-ai-prompt-minnesota-2nd-district/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-20T14:30:00.000Z",
-          "summary": "What is needed is a fundamental restructuring of financial crime education in the private sector.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/bank_of_america_boston_10142022_AP26195433386900-2.jpg?w=900"
+          "publishedAt": "2026-10-21T14:41:11.000Z",
+          "summary": "A Republican candidate in Minnesota has deleted a phrase from his campaign website stating that President Trump is unpopular, a mention that appeared to be a prompt given to AI to generate a message…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292040363163-e1792413785943.jpg?w=900"
         },
         {
-          "id": "1ee01d5b6c4f52b3",
-          "title": "Trump uses antisemitic slur in Kansas rally",
-          "url": "https://thehill.com/homenews/campaign/6160002-trump-uses-antisemitic-slur/",
+          "id": "36166169f7022f5d",
+          "title": "Menopause is having its overdue moment",
+          "url": "https://thehill.com/opinion/healthcare/6160971-medical-training-menopause-care-gaps/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-20T14:26:22.000Z",
-          "summary": "President Trump used an antisemitic slur at a rally in Kansas Monday while defending Sen. Roger Marshall (R-Kan.) over revelations he sued his patients for unpaid medical bills. Trump has defended…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293052993801-e1792462181789.jpg?w=900"
+          "publishedAt": "2026-10-21T14:30:00.000Z",
+          "summary": "This shift is urgently needed.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/menopause_florida_08142026_AP26233736018092-2.jpg?w=900"
         },
         {
-          "id": "dad098be9fccbcea",
-          "title": "Who is headlining the Super Bowl halftime show? Prediction markets lean heavily toward one artist",
-          "url": "https://thehill.com/blogs/in-the-know/6160040-super-bowl-lxii-halftime-show-performer/",
+          "id": "e45ba5adc18b23b6",
+          "title": "Trump approval at new lows in polling days before midterms",
+          "url": "https://thehill.com/homenews/administration/6162347-trump-approval-rating-midterm-lows/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-20T14:24:26.000Z",
-          "summary": "The NFL and Roc Nation have yet to officially announce next year’s Super Bowl halftime performer, but users across two of the biggest prediction markets seem to think they have a pretty good idea.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP23124576701136-e1688069413155.jpg?w=900"
+          "publishedAt": "2026-10-21T14:29:15.000Z",
+          "summary": "President Trump’s approval rating has hit new lows shortly before this year's midterms, according to fresh polls from The New York Times/Siena University and CNN. In the Times/Siena poll, 36 percent…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293697212239-e1792525690426.jpg?w=900"
         },
         {
-          "id": "e288355e4a200bb6",
-          "title": "Mississippi attorney general says officer was justified in shooting 1-year-old Kohen Wiley",
-          "url": "https://thehill.com/homenews/state-watch/6159735-mississippi-kohen-wiley-shooting-justified/",
-          "source": "TheHill.com Just In",
-          "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-20T14:17:17.000Z",
-          "summary": "The Mississippi Attorney General’s office said in a statement Monday that a state investigation found the use of force was “justified” in an officer-involved shooting in June that took the life of a…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/6a34732e561a37.81742275.jpeg?w=900"
+          "id": "421caea8a2b19b98",
+          "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Westminster",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-10-21T14:26:24.000Z",
+          "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ee/live/45d91a50-cd5b-11f1-b962-b7ff822cde72.jpg"
         },
         {
-          "id": "fbd24f47a18f175b",
-          "title": "FBI investigated whether Graham, Clyburn were involved in bribery scheme: Report",
-          "url": "https://thehill.com/homenews/administration/6159672-fbi-investigated-congressional-bribery-scheme/",
+          "id": "a0f65ad5a88b0068",
+          "title": "Trump says he's requiring data centers to provide their own electricity",
+          "url": "https://thehill.com/homenews/administration/6161874-trump-mandates-data-center-power/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-20T14:02:45.000Z",
-          "summary": "The FBI investigated whether South Carolina's late Sen. Lindsey Graham (R) and Rep. James Clyburn (D) were involved in a bribery scheme in connection to Hawaiian naval defense contractor Navatek…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP25017577278279-e1764097438828.jpg?w=900"
+          "publishedAt": "2026-10-21T14:26:05.000Z",
+          "summary": "President Trump said Wednesday he will require data centers to provide their own electricity and give \"any excess\" energy to neighboring communities to prevent rising electrical costs. \"As the…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293697212239-e1792525690426.jpg?w=900"
         }
       ]
     },
@@ -226,54 +226,54 @@
       "label": "AI",
       "articles": [
         {
-          "id": "6fce357d7ac50eec",
-          "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-          "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+          "id": "0b138e9a1d82325f",
+          "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+          "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-20T14:13:32.000Z",
-          "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+          "publishedAt": "2026-10-21T14:00:00.000Z",
+          "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
           "image": null
         },
         {
-          "id": "c723746d1e667296",
-          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-20T13:07:24.000Z",
-          "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-          "image": null
-        },
-        {
-          "id": "208dc20e81cfcf4e",
-          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-20T13:00:00.000Z",
-          "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-          "image": null
-        },
-        {
-          "id": "6d8a3cec26ca199f",
-          "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-          "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+          "id": "26ff3c995518432c",
+          "title": "The Download: introducing the Impossible issue",
+          "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
           "source": "MIT Technology Review",
           "sourceUrl": "https://technologyreview.com",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s…",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196"
+          "publishedAt": "2026-10-21T12:10:00.000Z",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2025/05/LeoB1.1_Serial1_Gram_Aug_2023_3.jpg?w=3000"
         },
         {
-          "id": "7d296a29338c4ed3",
-          "title": "AI adoption by industry shows what other sectors can learn",
-          "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+          "id": "7e687ee1014d6696",
+          "title": "We can do impossible things",
+          "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
           "source": "MIT Technology Review",
           "sourceUrl": "https://technologyreview.com",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology…",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?w=840"
+          "publishedAt": "2026-10-21T09:00:00.000Z",
+          "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even…",
+          "image": null
+        },
+        {
+          "id": "caf65a67c881a1a1",
+          "title": "Nuclear-powered spaceships",
+          "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-10-21T09:00:00.000Z",
+          "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg"
+        },
+        {
+          "id": "f38307b3a9adc6ae",
+          "title": "Exercise in a pill",
+          "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-10-21T09:00:00.000Z",
+          "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-20.svg"
         }
       ]
     },
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "afef69da1b29edd5",
-          "title": "New details emerge on former OpenAI engineer accused of bugging a conference room",
-          "url": "https://www.fastcompany.com/91626746/new-details-emerge-former-openai-engineer-accused-bugging-conference-room",
+          "id": "c310dcc4bf71727d",
+          "title": "This critical household budget item could shape how Americans vote in the upcoming midterms",
+          "url": "https://www.fastcompany.com/91627420/critical-household-budget-item-could-shape-how-americans-vote-upcoming-midterms",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-20T14:26:06.000Z",
-          "summary": "A former OpenAI engineer charged with secretly installing a recording device in a conference room to glean company details had been “mere days” away from absconding to Saudi Arabia before his arrest…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/AP26272706326990-7.52.04-AM.jpg"
+          "publishedAt": "2026-10-21T13:45:24.000Z",
+          "summary": "Like so many Americans, Jenny Escolastico has watched wearily as the cost of living has risen, straining her household budget. But as a mother of two children under 5, she faces added pressure that…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/AP26293719203410.jpg"
         },
         {
-          "id": "cb10e494d2ae3869",
-          "title": "Everyone’s taking PTO and sick days to play ‘Grand Theft Auto VI’",
-          "url": "https://www.fastcompany.com/91626090/everyones-taking-pto-and-sick-days-to-play-grand-theft-auto-vi",
+          "id": "2aed83eeadc2f4ce",
+          "title": "Why the NFL is painting a giant mural on the end zones of this football field",
+          "url": "https://www.fastcompany.com/91627128/nfl-is-painting-a-giant-mural-on-the-end-zones-football-field",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-20T14:00:00.000Z",
-          "summary": "Folks are lining up for their annual seasonal vaccines. But there’s one contagion that a CVS appointment can’t immunize against. “GTA flu” is sweeping the nation—and many workers anticipate…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91626090-exclusive-the-new-grand-theft-auto-is-coming-out-and-people-are-already-calling-out-sick.jpg"
+          "publishedAt": "2026-10-21T13:00:00.000Z",
+          "summary": "Jammie Holmes’s Untitled (2024) is a painting that explores the fleeting nature of beauty and success through the depiction of a child emerging from morning glory flowers. As I write this, a giant…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91627128-nfl-color-field-activation.jpg"
         },
         {
-          "id": "c5a4d22370141725",
-          "title": "Trump still plans on sending $5,000 checks after midterms, but even his fans are skeptical",
-          "url": "https://www.fastcompany.com/91626750/trump-still-plans-sending-5000-checks-after-midterms-even-fans-skeptical",
+          "id": "e173ae8fd3cbacda",
+          "title": "BBC layoffs: More jobs slashed, channels cut as British broadcaster faces ‘immediate cost pressures’",
+          "url": "https://www.fastcompany.com/91627387/bbc-layoffs-today-jobs-slashed-channels-cut-immediate-cost-pressures",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-20T13:30:28.000Z",
-          "summary": "President Donald Trump is hoping that $5,000 checks can juice Republican turnout in November’s midterm elections — but even some of his devoted fans are doubting that government payouts would arrive.…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/AP26293002197322.jpg"
+          "publishedAt": "2026-10-21T12:56:00.000Z",
+          "summary": "Media companies continue to struggle as consumers pivot away from traditional forms of content. The latest example comes from the BBC, which has announced it will cut over 100 jobs. The U.K.-based…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91627387-bbc-slashes-jobs.jpg"
         },
         {
-          "id": "d3735d0fa53d5621",
-          "title": "‘You Can See Everything’ perfectly captures what a decade of post-truth has done to us",
-          "url": "https://www.fastcompany.com/91626165/you-can-see-everything-perfectly-captures-what-a-decade-of-post-truth-has-done-to-us",
+          "id": "4b4b3f47ea04869c",
+          "title": "Netflix’s stock just collapsed to a 2-year low: Is the streaming giant’s ad business in trouble?",
+          "url": "https://www.fastcompany.com/91627396/netflix-stock-price-sinks-2-year-low-nflx-ad-business-in-trouble",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-20T13:13:58.000Z",
-          "summary": "A tech-world documentary may seem an unlikely candidate for one of those movies people claim simply must be experienced in a theater. You Can See Everything makes a strong case all the same. There…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91626165-you-can-see-everything-perfectly-captures-what-a-decade-of-post-truth-has-done-to-us.jpg"
+          "publishedAt": "2026-10-21T12:16:00.000Z",
+          "summary": "Shares in Netflix Inc. (Nasdaq: NFLX) have fallen to a more than a two-year low after the streaming giant posted its Q3 2026 results yesterday. Despite hitting Wall Street’s projected revenue target…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91627396-netflix-stock-sinks-2-year-low.jpg"
         },
         {
-          "id": "7641fb2d515acae9",
-          "title": "Retail bundle wars: Walmart is offering combined memberships with Sam’s Club. The price point is curious",
-          "url": "https://www.fastcompany.com/91626732/walmart-sams-club-plus-membership-retail-bundles-take-on-amazon",
+          "id": "824c4d67e60304cf",
+          "title": "Handwashing changed medicine. AI could too, if hospitals stop treating it like traditional software",
+          "url": "https://www.fastcompany.com/91624590/handwashing-changed-medicine-ai-could-too-if-hospitals-stop-treating-it-like-traditional-software-ai-healthcare-technology",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-20T12:57:00.000Z",
-          "summary": "Walmart Inc. has announced a new membership option—and included a side of shade. We’ll get to the shade in a moment, but first the deal: The big-box retailer is now offering customers a combined…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91626732-retail-bundle-wars-walmart-sams-club.jpg"
+          "publishedAt": "2026-10-21T10:33:00.000Z",
+          "summary": "In 1847, Ignaz Semmelweis asked the doctors in the Vienna maternity clinic where he worked to wash their hands in a chlorine solution before examining patients. Deaths on the ward fell from about 18%…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-91624590-hospitals-need-to-stop-treating-AI-like-normal-software.jpg"
         }
       ]
     },
@@ -336,60 +336,100 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "1e4e12159d50de5c",
-          "title": "Trump says in Kansas he does not plan to hurt Bombardier",
-          "url": "https://www.investing.com/news/stock-market-news/trump-says-in-kansas-he-does-not-plan-to-hurt-bombardier-4960518",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-20T14:19:46.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9J172_L.jpg"
+          "id": "975fa4d57384cecf",
+          "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+          "url": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+          "source": "MarketWatch.com",
+          "sourceUrl": "https://feeds.content.dowjones.io",
+          "publishedAt": "2026-10-21T14:46:00.000Z",
+          "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+          "image": "https://images.mktw.net/im-39955150"
         },
         {
-          "id": "28a538f72e43ce8c",
-          "title": "NatWest faces union backlash after asking staff to spend at least two days a week in office",
-          "url": "https://www.investing.com/news/stock-market-news/natwest-faces-union-backlash-after-asking-staff-to-spend-at-least-two-days-a-week-in-office-4960491",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-20T14:19:29.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9J16U_L.jpg"
+          "id": "2f16fddd97662393",
+          "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+          "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+          "source": "MarketWatch.com",
+          "sourceUrl": "https://feeds.content.dowjones.io",
+          "publishedAt": "2026-10-21T14:45:00.000Z",
+          "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+          "image": "https://images.mktw.net/im-04384503"
         },
         {
-          "id": "9f477629f650de6a",
-          "title": "PayPal shares may move 7.2% on upcoming earnings report",
-          "url": "https://www.investing.com/news/stock-market-news/paypal-shares-may-move-72-on-upcoming-earnings-report-93CH-4960517",
+          "id": "8fe60af34369422b",
+          "title": "Why is Meta Platforms stock rallying today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-4963528",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-20T14:19:29.000Z",
+          "publishedAt": "2026-10-21T14:35:05.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXNPEB602LM_M.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEHA8158_L.jpg"
         },
         {
-          "id": "9f5aa892b90ad567",
-          "title": "Wave Life Sciences at Chardan’s 10th Annual Healthcare Conference: chemistry focus",
-          "url": "https://www.investing.com/news/transcripts/wave-life-sciences-at-chardans-10th-annual-healthcare-conference-chemistry-focus-93CH-4960516",
+          "id": "72985799162439a4",
+          "title": "Expro earnings: Investors brace for margin test after Q2 miss",
+          "url": "https://www.investing.com/news/earnings/expro-earnings-investors-brace-for-margin-test-after-q2-miss-93CH-4963527",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-20T14:19:25.000Z",
+          "publishedAt": "2026-10-21T14:34:57.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
         },
         {
-          "id": "87bf9ea7562b7d92",
-          "title": "Aerospace and military contractors raise 2026 profit forecasts",
-          "url": "https://www.investing.com/news/stock-market-news/northrop-lifts-2026-profit-forecast-on-strong-defense-demand-record-backlog-4959415",
+          "id": "05ce6f80bf9fe909",
+          "title": "PulteGroup earnings in focus: Can homebuilder hold margins as rates surge?",
+          "url": "https://www.investing.com/news/earnings/pultegroup-earnings-in-focus-can-homebuilder-hold-margins-as-rates-surge-93CH-4963526",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-20T14:19:13.000Z",
+          "publishedAt": "2026-10-21T14:34:02.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RR_L.jpg"
+          "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
         }
       ]
     },
     "marketing": {
       "label": "Marketing",
       "articles": [
+        {
+          "id": "35d367ee7e15518f",
+          "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
+          "url": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-21T14:21:00.000Z",
+          "summary": "While the streamer grew revenue 12% year over year in Q3, it expects ad revenue to come in $300 million lower than previously forecast.",
+          "image": "https://imgproxy.divecdn.com/TXWvVvzPnZA1WFjrlfP1yKqkOyZPZ3MymXeaO1VNrpc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM5ODY5ODM2LmpwZw==.webp"
+        },
+        {
+          "id": "00808e24776b7ae0",
+          "title": "Domino’s links with Minecraft to push personal pizza via gaming",
+          "url": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-21T11:07:00.000Z",
+          "summary": "The collaboration with the popular video game includes creator content, in-game items, packaging and giveaways in support of the new Domino offering.",
+          "image": "https://imgproxy.divecdn.com/uGBFKZq7fGLMB6WQ8s-Lhthip987dts0ff2mMYHahKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Eb21pbm9zX01pbmVjcmFmdF9QUl9IZXJvX0ltYWdlXzFfQm94RG9taW5vRExDLnBuZw==.webp"
+        },
+        {
+          "id": "807964b29c4c5e7d",
+          "title": "Courvoisier’s first global campaign in years embraces house party culture",
+          "url": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-20T19:40:00.000Z",
+          "summary": "The campaign, which will run across social, retail, TV and OOH channels, comes as the category continues to face pressure after COVID-era booms.",
+          "image": "https://imgproxy.divecdn.com/86xsY18Xp5t5ifcboAeW4pBVBbxUVxh1cVJr-ppzxp0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS85NDI3NDUxLWFzc2V0My5qcGc=.webp"
+        },
+        {
+          "id": "601138f7032cb714",
+          "title": "Publicis agrees to preserve LiveRamp’s neutrality. Will it matter?",
+          "url": "https://www.marketingdive.com/news/publicis-agrees-to-preserve-liveramps-neutrality-will-it-matter/833463/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-20T14:49:00.000Z",
+          "summary": "A proposed FTC consent order mandates nondiscriminatory access to the platform and puts firewalls in place, but some Publicis competitors are already pulling back.",
+          "image": "https://imgproxy.divecdn.com/bO3r69i4Rekmqw1haPFgE5-U7WYO_UtvDy-diVlPvbE/g:nowe:23:0/c:939:530/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI0Mjk4MzMyLmpwZw==.webp"
+        },
         {
           "id": "84ec7319732b3190",
           "title": "Dollar Shave Club markets ‘perfectly good’ razors as AI push continues",
@@ -399,46 +439,6 @@
           "publishedAt": "2026-10-20T13:17:00.000Z",
           "summary": "The brand looks to tie together its advertising efforts under an omnichannel campaign, explains Chief Brand and Innovation Officer Laura Higgins.",
           "image": "https://imgproxy.divecdn.com/UivvfsdlXbadynUwCGC66xQGrPgd27NRpEIGuD4iwsU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV80X3FGdTJkRHQuanBn.webp"
-        },
-        {
-          "id": "dbffcdc618779f73",
-          "title": "What options exist for running AEO without a large team?",
-          "url": "https://blog.hubspot.com/marketing/aeo-for-small-teams",
-          "source": "Marketing",
-          "sourceUrl": "https://blog.hubspot.com",
-          "publishedAt": "2026-10-20T13:15:03.000Z",
-          "summary": "Companies without the internal resources or budget to build a dedicated search department still need to know what options exist for running AEO without a large team. Answer Engine Optimization is no…",
-          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
-        },
-        {
-          "id": "75cd2497170d9438",
-          "title": "Amy’s Kitchen tackles ultra-processed food myths in national campaign",
-          "url": "https://www.marketingdive.com/news/amys-kitchen-tackles-ultra-processed-food-myths-in-national-campaign/833334/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-19T16:00:00.000Z",
-          "summary": "The campaign includes Meta and programmatic display ads, in-store signage and a Whole Foods Market activation.",
-          "image": "https://imgproxy.divecdn.com/DuHLE_YhXAVJTiGoiyKvQvWt0CsHq2MWsIX0jEd75Kk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbXlzX0tpdGNoZW5fRnVsbF9Qb3AtVXBfMi5qcGc=.webp"
-        },
-        {
-          "id": "e6c6f20cbd58129c",
-          "title": "Billion Dollar Boy Group bets B2B is creator marketing’s next big wave",
-          "url": "https://www.marketingdive.com/news/billion-dollar-boy-group-bets-b2b-is-creator-marketings-next-big-wave/833346/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-19T15:00:00.000Z",
-          "summary": "The acquisition of Creator Authority, a LinkedIn specialist agency, puts the company on track to top $100 million in global revenue next year.",
-          "image": "https://imgproxy.divecdn.com/eOz1PVXxXfSaXNoFGEzAWO5EmzkXwt2x7dQqLl0yYq4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjMwNTM3ODU1X3JVTzROczIuanBn.webp"
-        },
-        {
-          "id": "c50a7811ef273371",
-          "title": "How marketers can optimize their media mix as confidence takes a turn",
-          "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-19T15:00:00.000Z",
-          "summary": "Advertisers are upping their bets on generative artificial intelligence and creators as uncertainty lingers around their media strategies, per Kantar.",
-          "image": "https://imgproxy.divecdn.com/aMKFRn9WZB1p16vKHDzr_M6AzCcGOU6_xFuOo70Qaq8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbmZsdWVuY2VyLmpwZw==.webp"
         }
       ]
     },
@@ -446,54 +446,54 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "e85a4c5da2af52ae",
-          "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-          "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+          "id": "53a5823a9511ee0d",
+          "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+          "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-20T14:18:37.000Z",
-          "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-10-21T14:47:14.000Z",
+          "summary": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen.…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsung5k.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "6fce357d7ac50eec",
-          "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-          "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-20T14:13:32.000Z",
-          "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
-          "image": null
-        },
-        {
-          "id": "54693e4e62e2b13c",
-          "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-          "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-20T13:17:36.000Z",
-          "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-          "image": null
-        },
-        {
-          "id": "979e928743bc4284",
-          "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-          "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+          "id": "1326b727f62aeaa3",
+          "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
+          "url": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-20T13:11:23.000Z",
-          "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951406/STK051_VRG_Illo_N_Barclay_6_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-10-21T14:22:59.000Z",
+          "summary": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out,…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "c723746d1e667296",
-          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+          "id": "7d86b18ce7091bbf",
+          "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+          "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-20T13:07:24.000Z",
-          "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+          "publishedAt": "2026-10-21T14:03:11.000Z",
+          "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
           "image": null
+        },
+        {
+          "id": "0b138e9a1d82325f",
+          "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+          "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-10-21T14:00:00.000Z",
+          "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+          "image": null
+        },
+        {
+          "id": "5765f068d39ac41c",
+          "title": "Blink brings 4K to its low-cost security camera lineup",
+          "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-10-21T14:00:00.000Z",
+          "summary": "From left to right, here are the Outdoor 2K XR Plus and Mini Pant-Tilt 2K Plus (top), and the Spotlight Cam 2K Plus, Mini 4K Plus, and Frontier XR Plus (bottom). | Image: Amazon / Blink Amazon is…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Blink-security-camera-lineup.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         }
       ]
     },
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "83412812302cf17b",
-          "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-          "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+          "id": "449e9e653f89b60c",
+          "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
+          "url": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
           "source": "Business News",
           "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-10-20T13:46:36.000Z",
-          "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+          "publishedAt": "2026-10-21T14:40:02.000Z",
+          "summary": "Broadcast TV is set to capture nearly half of political advertising spending ahead of the midterm election as local stations benefit from record spending.",
           "image": null
         },
         {
-          "id": "10efcc4ffd99c6e1",
-          "title": "Signal Awards Crowns 2026 Winners, Honoring Excellence In Podcasting",
-          "url": "https://www.forbes.com/sites/frankracioppi/2026/10/20/signal-awards-crowns-2026-winners-honoring-excellence-in-podcasting/",
+          "id": "6898d13f37858bb6",
+          "title": "Potatoe Chips Fried In Water?Why Food Innovation Is Now A Leadership Test",
+          "url": "https://www.forbes.com/sites/philkafarakis/2026/10/21/potatoe-chips-fried-in-waterwhy-food-innovation-is-now-a-leadership-test/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-20T13:41:52.000Z",
-          "summary": "The Signal Awards announced the winners of its fifth annual competition, celebrating creators and innovators shaping the podcast industry.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad76c6135c037ca22b56421/0x0.jpg"
+          "publishedAt": "2026-10-21T14:08:00.000Z",
+          "summary": "Potato chips fried in water? SIAL Paris reveals food innovation's real leadership test: challenging assumptions behind how we make and market food. New age of making food",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad8b434dce2b187386713e5/0x0.jpg?width=960&precrop=282%2C159%2Cx0%2Cy92"
         },
         {
-          "id": "0ddefd84f978bf69",
-          "title": "The Logic And Risks Of Destiny 2’s Bungie Making ‘Star Wars: Battlefront 3’",
-          "url": "https://www.forbes.com/sites/paultassi/2026/10/20/the-logic-and-risks-of-destiny-2s-bungie-making-star-wars-battlefront-3/",
+          "id": "5a4e06fea0dacf8e",
+          "title": "Coping With Failure",
+          "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/10/21/coping-with-failure/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-20T13:29:22.000Z",
-          "summary": "Destiny 2 developer Bungie is rumored to be under consideration to develop Battlefront 3 for Disney.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad76b257635aadb814d5dc6/0x0.jpg"
+          "publishedAt": "2026-10-21T14:07:17.000Z",
+          "summary": "Failures do not define who we are. Instead, they help us build who we become. In fact, all of those problems help us cope when something else goes wrong.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad8c523026c383fc3b5e576/0x0.jpg"
         },
         {
-          "id": "493bf4b7e899b2af",
-          "title": "‘Cyberpunk 2077’ Update 2.5 Revealed, Its Biggest Since ‘Phantom Liberty’",
-          "url": "https://www.forbes.com/sites/paultassi/2026/10/20/cyberpunk-2077-update-25-revealed-its-biggest-since-phantom-liberty/",
+          "id": "c54d8fecaee92fdc",
+          "title": "Elizabeth Holmes Series ‘The Dropout’ Surged 400% The Day After ‘You Can See Everything’ Hit Theaters",
+          "url": "https://www.forbes.com/sites/conormurray/2026/10/21/elizabeth-holmes-series-the-dropout-surged-400-the-day-after-you-can-see-everything-hit-theaters/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-20T12:59:15.000Z",
-          "summary": "'Cyberpunk 2077' is about to get its biggest update, Update 2.5, since Phantom Liberty to celebrate the release of Edgerunners season 2.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad764b62d05f729485154c9/0x0.jpg"
+          "publishedAt": "2026-10-21T14:01:55.000Z",
+          "summary": "Views of “The Dropout,” a 2022 Hulu miniseries about convicted fraudster Elizabeth Holmes, surged 400% the day after new documentary “You Can See Everything” opened in theaters.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad27fdb32a0185ce004880e/0x0.jpg?width=960&precrop=1562%2C878%2Cx9%2Cy201"
         },
         {
-          "id": "e07d817b09afefa0",
-          "title": "Netflix’s Costco Strategy Faces Another Earnings Test",
-          "url": "https://www.forbes.com/sites/rickellis/2026/10/20/netflixs-costco-strategy-faces-another-earnings-test/",
+          "id": "435610c355dc6aaf",
+          "title": "Forbes’ 12th Annual CIO Summit Will Convene Leading Technology Executives To Discuss How Companies Are Optimizing What Works In The AI Era",
+          "url": "https://www.forbes.com/sites/pr/2026/10/21/forbes-12th-annual-cio-summit-will-convene-leading-technology-executives-to-discuss-how-companies-are-optimizing-what-works-in-the-ai-era/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-20T12:59:05.000Z",
-          "summary": "Netflix is not a traditional television network, and it is not simply a movie studio with a streaming app attached. Its business model has more in common with Costco.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad76339f7f6542c9b41c2dd/0x0.jpg"
+          "publishedAt": "2026-10-21T13:59:02.000Z",
+          "summary": "Forbes today announced it will be hosting its 12th annual Forbes CIO Summit on November 11 in New York City and virtually.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ad7d561bdb7832bbab27473/0x0.jpg?width=960"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "f5b676b2fdccbb11",
-          "title": "Announcing Hypebeast Magazine #38: The Juice Issue",
-          "url": "https://hypebeast.com/2026/10/announcing-hypebeast-magazine-38-the-juice-issue",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-20T14:00:52.000Z",
-          "summary": "It's been called sauce, swag, aura, and charisma, but none of those words quite do the job. Hypebeast Magazine #38: The Juice Issue is dedicated to Juice, the energy behind the artists, designers,…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F15%2FHBM38_COVERS_ALL3_GRID_-scaled.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "97540e998672b819",
+          "title": "The Explosion in Men’s Jewelry Is Breaking All the Old Rules",
+          "url": "https://www.esquire.com/style/mens-accessories/a74159237/mens-jewelry-trends-colored-gems/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-10-21T11:00:00.000Z",
+          "summary": "There was a time when the only stone a man could wear—if he wore jewelry at all—was a diamond. Now diamonds are crashing, colored gems are ascendant, and, hey, are those ancient Roman coins? At the…",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/7ef7b1c2-9c62-4507-af16-80bde66681d4.jpg"
         },
         {
-          "id": "f9ee01ed3b984028",
-          "title": "Blauer’s New Season Collection Is Made for Winters in the City",
-          "url": "https://hypebeast.com/2026/10/blauer-fall-winter-2026-collection-release-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-20T10:54:15.000Z",
-          "summary": "This season, Blauer elevates its technical apparel to support active city lifestyles. As captured in its latest campaign, featuring UK music artists DYLAN, Cassyette, and Ben Kidson, the new…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F16%2Fblauer-fall-winter-2026-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "91b2c389e942c725",
+          "title": "The 5 Best Nose Hair Trimmers for Men",
+          "url": "https://www.esquire.com/style/grooming/g74159005/best-nose-hair-trimmer/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-10-20T19:25:00.000Z",
+          "summary": "Depending on what you need (versatility? power? affordability?) there is a pick for you.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/681697ac-d479-468a-982e-9e57900f1b68.jpg"
         },
         {
-          "id": "be584c020f161bd1",
-          "title": "The Salomon XT-6 PROTECTIVE and XT-WHISPER GTX Receive BILLY’S-Exclusive Colorways",
-          "url": "https://hypebeast.com/2026/10/salomon-expedition-pack-xt-quest-l49177400-x-alp-l49177400-xt-whisper-l49193100-snowclog-og-l49180400-release-info-2",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-20T09:59:00.000Z",
-          "summary": "Name: Salomon XT-6 PROTECTIVE & XT-WHISPER GTX BILLY’s ExclusivesColorway: Stormy Weather/Dark Navy/Trooper, Grisaille/Dark Navy/BlackSKU: TBCMSRP: ¥26,400 - ¥29,700 JPY (approx. $167 - $188…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F20%2Fsalomon-xt-6-protective-stormy-weather-dark-navy-trooper-xt-whisper-gore-tex-grisaille-dark-navy-black-billys-exclusive-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "9b254023807875f4",
+          "title": "OG Anunoby Really Does Love Skechers",
+          "url": "https://www.esquire.com/style/mens-fashion/a74174502/og-anunoby-knicks-skechers-interview-2026/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-10-20T19:16:48.000Z",
+          "summary": "“Performance-wise, it’s just amazing,” the New York Knicks star says at the launch of his new limited-edition sneaker. “It allows me to do what I need to do on the court.”",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/5ca173ef-b01d-4f75-a70d-927261cbcc2d.jpeg"
         },
         {
-          "id": "7b866f2e12aae511",
-          "title": "MAMMUT and BEAMS Revive the Expedition-Proven “Serac Extreme Jacket” for a Limited Run",
-          "url": "https://hypebeast.com/2026/10/beams-mammut-limited-edition-serac-extreme-jacket-re-release-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-20T09:45:51.000Z",
-          "summary": "Summary BEAMS is reissuing MAMMUT’s Serac Extreme Jacket as a limited special edition built closely on the original designThe updated shell uses GORE-TEX and pairs a large MAMMUT logo on one sleeve…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F20%2Fft-BEAMS-MAMMUT-Limited-Edition-Serac-Extreme-Jacket-Re-Release-Info.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "d642708a2a86e329",
+          "title": "The Best Seiko Watches Coming Out in November 2026",
+          "url": "https://www.esquire.com/style/mens-accessories/g74194026/best-seiko-watches-november-2026/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-10-20T16:34:19.000Z",
+          "summary": "Whether you’re after a serious diving watch or something playful, the Japanese brand has you covered.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/15cf9971-0191-40d0-9e10-5f6add6cd862.jpeg"
         },
         {
-          "id": "6e2e2920fb179b86",
-          "title": "Nike’s “Plaid Pack” Dresses Four Classics in Red Tartan",
-          "url": "https://hypebeast.com/2026/10/nike-plaid-pack-air-force-1-low-ir5596-001-shox-tl-ir5598-002-air-max-plus-ir5731-600-air-max-90-im5167-002-official-images-release-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-20T09:43:43.000Z",
-          "summary": "Name: Nike “Plaid Pack”MSRP: ￥17,600 - ￥29,700 JPY (approx. $111 - $188 USD)Release Date: October 22Where to Buy: NikeNike brings a cold-weather twist to four women’s classics with its new “Plaid…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F20%2Fnike-plaid-pack-air-force-1-low-ir5596-001-shox-tl-ir5598-002-air-max-plus-ir5731-600-air-max-90-im5167-002-official-images-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "a4009dc908d32121",
+          "title": "10 Pairs of Chelsea Boots You Can Wear in Nasty Weather",
+          "url": "https://www.esquire.com/style/a74091357/best-waterproof-chelsea-boots/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-10-19T20:13:09.000Z",
+          "summary": "Style and substance, wrapped into one classic shape.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/d3aa2df7-1de3-4e3e-b9e3-3de116a037fa.jpg"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "7b980a1e7b87327d",
-          "title": "Gustave Fayet Reemerges from the History Books",
-          "url": "https://www.architecturaldigest.com/story/gustave-fayet-reemerges-from-the-history-books",
+          "id": "c41c2509853becb1",
+          "title": "Carrie Fisher at Home: 10 Photos of the Star Wars Legend’s Life Behind the Scenes",
+          "url": "https://www.architecturaldigest.com/story/carrie-fisher-at-home-photos-of-the-star-wars-legends-life-behind-the-scenes",
           "source": "Architectural Digest",
           "sourceUrl": "https://architecturaldigest.com",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "summary": "Lesser known but widely influential, the artist-collector reveals the breadth of his imagination in Fondation Louis Vuitton's new immersive exhibition",
-          "image": "https://media.architecturaldigest.com/photos/6ac6531414c20849fdcdf07b/master/pass/AD1126_GUSTAVE_FAYET_1%20copy.jpg"
+          "publishedAt": "2026-10-21T13:58:06.000Z",
+          "summary": "Fisher and her mother, Debbie Reynolds, were next-door neighbors",
+          "image": "https://media.architecturaldigest.com/photos/6ad7ba201e65a78ad8232cc2/master/pass/GettyImages-870306856.jpg"
         },
         {
-          "id": "356f5473b59ef308",
-          "title": "“Architecture Must Return to Its Essence”: Wang Shu and Lu Wenyu on the 2027 Venice Architecture Biennale",
-          "url": "https://www.archdaily.com/1187187/architecture-must-return-to-its-essence-wang-shu-and-lu-wenyu-on-the-2027-venice-architecture-biennale",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-20T08:00:00.000Z",
-          "summary": "\"Architecture must return to its essence.\" With this statement, Wang Shu and Lu Wenyu establish the central premise of their curatorial vision for the 20th International Architecture Exhibition of La…",
-          "image": "https://images.adsttc.com/media/images/6ad7/3e5a/8008/f401/8ba5/48bd/newsletter/architecture-must-return-to-its-essence-wang-shu-and-lu-wenyu-on-the-2027-venice-architecture-biennale_8.jpg?1792491114"
+          "id": "58c154a558f3b5dd",
+          "title": "The Frankfurt Kitchen Changed Design History Forever—Inside the Race to Save the Last Ones Standing",
+          "url": "https://www.architecturaldigest.com/story/the-frankfurt-kitchen-changed-design-history-forever-inside-the-race-to-save-it-from-extinction",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-10-21T12:00:00.000Z",
+          "summary": "Devotees have spent years salvaging cabinets and hardware from the world's first modern kitchen. Now a new program is keeping some of the 1926 designs in their original homes",
+          "image": "https://media.architecturaldigest.com/photos/6acf98fd6996a76491fae8cc/master/pass/3BRNF4T.jpg"
         },
         {
-          "id": "6087671a3dfe1c1c",
-          "title": "Inherited Ground: Designing Houses on Contaminated Land",
-          "url": "https://www.archdaily.com/1187056/inherited-ground-designing-houses-on-contaminated-land",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-20T07:30:00.000Z",
-          "summary": "Industrial activity can end long before its effects disappear from the land. Factories close, buildings are demolished, and former industrial districts gradually become part of new residential…",
-          "image": "https://images.adsttc.com/media/images/6ad3/778f/8008/f401/8ba5/408b/newsletter/building-on-contaminated-ground-rethinking-residential-development_3.jpg?1792243606"
+          "id": "e4ff35dec8f31771",
+          "title": "This Artist Uses a Six Foot Tall Hand Loom to Create Textiles That Are So Luxurious People “Won't Let Them Go”",
+          "url": "https://www.architecturaldigest.com/story/this-artist-uses-a-six-foot-tall-hand-loom-to-create-textiles-that-are-so-luxurious-people-wont-let-them-go",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-10-21T12:00:00.000Z",
+          "summary": "San Francisco–based artist Marina Contro creates understated weavings rooted in tradition and a sensitivity to material",
+          "image": "https://media.architecturaldigest.com/photos/6accec67aab7d3e34d046a26/master/pass/AD1126_OTW_1%20copy.jpg"
         },
         {
-          "id": "5a91cb131a1637f7",
-          "title": "Palais de Justice de Lille / OMA",
-          "url": "https://www.archdaily.com/1187188/palais-de-justice-de-lille-oma",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-20T07:00:00.000Z",
-          "summary": "Any new architectural addition to the city of Lille has to address the past, the present and the future. That is even more true on the site of Vauban's former fortifications – used in Lille as a zone…",
-          "image": "https://images.adsttc.com/media/images/6ad7/379b/c720/ac01/8896/317c/newsletter/palais-de-justice-de-lille-oma_1.jpg?1792489419"
+          "id": "dc10bddfe40762bf",
+          "title": "Dezeen launches \"richer and more versatile\" new website",
+          "url": "https://www.dezeen.com/2026/10/21/dezeen-launches-new-website-2026/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-10-21T11:03:00.000Z",
+          "summary": "Dezeen has updated its website for the first time in 10 years. Dezeen's co-CEOs Benedict Hobson and Wai Shin Li explain the changes. You might have noticed that things look a little different around…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/10/Dezeen-website-homepage-laptop_dezeen_01_sq-1024x1024.jpg"
         },
         {
-          "id": "8b5e4b1834a09a58",
-          "title": "How Much Information Does a BIM Model Really Need?",
-          "url": "https://www.archdaily.com/1185893/how-much-information-does-a-bim-model-really-need",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-20T06:45:00.000Z",
-          "summary": "Building Information Modeling has made it possible to attach an enormous amount of information to each element of a design. A wall can carry its fire resistance class and its cost group, and later…",
-          "image": "https://images.adsttc.com/media/images/6aba/44a6/df03/a301/88d4/b1a8/newsletter/how-much-information-does-a-bim-model-really-need_3.jpg?1790592178"
+          "id": "760df54b78580da6",
+          "title": "Dosorozco uses stone and blackened timber for textured home in Mexican forest",
+          "url": "https://www.dezeen.com/2026/10/21/dosorozco-casa-sima/",
+          "source": "Dezeen",
+          "sourceUrl": "https://dezeen.com",
+          "publishedAt": "2026-10-21T10:30:00.000Z",
+          "summary": "Architecture studio Dosorozco has used a palette of blackened timber, stonework and pale plaster at Casa Sima, a Mexican home designed to echo the textures and tones of its forest surroundings. Named…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/10/casa-sima-dosorozco-mexico-houses-residential-architecture_dezeen_2364_sq-1024x1024.jpg"
         }
       ]
     }
