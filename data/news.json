@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-10-25T14:02:54.705Z",
+  "generatedAt": "2026-10-26T16:24:35.219Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "e835ac8cebcc7647",
-          "title": "Saudi air defences intercept Houthi barrage near Mecca",
-          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+          "id": "49b9052123cbec5d",
+          "title": "Saddam Haftar is eyeing the throne in Libya",
+          "url": "https://www.aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-25T13:49:33.000Z",
-          "summary": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz.",
+          "publishedAt": "2026-10-26T16:01:19.000Z",
+          "summary": "As the US looks to broker a unity deal, Saddam is trying to position himself as the main contender for the presidency.",
           "image": null
         },
         {
-          "id": "8f590579daf4e54c",
-          "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-          "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+          "id": "1ac75c93845fe01f",
+          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-10-26T15:46:31.000Z",
+          "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9660/live/4332a8c0-d148-11f1-9eb5-811878e0f07d.jpg"
+        },
+        {
+          "id": "462fda5da44720ee",
+          "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-10-26T15:45:30.000Z",
+          "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fbc/live/37ee8ce0-d152-11f1-9eb5-811878e0f07d.jpg"
+        },
+        {
+          "id": "2d6382e08911a797",
+          "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+          "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-25T13:46:51.000Z",
-          "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
+          "publishedAt": "2026-10-26T15:44:59.000Z",
+          "summary": "UN report highlights crimes including extermination, torture, rape and other forms of sexual violence.",
           "image": null
         },
         {
-          "id": "02ec02fc074fe458",
-          "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
+          "id": "53fb2e117f152d98",
+          "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-25T13:40:10.000Z",
-          "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.",
-          "image": null
-        },
-        {
-          "id": "6ffcdfaa21f3564a",
-          "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-25T13:29:56.000Z",
-          "summary": "Officers baton-charge demonstrators in overnight operation as activists demand government action on housing crisis.",
-          "image": null
-        },
-        {
-          "id": "6ddb990a286cde8a",
-          "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-          "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-10-25T12:40:20.000Z",
-          "summary": "The victory helped the Kazakh take a big step towards securing the year-end number one ranking.",
+          "publishedAt": "2026-10-26T15:41:29.000Z",
+          "summary": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
           "image": null
         }
       ]
@@ -61,54 +61,54 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "2034bd41ea2cb159",
-          "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
-          "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
-          "source": "Decrypt",
-          "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-10-25T14:01:03.000Z",
-          "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png"
-        },
-        {
-          "id": "48b8a283902efb8f",
-          "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-          "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+          "id": "07a1360d15f0bb17",
+          "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+          "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-10-25T13:00:00.000Z",
-          "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+          "publishedAt": "2026-10-26T16:05:12.000Z",
+          "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
         },
         {
-          "id": "bb7856f815960d76",
-          "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-          "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "id": "a49c1e383e4ae5fe",
+          "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+          "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+          "source": "Decrypt",
+          "sourceUrl": "https://decrypt.co",
+          "publishedAt": "2026-10-26T16:04:51.000Z",
+          "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2023/07/brazil-technology-shutterstock_1201705168-16x9-1-gID_7.jpg"
+        },
+        {
+          "id": "3052ae9d360ffbef",
+          "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+          "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "sourceUrl": "https://coindesk.com",
+          "publishedAt": "2026-10-26T15:59:55.000Z",
+          "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/366e421dc20482413b56aebe36de11d10a00a62c-3875x2583.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        },
+        {
+          "id": "90da64e5567bf56d",
+          "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+          "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-10-25T11:42:00.000Z",
-          "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central…",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png"
+          "publishedAt": "2026-10-26T15:54:15.000Z",
+          "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg"
         },
         {
-          "id": "1406f5c70f6458db",
-          "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
-          "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
-          "source": "Decrypt",
-          "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-10-24T17:01:02.000Z",
-          "summary": "A policy change effective Oct. 16 carves out an exception to Google’s long-standing pledge—letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI…",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png"
-        },
-        {
-          "id": "01765e01090b8e3c",
-          "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-          "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
-          "source": "Decrypt",
-          "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-10-24T16:01:03.000Z",
-          "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png"
+          "id": "e7d3b515f574ef4b",
+          "title": "OCC calls on community banks to enter the stablecoin payments market",
+          "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "sourceUrl": "https://coindesk.com",
+          "publishedAt": "2026-10-26T15:45:51.000Z",
+          "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a623e61743b25176fc14fe8438bbe43ad09a982b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
         }
       ]
     },
@@ -171,54 +171,54 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "898cfb580145a061",
-          "title": "How Trump learned to stop worrying and love space science",
-          "url": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/",
+          "id": "4ced7faa7074826f",
+          "title": "Judge rules James Comey's daughter unlawfully fired as federal prosecutor",
+          "url": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-25T14:00:00.000Z",
-          "summary": "He recognizes a cool thing when he sees it.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trump_donald_nasa_houston_08282026_AP26241576219436-2.jpg?w=900"
+          "publishedAt": "2026-10-26T16:17:54.000Z",
+          "summary": "A federal judge ruled Monday that the Department of Justice (DOJ) unlawfully fired and must provide back pay to Maurene Comey, former FBI Director James Comey’s daughter who was terminated as a…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69f0c1800e4918.75732553.jpeg?w=900"
         },
         {
-          "id": "7cfa6f4e22574667",
-          "title": "Trump calls Murkowski a 'disgrace' to Alaska, criticizes ranked choice voting",
-          "url": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/",
+          "id": "d9af3acff9b877f8",
+          "title": "World leaders scoff at Trump mulling Orbán as UN secretary general",
+          "url": "https://thehill.com/policy/international/6172596-world-leaders-scoff-orban-unsg/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-25T13:53:24.000Z",
-          "summary": "President Trump went after Sen. Lisa Murkowski (R-Alaska) and Alaska’s ranked choice voting system on Saturday. “The Republicans’ Worst Senator, by far, Lisa Murkowski, of the Great State of Alaska…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26296691400753-e1792785938632.jpg?w=900"
+          "publishedAt": "2026-10-26T16:10:31.000Z",
+          "summary": "World leaders scoffed at President Trump reportedly mulling the idea of nominating former Hungarian prime minister and Trump-ally Viktor Orbán as the United Nations Secretary General. Polish Prime…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Elsewhere-Orban_041226_AP_Petr-David-Josek.jpg?w=900"
         },
         {
-          "id": "718a9a6291d4cfe9",
-          "title": "Bill Ackman urges Israelis to exclude far-right ministers ahead of elections",
-          "url": "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/",
+          "id": "221149d3d47bdd35",
+          "title": "Billy Crystal: Trump's Kennedy Center moves 'so selfish and so petty'",
+          "url": "https://thehill.com/blogs/in-the-know/6172595-billy-crystal-trumps-kennedy-center/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-25T13:24:48.000Z",
-          "summary": "Billionaire hedge fund investor Bill Ackman called for Israel’s next government to exclude far-right National Security Minister Itamar Ben-Gvir and Finance Minister Bezalel Smotrich days before…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2025/04/GettyImages-1808015184-e1744224723217.jpg?w=900"
+          "publishedAt": "2026-10-26T16:07:36.000Z",
+          "summary": "Billy Crystal — the recipient of two of the Kennedy Center's most prestigious awards — says what's happening at the Washington performing arts institution amid President Trump's legal battle \"really…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/crystalbilly_ap.jpg?w=900"
         },
         {
-          "id": "7a98029d149b90b4",
-          "title": "Live updates: Trump heads to Michigan; Blanche hits Sunday shows amid DOJ lawsuits",
-          "url": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/",
+          "id": "960ad5bbc40461c7",
+          "title": "Trump to return to South Carolina days ahead of election",
+          "url": "https://thehill.com/homenews/state-watch/6172625-trump-rock-hill-sc-rnc-graham-whatley/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-25T13:07:23.000Z",
-          "summary": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states’ election…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298060041289-e1792932993242.jpg?w=900"
+          "publishedAt": "2026-10-26T16:07:34.000Z",
+          "summary": "The Republican National Committee announced Monday that President Trump will campaign in Rock Hill, S.C., on Thursday, marking his second trip to the Palmetto State within the span of a week. Trump…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26295066365857-e1793030735352.jpg?w=900"
         },
         {
-          "id": "688feab8e7ec1ff0",
-          "title": "America the Beautiful Act honors Theodore Roosevelt’s conservation legacy",
-          "url": "https://thehill.com/opinion/energy-environment/6169510-national-park-maintenance-bill/",
+          "id": "df925d6f744bcea9",
+          "title": "Former diplomats, top foreign affairs experts back Jackson in Maine Senate race",
+          "url": "https://thehill.com/homenews/state-watch/6172605-diplomats-back-jackson-maine-senate/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-10-25T13:00:00.000Z",
-          "summary": "The bipartisan America the Beautiful Act, which proposes an international visitor surcharge to fund the maintenance of national parks and public lands, is moving through Congress.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293702505480.jpg?w=900"
+          "publishedAt": "2026-10-26T16:07:08.000Z",
+          "summary": "More than 60 former diplomats and top foreign affairs experts are backing Democrat Troy Jackson as he vies for a Maine Senate seat next week against Sen. Susan Collins (R-Maine). Sixty-two officials…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/08/jackson_troy_07252026_AP26206599930359-1.jpg?w=900"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "label": "AI",
       "articles": [
         {
-          "id": "b0af889ad05fbb7f",
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "id": "2c43c284058f6166",
+          "title": "Anthropic officially files for its public debut",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-24T19:00:00.000Z",
-          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "publishedAt": "2026-10-26T14:35:22.000Z",
+          "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI…",
           "image": null
         },
         {
-          "id": "35d668020c863316",
-          "title": "Block’s new voice model sounds eerily human",
-          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-24T16:00:00.000Z",
-          "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+          "id": "2b5e3b374d0e17d8",
+          "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+          "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-10-26T12:40:00.000Z",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260326_uterus.jpg?fit=2128,1196"
+        },
+        {
+          "id": "69d5a0023539efcf",
+          "title": "The focus on AI safety disasters ignores everyday harms",
+          "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-10-26T09:01:00.000Z",
+          "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy…",
           "image": null
         },
         {
-          "id": "110fd09f65f25a52",
-          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "id": "a6feae291b1a855a",
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-24T15:00:00.000Z",
-          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+          "publishedAt": "2026-10-25T21:31:16.000Z",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
           "image": null
         },
         {
-          "id": "0d4ae8a7dd392962",
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "id": "71334093a413753d",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-24T14:00:00.000Z",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "image": null
-        },
-        {
-          "id": "b15a6fb9671b3fea",
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-23T23:05:49.000Z",
-          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "publishedAt": "2026-10-25T16:57:32.000Z",
+          "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
           "image": null
         }
       ]
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "95d33f908c720c53",
-          "title": "Look up tonight: October’s full moon is for hunters",
-          "url": "https://www.fastcompany.com/91629265/hunters-moon-2026-meaning-best-view-time-october-full-moon",
+          "id": "353d92b56244ea42",
+          "title": "Anthropic IPO: AI giant is preparing for blockbuster stock listing. Here’s what the SEC filing reveals",
+          "url": "https://www.fastcompany.com/91629844/anthropic-ipo-stock-listing-date-nears-ai-giant-sec-filing-public",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-25T12:15:00.000Z",
-          "summary": "This evening, the night sky is helping to set a spooky mood for the upcoming Halloween festivities later this week. Just after midnight (12:12 a.m. ET on Monday, October 26), the Hunter’s Moon will…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91629265-october-hunter-moon-full-moon.jpg"
+          "publishedAt": "2026-10-26T15:40:00.000Z",
+          "summary": "For months, the tech world has been waiting with bated breath for news of a prospectus from the AI giant Anthropic. Now, the company has officially announced its plans for an initial public offering…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91629844-anthropic-ipo.jpg"
         },
         {
-          "id": "6ab1c5cd8a1b93c7",
-          "title": "What’s really fueling the recent generosity boom",
-          "url": "https://www.fastcompany.com/91628347/whats-really-fueling-the-recent-generosity-boom",
+          "id": "dc738e741113f15e",
+          "title": "What we learned from 250,000 public workers about AI adoption",
+          "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-25T10:00:00.000Z",
-          "summary": "Generosity is in the air, or so it would seem. The Trump administration recently mailed a round of $500 checks to almost a million users of Healthcare.gov. The AI rivals OpenAI and Anthropic have…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91628347-rob-walker-branded-what-is-fueling-the-generosity-boom.jpg"
+          "publishedAt": "2026-10-26T15:20:00.000Z",
+          "summary": "As generative AI sweeps across industries, some workers using it are reporting increases in productivity. But inside government, where those benefits could translate into better public services, many…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91628634-how-the-public-sector-is-using-ai.jpg"
         },
         {
-          "id": "1962f1f2ee65ef65",
-          "title": "All-in-One Student Super Apps - WOLFX Combines AI Study Tools and Campus Services (TrendHunter.com)",
-          "url": "http://www.trendhunter.com/trends/all-in-one-student-super-apps",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-10-25T09:36:00.000Z",
-          "summary": "(TrendHunter.com) WOLFX is expanding all-in-one student super apps with a mobile platform that combines academic assistance, wellness resources, campus commerce, and entrepreneurship tools. Designed…",
-          "image": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647290/647290_1_468.jpeg"
-        },
-        {
-          "id": "9335f9d9295437ea",
-          "title": "Crystal-Encrusted Supplement Cases - Smart Strips Turns Supplement Strips Into Jewelry (TrendHunter.com)",
-          "url": "http://www.trendhunter.com/trends/crystal-encrusted-supplement-cases",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-10-25T09:16:00.000Z",
-          "summary": "(TrendHunter.com) Smart Strips is giving the daily supplement routine an accessory worth showing off. The European wellness brand, which makes ten oral dissolvable supplement strips, is marking its…",
-          "image": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647284/647284_1_468.jpeg"
-        },
-        {
-          "id": "be64f101d9e989a7",
-          "title": "Town CEO Jean-Denis Greze on why most people still don’t know what to ask AI",
-          "url": "https://www.fastcompany.com/91629462/town-ceo-jean-denis-greze-on-why-most-people-still-dont-know-what-to-ask-ai",
+          "id": "faf1b112534fb60e",
+          "title": "Kevin O’Leary has one rule for giving money to family. It works at any income",
+          "url": "https://www.fastcompany.com/91626003/kevin-oleary-one-rule-giving-money-family-works-any-income",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-10-25T09:10:00.000Z",
-          "summary": "AI agents are powerful, but most ordinary people don’t yet use them. Town wants to change that. Led by CEO Jean-Denis Greze, playfully referred to as Town’s mayor, the company announced a $108…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-prompt.jpg"
+          "publishedAt": "2026-10-26T15:17:41.000Z",
+          "summary": "It’s pretty hard to feel bad for billionaires, but according to a host of incredibly wealthy people there’s one aspect of being filthy rich that is no fun at all: deciding what to do when friends and…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/kevin-oleary-money-inc.jpg"
+        },
+        {
+          "id": "d2ad2a003c213734",
+          "title": "The Grace Hopper Celebration was more than a conference. Its cancellation should be a wake-up call",
+          "url": "https://www.fastcompany.com/91629304/the-grace-hopper-celebration-was-more-than-a-conference-its-cancellation-should-be-a-wake-up-call-technology-women-in-tech-girls-who-code",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-10-26T15:11:00.000Z",
+          "summary": "This week, thousands of women and nonbinary technologists were supposed to walk into the Grace Hopper Celebration in Anaheim, California. Instead, the doors are closed. The tech industry named some…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91629304-the-grace-hopper-celebration-was-more-than-a-conference-its-cancellation-should-be-a-wake-up-call-technology-women-in-tech-girls-who-code.jpg"
+        },
+        {
+          "id": "9793b70a7783dfc1",
+          "title": "31 leaders on whether they still want to talk about AI",
+          "url": "https://www.fastcompany.com/91625985/31-leaders-on-whether-they-still-want-to-talk-about-ai",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-10-26T15:03:00.000Z",
+          "summary": "On the morning, noon, and nightly news. By the watercooler, virtual or in real life. In boardrooms and school board meetings. At the dinner table or gatherings with friends and family. Artificial…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/FCIC-Expert-Insights-templates-17.png"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "8e2b93abe37fdcac",
-          "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-          "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+          "id": "53d10c0e937aa995",
+          "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+          "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
           "source": "MarketWatch.com",
           "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-10-25T14:00:00.000Z",
-          "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-          "image": "https://images.mktw.net/im-92522168"
+          "publishedAt": "2026-10-26T16:15:00.000Z",
+          "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+          "image": "https://images.mktw.net/im-19205579"
         },
         {
-          "id": "42a22078bec3f7ef",
-          "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-          "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-          "source": "MarketWatch.com",
-          "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-10-25T14:00:00.000Z",
-          "summary": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
-          "image": "https://images.mktw.net/im-16577626"
-        },
-        {
-          "id": "38bfe08d353a7995",
-          "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-          "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-          "source": "MarketWatch.com",
-          "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-10-25T13:45:00.000Z",
-          "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-          "image": "https://images.mktw.net/im-80913840"
-        },
-        {
-          "id": "bf3e7147a633bf84",
-          "title": "Medpace CEO August Troendle sells $1.59 million in stock",
-          "url": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
+          "id": "75e6d8968e9b6f2b",
+          "title": "Earnings call transcript: Cemex tops Q3 2026 estimates on stronger margins",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cemex-tops-q3-2026-estimates-on-stronger-margins-93CH-4973287",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-25T13:16:14.000Z",
+          "publishedAt": "2026-10-26T16:14:56.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
         },
         {
-          "id": "d481974fb8673797",
-          "title": "ArriVent reports phase 1 data for cancer drug ARR-217",
-          "url": "https://www.investing.com/news/company-news/arrivent-reports-phase-1-data-for-cancer-drug-arr217-93CH-4971187",
+          "id": "385b24e29f9cf8d6",
+          "title": "Earnings call transcript: Bank of Marin beats Q3 2026 EPS forecast",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-bank-of-marin-beats-q3-2026-eps-forecast-93CH-4973285",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-10-25T13:04:42.000Z",
+          "publishedAt": "2026-10-26T16:14:17.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+        },
+        {
+          "id": "eb03920776b7d91c",
+          "title": "Liberty Global stock hits 52-week low at $7.48",
+          "url": "https://www.investing.com/news/company-news/liberty-global-stock-hits-52week-low-at-748-93CH-4973284",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-10-26T16:14:07.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg"
+        },
+        {
+          "id": "86dfec35508797b4",
+          "title": "Obesity drug developer Corxel to go public in US via SPAC deal",
+          "url": "https://www.investing.com/news/stock-market-news/obesity-drug-developer-corxel-to-go-public-in-us-via-spac-deal-4973283",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-10-26T16:13:09.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1IN_L.jpg"
         }
       ]
     },
@@ -391,54 +391,54 @@
       "label": "Marketing",
       "articles": [
         {
-          "id": "02c1f0dc0e2db470",
-          "title": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
-          "url": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
-          "source": "Marketing",
-          "sourceUrl": "https://blog.hubspot.com",
-          "publishedAt": "2026-10-23T16:10:03.000Z",
-          "summary": "Profound and Bluefish AI both help marketing teams measure how brands appear in AI-generated answers, including visibility, citations, and competitive presence. Profound and Bluefish AI differ in…",
-          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+          "id": "d64771ab58e1ead1",
+          "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
+          "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-26T15:01:00.000Z",
+          "summary": "The group wants to build out the internal AI tool’s capabilities in areas including creator marketing, sports and culture.",
+          "image": "https://imgproxy.divecdn.com/s8Zqk8x3LtNScSnL01oLG3p6trM7i_stKCNpiBx9cYs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVDVSNjZCLmpwZw==.webp"
         },
         {
-          "id": "49207ea044f1f26e",
-          "title": "How to identify content gaps for AI visibility",
-          "url": "https://blog.hubspot.com/marketing/ai-content-gaps",
-          "source": "Marketing",
-          "sourceUrl": "https://blog.hubspot.com",
-          "publishedAt": "2026-10-23T15:55:04.000Z",
-          "summary": "Learning how to identify content gaps for AI visibility starts with a question that traditional content gap analysis doesn’t always answer: where could a brand contribute something useful to an…",
-          "image": "https://no-cache.hubspot.com/cta/default/53/07e52e2e-2c66-4776-81a2-d2fc00199367.png"
+          "id": "eb030e861566d466",
+          "title": "Pinterest strengthens bid to media buyers with programmatic solution",
+          "url": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-26T14:40:00.000Z",
+          "summary": "Magnite is the supply-side partner for Programmatic Deals and Amazon Ads DVA+, Google Display & Video 360 and Yahoo DSP are demand-side partners.",
+          "image": "https://imgproxy.divecdn.com/MPeqFmmNJbPtroAPrH1RfwEfHI1g4oot_CbD3TgL78M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYzNTQ5MjE3LmpwZw==.webp"
         },
         {
-          "id": "bafc9e567a817d00",
-          "title": "Which AI prompts should you track? A practical guide",
-          "url": "https://blog.hubspot.com/marketing/which-prompts-to-track",
-          "source": "Marketing",
-          "sourceUrl": "https://blog.hubspot.com",
-          "publishedAt": "2026-10-23T15:45:05.000Z",
-          "summary": "For most teams, the answer to “which prompts should I track?” is this: track a representative sample of branded, unbranded, and competitor prompts across buyer stages, personas, and priority markets.…",
-          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+          "id": "333ad6cdf8f702cf",
+          "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
+          "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-26T14:18:00.000Z",
+          "summary": "CMO Eric Schwartz dug into Pine-Sol, Brita and Hidden Valley marketing that prioritized “intentional but flexible” and “insightful but bite-sized” efforts.",
+          "image": null
         },
         {
-          "id": "99ba7c6e97477cee",
-          "title": "Ahrefs Brand Radar vs. Profound: Which fits your team?",
-          "url": "https://blog.hubspot.com/marketing/ahrefs-vs-profound",
+          "id": "2373ef2d782a93e4",
+          "title": "How to create Claude skills: What your team actually needs",
+          "url": "https://blog.hubspot.com/marketing/create-claude-skills",
           "source": "Marketing",
           "sourceUrl": "https://blog.hubspot.com",
-          "publishedAt": "2026-10-23T15:30:04.000Z",
-          "summary": "Marketers choosing between Ahrefs Brand Radar and Profound are really asking whether AI visibility belongs in your SEO suite or in a dedicated AEO platform. Brand Radar is the first option, Profound…",
-          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+          "publishedAt": "2026-10-26T12:45:04.000Z",
+          "summary": "Claude skills help teams save repeatable workflows as instructions that apply automatically — without pasting a long prompt into every chat. A team writes the workflow once, and Claude applies the…",
+          "image": "https://no-cache.hubspot.com/cta/default/53/64493837-f4dd-43b0-abee-3ef154e06092.png"
         },
         {
-          "id": "1c67d85206d33304",
-          "title": "8 LLM visibility tools to track your brand across answer engines",
-          "url": "https://blog.hubspot.com/marketing/llm-visibility-tools",
-          "source": "Marketing",
-          "sourceUrl": "https://blog.hubspot.com",
-          "publishedAt": "2026-10-23T15:30:04.000Z",
-          "summary": "Large language model (LLM) visibility tools track brand mentions, citations, and share of voice across answer engines. According to Digitaloft, 80% of users rely on zero-click results at least 40% of…",
-          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
+          "id": "57944f3cc5dff05f",
+          "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
+          "url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
+          "source": "Marketing Dive",
+          "sourceUrl": "https://marketingdive.com",
+          "publishedAt": "2026-10-26T10:00:00.000Z",
+          "summary": "For a unified push during the holidays, the retailer is recreating the world of “The Muppet Christmas Carol” and extending its “Who Knew?” brand platform.",
+          "image": null
         }
       ]
     },
@@ -446,54 +446,54 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "b366ba776fde8cd4",
-          "title": "r/opensource just banned AI, non-English speakers, and more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "id": "b8f740314eab2229",
+          "title": "Microsoft offers buyouts to 60,000 employees",
+          "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-25T13:25:32.000Z",
-          "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-10-26T15:58:27.000Z",
+          "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "99c99157c7fa1579",
-          "title": "Google’s AI search changes upended online publishing",
-          "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-25T12:00:00.000Z",
-          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers'…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "0509c80e85fbace7",
-          "title": "Blue Planet III is keeping the rough edges in the age of AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-10-24T21:29:12.000Z",
-          "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "9355f9f27997f86b",
-          "title": "Starlink seems to be working normally again in Ukraine",
-          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+          "id": "6724ba58888dbe91",
+          "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
+          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-24T20:46:34.000Z",
-          "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+          "publishedAt": "2026-10-26T15:58:25.000Z",
+          "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
           "image": null
         },
         {
-          "id": "770c71828f233d39",
-          "title": "Will AI expose the rickety infrastructure of the internet?",
-          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-24T20:15:33.000Z",
-          "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-          "image": null
+          "id": "7be1bb07805c6898",
+          "title": "T-Mobile’s new plans include swappable subscription perks",
+          "url": "https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-10-26T15:39:54.000Z",
+          "summary": "T-Mobile is launching new \"T-Mix\" plans that bundle wireless service with subscriptions to services like Netflix, Apple TV, YouTube Premium, Xbox Game Pass Ultimate, device promotions, and more, as…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962441/acastro_STK067__02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "id": "bf934ab50d5af619",
+          "title": "Microsoft&#8217;s new Surface Laptop Ultra update fixes reboot and display bugs",
+          "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-10-26T15:28:11.000Z",
+          "summary": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VERGE_10_04_2026_0184.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "id": "082e41c8ec7149dd",
+          "title": "F1 in Texas: The American race that fans love to attend",
+          "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+          "source": "Ars Technica",
+          "sourceUrl": "https://feeds.arstechnica.com",
+          "publishedAt": "2026-10-26T14:48:24.000Z",
+          "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg"
         }
       ]
     },
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "60e360c4efe7524f",
-          "title": "Qatar Buys U.S. LNG Amid An 11-To-1 Price Gap",
-          "url": "https://www.forbes.com/sites/davidblackmon/2026/10/25/qatar-buys-us-lng-amid-an-11-to-1-price-gap/",
+          "id": "2df60ba89094acf9",
+          "title": "Why Stores Matter More Than Ever This Holiday Season",
+          "url": "https://www.forbes.com/sites/jillstandish/2026/10/26/why-stores-matter-more-than-ever-this-holiday-season/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-25T13:32:37.000Z",
-          "summary": "The world's 2nd biggest LNG exporter is securing a hedge into U.S. markets to satisfy contract obligations in Asia and Europe.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ade01af01ef8f475dbaa9fb/0x0.jpg?width=960"
+          "publishedAt": "2026-10-26T15:20:15.000Z",
+          "summary": "The store matters more than ever this holiday season even with AI taking center stage for search and discovery.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6adf6e8c7e5a69a22b7ad354/0x0.jpg"
         },
         {
-          "id": "1f5078a916e14f3a",
-          "title": "Starting Grid For The 2026 F1 United States Grand Prix",
-          "url": "https://www.forbes.com/sites/yaraelshebiny/2026/10/25/starting-grid-for-the-2026-f1-united-states-grand-prix/",
+          "id": "0e2a824928dfc8f9",
+          "title": "Will ‘Nobody Wants This’ Get A Season 4 On Netflix? The Latest Update",
+          "url": "https://www.forbes.com/sites/paultassi/2026/10/26/will-nobody-wants-this-get-a-season-4-on-netflix-the-latest-update/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-25T13:24:18.000Z",
-          "summary": "Kimi Antonelli of Mercedes took pole position at the United States Grand Prix, where he could wrap up his maiden F1 world championship. Here's the full starting grid with penalties applied.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6addee7b1b03334c60ddb941/0x0.jpg"
+          "publishedAt": "2026-10-26T15:15:56.000Z",
+          "summary": "'Nobody Wants This' is back for season 3 on Netflix, and fans are wondering if it will return for season 4. Here's the latest information on",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6adf6e4b6368d05317444614/0x0.jpg"
         },
         {
-          "id": "d96dfb92c1cb0ef8",
-          "title": "Turkey Courts Gulf Oil Weeks Before Hosting The World's Climate Talks",
-          "url": "https://www.forbes.com/sites/kensilverstein/2026/10/25/turkey-courts-gulf-oil-weeks-before-hosting-the-worlds-climate-talks/",
+          "id": "b31ac967fa8a0ec9",
+          "title": "Spending Against California’s Billionaire Tax Tops $1 Million Per Day—And It's Working",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/26/spending-against-californias-billionaire-tax-tops-1-million-per-day-and-its-working/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-25T12:45:00.000Z",
-          "summary": "Weeks before hosting COP31, Turkey is pitching itself as the key route for Gulf oil and gas. Its climate face and its fossil fuel strategy don’t match.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6adba46bf3f9a33f9b0447b5/0x0.jpg"
+          "publishedAt": "2026-10-26T15:02:19.000Z",
+          "summary": "Anti-wealth tax coalitions are pouring over $1 million a day into defeating California's proposed Proposition 40.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6adf6af219c32c515dc10349/0x0.jpg?width=960&precrop=1303%2C734%2Cx111%2Cy214"
         },
         {
-          "id": "3f2344a578946a79",
-          "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-          "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-          "source": "Business News",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-10-25T12:00:01.000Z",
-          "summary": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
-          "image": null
-        },
-        {
-          "id": "caae2f35d16803d7",
-          "title": "AI Is Making Employees More Important, Not Less",
-          "url": "https://www.forbes.com/sites/shephyken/2026/10/25/ai-is-making-employees-more-important-not-less/",
+          "id": "ecc51f0b71a68bbb",
+          "title": "Memo Ochoa On Legacy, Leadership And Life After The Final Whistle",
+          "url": "https://www.forbes.com/sites/oliviashalhoup/2026/10/26/memo-ochoa-on-legacy-leadership-and-life-after-the-final-whistle/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-10-25T12:00:00.000Z",
-          "summary": "Read about how AI is changing customer service, why human agents matter more than ever, and how to balance automation with empathy and great CX.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6adb95f0d3f6f85e49bfa2d4/0x0.jpg"
+          "publishedAt": "2026-10-26T14:48:19.000Z",
+          "summary": "After completing what has no doubt been one of the most fruitful careers in sports history, Memo Ochoa reflects on his past and his future.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6adb8f51941ddf1064944988/0x0.jpg"
+        },
+        {
+          "id": "eef85cb769d99d71",
+          "title": "Patient Safety Requires Practical, Community-Informed Solutions",
+          "url": "https://www.forbes.com/sites/elevance-health/2026/10/26/patient-safety-requires-practical-community-informed-solutions/",
+          "source": "Forbes",
+          "sourceUrl": "https://forbes.com",
+          "publishedAt": "2026-10-26T14:21:05.000Z",
+          "summary": "The Elevance Health Foundation awarded $4 million through its Patient Safety Prize to support solutions improving health literacy, medication safety and fall prevention.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ada3ab9db6ef0e22a6e5cc5/0x0.jpg"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "3cf6b904b400c696",
-          "title": "Marvel’s Real-Gem Infinity Gauntlet Is Up for Grabs — If You Can Get Approved to Bid",
-          "url": "https://hypebeast.com/2026/10/1-of-1-marvel-infinity-gauntlet-replica-auction-juliens-announcement-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-25T10:00:13.000Z",
-          "summary": "Summary The one-of-one Marvel Infinity Gauntlet replica set with real gemstones is heading to auction for the first time this DecemberEach of its six gems stands in for an Infinity Stone, and none of…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F25%2F1-of-1-marvel-infinity-gauntlet-replica-auction-juliens-announcement-info-000-a.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "3b5d8d6ba1dc5143",
+          "title": "Inside PoloFest, a Vintage Extravaganza Celebrating 50 Years of Ralph Lauren in Japan",
+          "url": "https://www.esquire.com/style/mens-fashion/a74244401/polofest-ralph-lauren-japan-tokyo-vintage/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-10-26T15:42:55.000Z",
+          "summary": "In Tokyo, the quintessential American brand paid homage to fans from around the globe.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/22b20115-b19d-440e-bec2-50e816b22e0e.jpg"
         },
         {
-          "id": "808ec4b01c05b6c8",
-          "title": "The Square-Toe Nike Air Force 1 Low “Triple Black” Is Arriving This November",
-          "url": "https://hypebeast.com/2026/10/nike-air-force-1-low-square-toe-triple-black-release-info",
+          "id": "f7eb351554e2e5d3",
+          "title": "Joshua Renfroe's 'BEAU' Is a Portrait of Black Male Beauty",
+          "url": "https://hypebeast.com/2026/10/joshua-renfroe-photography-book-beau",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-25T09:00:54.000Z",
-          "summary": "Name: Nike Air Force 1 Low Square Toe “Triple Black”Colorway: Black/BlackSKU: JF7766-001MSRP: $130 USDRelease Date: November 6Where to Buy: NikeThe Nike Air Force 1 Low Square Toe “Triple Black”…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F25%2Fnike-air-force-1-low-square-toe-triple-black-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-26T15:37:58.000Z",
+          "summary": "Summary The 288-page book features portraits of 22 Black men, including 'Moonlight' actor André Holland.Drawing inspiration from Frederick Douglass and Renfroe's Alabama upbringing, BEAU challenges…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Fjoshua-renfroe-photography-book-beau-0.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "b644c6d0f6de67fa",
-          "title": "Kojima Productions x F.C.Real Bristol Teases a Collab That Puts Hideo Kojima’s Studio on the Pitch",
-          "url": "https://hypebeast.com/2026/10/kojima-productions-f-c-real-bristol-collaboration-teaser",
+          "id": "53a2af59ef07e958",
+          "title": "Audemars Piguet Officially Launches Its Certified Pre-Owned Platform",
+          "url": "https://hypebeast.com/2026/10/audemars-piguet-watch-keepers-certified-pre-owned-watches-service-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-25T08:00:34.000Z",
-          "summary": "Summary Hideo Kojima’s Japanese game studio KOJIMA PRODUCTIONS has announced a collaboration with F.C.Real BristolF.C.Real Bristol is the imaginary football club brand run by SOPH., making this a…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F25%2Fkojima-productions-f-c-real-bristol-collaboration-teaser-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-26T15:33:47.000Z",
+          "summary": "Summary Audemars Piguet officially launches The Watch Keepers, its new Certified Pre-Owned platform.Eligible watches are authenticated, graded and listed directly through AP’s service network.Buyers…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F26%2Faudemars-piguet-watch-keepers-certified-pre-owned-watches-service-info-1.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "2d6f018c8df8b939",
-          "title": "The Weeknd’s New Song “Hong Kong” Is Built on a Faye Wong Cantopop Classic",
-          "url": "https://hypebeast.com/2026/10/the-weeknd-debuts-new-single-hong-kong",
+          "id": "46088e518f055cd9",
+          "title": "'BLEACH' Creator Tite Kubo Designed a New Character for a Limited-Edition Hypebeast Capsule",
+          "url": "https://hypebeast.com/2026/10/bleach-creator-tite-kubo-designed-a-new-character-for-a-limited-edition-hypebeast-capsule",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-25T07:00:33.000Z",
-          "summary": "Summary The Weeknd premiered an unreleased song titled “Hong Kong” on October 24 during the first of his \"After Hours Til Dawn\" shows at Kai Tak StadiumThe track is anchored by a sample of \"季候風\"…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F25%2Fthe-weeknd-debuts-new-single-hong-kong-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-26T14:28:27.000Z",
+          "summary": "BLEACH creator Tite Kubo is one of our cover stars for Hypebeast Magazine Issue 38: The Juice Issue, and to celebrate, we're releasing an exclusive two-piece collection with the manga legend.Over 15…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F16%2FUntitled-design-92.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "fe7e696cf71751cd",
-          "title": "Everything Coming To HBO Max in November 2026",
-          "url": "https://hypebeast.com/2026/10/new-hbo-max-movies-films-tv-shows-november-2026",
+          "id": "ff53e6104bfb473f",
+          "title": "Palace Skateboards and Nike's Manor Place FC Collection Brings Back the Early-’00s Football Kit",
+          "url": "https://hypebeast.com/2026/10/palace-skateboards-winter-2026-drop-5-nike-manor-palace-collection-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-10-25T06:00:47.000Z",
-          "summary": "Summary The Gilded Age returns for an eight-episode fourth season, with the Russell family facing the fallout of Bertha’s social ascent City of God: The Fight Rages On picks up its second season as…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F22%2FNew-HBO-Max-Movies-films-TV-Shows-November-2026-1.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-10-26T12:30:39.000Z",
+          "summary": "Summary Palace Skateboards and Nike are marking one year of Manor Place with the Manor Place FC capsule, a football-inspired collection dressed in Black and TealA custom Manor Place crest runs…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F22%2Fpalace-skateboards-winter-2026-drop-5-nike-manor-palace-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "716a822383502c10",
-          "title": "Arup creates arrow-shaped viewpoint for Fehmarnbelt Tunnel project",
-          "url": "https://www.dezeen.com/2026/10/25/arup-pilen-viewpoint-fehmarnbelt-tunnel/",
+          "id": "78f4fa5300a30115",
+          "title": "10 Best Reading Chairs Comfortable Enough to Spend All Day In (2026)",
+          "url": "https://www.architecturaldigest.com/story/24-best-accent-chairs",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-10-26T16:16:01.000Z",
+          "summary": "Dune, Lonesome Dove, Anna Karenina—whatever the epic, these stylish seats will help you get through it comfortably",
+          "image": "https://media.architecturaldigest.com/photos/69b9a9fe1fba233f7438bb00/master/pass/_00A1128_FINAL.jpg"
+        },
+        {
+          "id": "cd369949351ec954",
+          "title": "The Portaluppi Bathroom is the New “It” Loo",
+          "url": "https://www.architecturaldigest.com/story/the-portaluppi-bathroom-is-the-new-it-loo",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-10-26T13:02:11.000Z",
+          "summary": "So long, white marble shower. Designers are going big on bathrooms with serious Milanese swagger, including moody stones in green or oxblood, walnut paneling, and Art Deco fixtures channeling iconic…",
+          "image": "https://media.architecturaldigest.com/photos/6adcb33504789619f575ea7d/master/pass/SummerThorntonDesign-ShotByAnnieSchlechter-Jackson-PrimaryBath-02.jpg"
+        },
+        {
+          "id": "e9c9e291b15f42f1",
+          "title": "How This Landscape Designer Created a Walled Garden in Antwerp That Blooms Year-Round",
+          "url": "https://www.architecturaldigest.com/story/ronald-van-der-hilst-crafts-an-enclosed-paradise-in-antwerp-that-blooms-year-round",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-10-26T12:00:00.000Z",
+          "summary": "On a quiet side street, Dutch landscape architect and designer Ronald van der Hilst tends to a richly layered, historic church garden",
+          "image": "https://media.architecturaldigest.com/photos/6ad0ec3f515ee278440fbafc/master/pass/AD1126_VANDERHILST_1%20copy.jpg"
+        },
+        {
+          "id": "f0f583f991d79fcc",
+          "title": "Stone-covered roof provides \"absolute camouflage\" for Gamaya Farms eco-resort in India",
+          "url": "https://www.dezeen.com/2026/10/26/gamaya-farms-biome-environmental-solutions/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-10-25T11:00:00.000Z",
-          "summary": "A zigzagging path tops the demountable Pilen viewpoint in Denmark, created by engineering firm Arup to give the public views of the construction of the vast Fehmarnbelt Tunnel. Fehmarnbelt Tunnel is…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_sq2-1024x1024.jpg"
+          "publishedAt": "2026-10-26T11:30:00.000Z",
+          "summary": "Architecture studio Biome Environmental Solutions has used a hill-like roof covered in local stone and walls of compressed earth bricks to conceal this eco-resort within its site in India. Named…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/10/gamaya-farms-biome-environmental-solutions-architecture-india-hyderabad-stone-earth_dezeen_2364_sq-1024x1024.jpg"
         },
         {
-          "id": "95951efb8765e677",
-          "title": "Five uncanny venues where guests are treated to frightfully unique interiors",
-          "url": "https://www.dezeen.com/2026/10/25/uncanny-venues-frightful-interiors-lookbooks/",
+          "id": "d64f1db5c0f91563",
+          "title": "Dezeen readers decide 19 winners in Dezeen Awards architecture public vote",
+          "url": "https://www.dezeen.com/2026/10/26/dezeen-awards-public-vote-winner-architecture-2026/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-10-25T10:00:00.000Z",
-          "summary": "With spooky season in full swing and Halloween rapidly approaching, this lookbook rounds up five venues featuring unusual decor, including faux body parts, dead insects and slaughterhouse machinery.…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/01/bar-far-villa-lontana-studio-strato-sq-411x411.jpg"
-        },
-        {
-          "id": "4f99f9f774a056b5",
-          "title": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
-          "url": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-25T07:30:00.000Z",
-          "summary": "In 1972, Robert Venturi, Denise Scott Brown, and Steven Izenour published Learning from Las Vegas, challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in…",
-          "image": "https://images.adsttc.com/media/images/6ad6/27f1/8008/f401/8ba5/4493/newsletter/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419831"
-        },
-        {
-          "id": "30f31c2d17baded3",
-          "title": "Residential house in Vilnius / Architectural Bureau G.Natkevicius & Partners",
-          "url": "https://www.archdaily.com/1186113/residential-house-in-vilnius-architectural-bureau-gnatkevicius-and-partners",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-10-25T06:00:00.000Z",
-          "summary": "The project was implemented in an exceptional location in Vilnius – the Aukštagiris Geomorphological Reserve. The protected forest environment and hilly terrain became the main axis of this…",
-          "image": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd54/newsletter/4.jpg?1790799189"
-        },
-        {
-          "id": "8af8d55954211e55",
-          "title": "Collectible furniture meets cultural critique at Dutch Design Week’s Table of Power",
-          "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
-          "source": "Dezeen",
-          "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-10-25T06:00:00.000Z",
-          "summary": "Show Not Show has put a twist on a classic project documenting the echelons of power with an exhibition of the design collective’s furniture at Dutch Design Week. The post Collectible furniture meets…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg"
+          "publishedAt": "2026-10-26T11:15:00.000Z",
+          "summary": "The 19 winners of the architecture public vote for Dezeen Awards 2026 have been revealed, with projects by Blight Rayner Architecture, Foster + Partners and Schemata Architects voted as readers'…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/10/dezeen-awards-2026-architecture-public-vote-winners_dezeen_2364_col_2-1024x1024.jpg"
         }
       ]
     }
