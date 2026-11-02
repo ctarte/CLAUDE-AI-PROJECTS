@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-11-01T16:31:53.445Z",
+  "generatedAt": "2026-11-02T19:55:34.427Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "8869a3c50a9b70e6",
-          "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-          "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
+          "id": "7584627279c216f2",
+          "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-11-02T19:37:10.000Z",
+          "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
+        },
+        {
+          "id": "656a985b73e02343",
+          "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
+          "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-01T15:50:19.000Z",
-          "summary": "Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.",
+          "publishedAt": "2026-11-02T19:11:37.000Z",
+          "summary": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.",
           "image": null
         },
         {
-          "id": "d8de2ed6525ac990",
-          "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
+          "id": "efe8a892d454078c",
+          "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+          "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-01T15:40:58.000Z",
-          "summary": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+          "publishedAt": "2026-11-02T19:06:52.000Z",
+          "summary": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
           "image": null
         },
         {
-          "id": "d23a87aed05fac2a",
-          "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+          "id": "ca91d416223bc5de",
+          "title": "Senegal hosts Africa’s first Olympics",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-01T15:38:12.000Z",
-          "summary": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
+          "publishedAt": "2026-11-02T18:56:17.000Z",
+          "summary": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
           "image": null
         },
         {
-          "id": "5ab75cc4cb4b349c",
-          "title": "Serbia arrests police chief over abuse of office allegations",
-          "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
+          "id": "ebdde0b3842fc5b8",
+          "title": "Iran pushing accelerated plan for ceasefire talks with US",
+          "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-01T15:36:13.000Z",
-          "summary": "Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down.",
-          "image": null
-        },
-        {
-          "id": "61e386096ab0be33",
-          "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-          "url": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-01T15:24:08.000Z",
-          "summary": "The UK PM's statement comes as Commonwealth nations meet in Antigua and Barbuda.",
+          "publishedAt": "2026-11-02T18:49:26.000Z",
+          "summary": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
           "image": null
         }
       ]
@@ -61,60 +61,70 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "1078f846b2095338",
-          "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-          "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+          "id": "79d3fa7a526ade28",
+          "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+          "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-11-01T16:01:02.000Z",
-          "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
+          "publishedAt": "2026-11-02T19:46:02.000Z",
+          "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/tom-lee-decrypt-style-gID_7.jpg"
         },
         {
-          "id": "81e934503d8e4a78",
-          "title": "The key races to watch for the 2026 election",
-          "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-11-01T15:00:00.000Z",
-          "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/eac9bf664ee92165f460fad8ca22eacdc2abd2d2-6000x3376.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-        },
-        {
-          "id": "001bb415318dcb94",
-          "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-          "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-11-01T15:00:00.000Z",
-          "summary": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-        },
-        {
-          "id": "043a2bf5f6f78168",
-          "title": "Here’s what happened in crypto today",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "id": "fe7bdb06c2f10645",
+          "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+          "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-11-01T14:17:00.000Z",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+          "publishedAt": "2026-11-02T19:27:58.000Z",
+          "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640-960x640.webp"
         },
         {
-          "id": "f032d117770134ac",
-          "title": "How to Run an AI Model Locally—And Why You Might Want To",
-          "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
+          "id": "a930f919739cd5db",
+          "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-11-02T19:05:35.000Z",
+          "summary": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png"
+        },
+        {
+          "id": "f27cd9b14e96947a",
+          "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+          "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-11-01T14:01:02.000Z",
-          "summary": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png"
+          "publishedAt": "2026-11-02T18:46:03.000Z",
+          "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg"
+        },
+        {
+          "id": "ab029f0bf856df8e",
+          "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+          "url": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+          "source": "Decrypt",
+          "sourceUrl": "https://decrypt.co",
+          "publishedAt": "2026-11-02T18:16:02.000Z",
+          "summary": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated…",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2024/03/loser-shutterstock-gID_4.png"
         }
       ]
     },
     "economy": {
       "label": "Economy",
       "articles": [
+        {
+          "id": "0308d036d37abfa6",
+          "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+          "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+          "source": "Economy",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-11-02T06:02:03.000Z",
+          "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
+          "image": null
+        },
         {
           "id": "56040798c90eba9d",
           "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
@@ -154,16 +164,6 @@
           "publishedAt": "2026-10-29T14:53:06.000Z",
           "summary": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
           "image": null
-        },
-        {
-          "id": "844fe7b872b37ee3",
-          "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-          "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-          "source": "Economy",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-10-29T14:48:01.000Z",
-          "summary": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
-          "image": null
         }
       ]
     },
@@ -171,54 +171,54 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "66454c08175f625a",
-          "title": "Tim Scott dodges question on accepting Alaska Senate race results if Peltola wins",
-          "url": "https://thehill.com/homenews/campaign/6186830-tim-scott-dodges-alaska-results/",
+          "id": "091358ff76b4802c",
+          "title": "Adults 23-26 are America's least religious age group: Study",
+          "url": "https://thehill.com/blogs/in-the-know/6189619-pew-young-adults-less-religious-study/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-01T16:26:59.000Z",
-          "summary": "Sen. Tim Scott (R-S.C.) on Sunday dodged on whether he would accept the Alaska Senate election results in the case that Democrat Mary Peltola is victorious in the race against Sen. Dan Sullivan…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/scotttim_092426gn01_w.jpg?w=900"
+          "publishedAt": "2026-11-02T19:51:52.000Z",
+          "summary": "The findings come amid media reports of a possible religious revival among young Americans, especially conservative men.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GettyImages-1869560004-e1793649105712.jpg?w=900"
         },
         {
-          "id": "c22050776c511918",
-          "title": "Trump calls Alina Habba Milton’s $50M deal ‘obnoxious’",
-          "url": "https://thehill.com/homenews/administration/6186814-trump-calls-habba-pay-outrageous/",
+          "id": "70d15ebb789d1d49",
+          "title": "Fitness program cut transplant waitlist death risk by half, study finds",
+          "url": "https://thehill.com/policy/healthcare/6187658-fitness-program-cut-transplant-waitlist-death-risk-study/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-01T16:12:08.000Z",
-          "summary": "President Trump called his former lawyer Alina Habba Mildon's alleged $50 million deal for a presidential pardon \"obnoxious and outrageous.” While at a Halloween party at Mar-a-Lago in Florida, Trump…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trump_donald_south-carolina_10292026_AP26302626232051-2.jpg?w=900"
+          "publishedAt": "2026-11-02T19:44:42.000Z",
+          "summary": "Patients who improved their fitness while waiting for a transplant were about 50% less likely to die before receiving an organ, researchers found.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GettyImages-2235011543-e1793648676172.jpg?w=900"
         },
         {
-          "id": "54706283c2b1c1b3",
-          "title": "‘My vote still matters’ - Americans weigh in on the power of their ballot",
-          "url": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-01T16:08:19.000Z",
-          "summary": "The BBC asked voters from across the United States what voting means to them and whether they think it matters in the midterm elections.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddba/live/33355510-d488-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "1b3144f6e24bd2c6",
-          "title": "A test of tradition: Should universities cut ties with fraternities?",
-          "url": "https://thehill.com/opinion/education/6184255-questioning-college-fraternities-purpose/",
+          "id": "7e858503c41b340b",
+          "title": "'Maxxing' is the 2026 word of the year",
+          "url": "https://thehill.com/blogs/in-the-know/6187952-maxxing-2026-word-of-the-year/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-01T16:00:00.000Z",
-          "summary": "Why do colleges continue to recognize and accommodate organizations whose traditions and practices repeatedly generate concerns about student safety, accountability and exclusion?",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2298596355.jpg?w=900"
+          "publishedAt": "2026-11-02T19:37:21.000Z",
+          "summary": "Other top choices were affordability, data center, unc, and odyssey.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP25266061576674-e1793648183358.jpg?w=900"
         },
         {
-          "id": "e10a8e2e5d829989",
-          "title": "Why you can't wear, bring political gear to a polling place in these states",
-          "url": "https://thehill.com/homenews/state-watch/6159011-why-you-cant-wear-bring-political-gear-to-a-polling-place-in-these-states/",
+          "id": "1089fc7e4b519b7b",
+          "title": "Adam Hamilton responds to Trump's 'perverted pastor' remarks in Kansas",
+          "url": "https://thehill.com/homenews/campaign/6189617-democrat-adam-hamilton-responds/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-01T16:00:00.000Z",
-          "summary": "States have different guidance regarding electioneering at or near a polling place.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26223504022179-e1792529858283.jpg?w=900"
+          "publishedAt": "2026-11-02T19:26:56.000Z",
+          "summary": "Kansas Democratic Senate candidate Adam Hamilton said it was “pathetic” for President Trump to call him a \"perverted pastor\" at a Sunday rally in support of Sen. Roger Marshall (R-Kan.). \"I think…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Hamilton_Huiskes_Getty_ARinYoon.jpg?w=900"
+        },
+        {
+          "id": "4b50355cb50727cd",
+          "title": "Mamdani threatens to sue Trump administration over alleged ICE use of New York City property",
+          "url": "https://thehill.com/homenews/state-watch/6189621-nyc-mayor-threatens-ice-lawsuit/",
+          "source": "TheHill.com Just In",
+          "sourceUrl": "https://thehill.com",
+          "publishedAt": "2026-11-02T19:12:08.000Z",
+          "summary": "New York City Mayor Zohran Mamdani (D) on Monday threatened to sue the Trump administration over Immigration and Customs Enforcement's (ICE) alleged use of city property. In a letter addressed to…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Mamdani_Fortinsky_AP_Yuki-Iwamura_9e7da2.jpg?w=900"
         }
       ]
     },
@@ -226,53 +226,53 @@
       "label": "AI",
       "articles": [
         {
-          "id": "89c6cb6d29717113",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "id": "8402594bed2479dc",
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-31T21:41:00.000Z",
-          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "publishedAt": "2026-11-02T19:19:17.000Z",
+          "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and…",
           "image": null
         },
         {
-          "id": "cefcb0bd2478e838",
-          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+          "id": "0ad9e89a8ab0a418",
+          "title": "Raising the quality of insights in agentic analytics",
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-11-02T17:00:00.000Z",
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png"
+        },
+        {
+          "id": "6e11dddc7a7cc4c3",
+          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-31T21:36:07.000Z",
-          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your…",
+          "publishedAt": "2026-11-02T16:30:00.000Z",
+          "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
           "image": null
         },
         {
-          "id": "bc398a80a0dffe88",
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "id": "3059ef1574cb12ba",
+          "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+          "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-31T21:17:03.000Z",
-          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "publishedAt": "2026-11-02T16:23:21.000Z",
+          "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
           "image": null
         },
         {
-          "id": "344dcf79744aa216",
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "id": "a43a012fc6e71ef2",
+          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
           "source": "AI News & Artificial Intelligence",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-31T16:12:55.000Z",
-          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-          "image": null
-        },
-        {
-          "id": "6336aff37e57b820",
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-10-31T01:20:05.000Z",
-          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "publishedAt": "2026-11-02T15:00:00.000Z",
+          "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
           "image": null
         }
       ]
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "d82cf373be1886ff",
-          "title": "Integrated Banking Identity Protection - Veridian Adds Free Allstate Fraud Recovery Services (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/integrated-banking-identity-protection",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-01T11:30:00.000Z",
-          "summary": "(TrendHunter.com) Veridian Credit Union is expanding integrated banking identity protection by offering members complimentary access to Allstate Identity Protection through its existing Credit…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649469/649469_1_468.jpeg"
+          "id": "5e2c2bc9af95368a",
+          "title": "AI and women at work: 5 positives, 8 negatives",
+          "url": "https://www.fastcompany.com/91631713/ai-women-work-5-positives-8-negatives",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-02T18:46:24.000Z",
+          "summary": "The debate about AI and work often focuses on the jobs that will disappear, which tasks will be automated, and which skills and qualities will be valued in the future. It is more seldom that I read…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91631713-ai-and-women-at-work-5-positives-8-negatives.jpg"
         },
         {
-          "id": "289c4efa4d50ef24",
-          "title": "Holiday Toy Calendars - Hot Wheels Adds 24 Days Of Mini Cars To Its Advent Calendar (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/holiday-toy-calendars",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-01T11:15:00.000Z",
-          "summary": "(TrendHunter.com) For kids who would rather find a new toy car than a chocolate each morning, Hot Wheels has a festive countdown of its own. Mattel’s Hot Wheels Advent Calendar includes 24 daily…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649466/649466_1_468.jpeg"
+          "id": "0f2ca0157ea94efd",
+          "title": "Meta’s web crawlers are making life hell for owners of small business websites",
+          "url": "https://www.fastcompany.com/91633357/meta-web-crawlers-crash-small-business-websites-ai-bots-surge",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-02T18:31:00.000Z",
+          "summary": "Meta Platforms has faced intense scrutiny after announcing upcoming changes to its terms that, essentially, allow AI crawlers to run wild across business accounts. Yet, the owner of Facebook and…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91633357-meta-web-crawlers-small-business-websites.jpg"
         },
         {
-          "id": "81abb2d114a9f3c6",
-          "title": "Gluten-Free Mini Doughnuts - Heavenly Hunks Expands Its Gluten-Free Mini Doughnuts To Sprouts And Co (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/gluten-free-mini-doughnuts",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-01T11:00:00.000Z",
-          "summary": "(TrendHunter.com) Heavenly Hunks is expanding Dupe Loops mini doughnuts to Sprouts Farmers Market and Costco, giving families managing celiac disease and food allergies more places to buy a…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649454/649454_1_468.jpeg"
+          "id": "5598e718e581ea24",
+          "title": "Is ChatGPT or Claude better at helping you cheat? Social media found an answer in the most hilarious way",
+          "url": "https://www.fastcompany.com/91634217/which-ai-is-better-for-cheating-on-a-test-chatgpt-claude-social-media-found-an-answer",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-02T18:30:00.000Z",
+          "summary": "Like it or not, artificial intelligence is already a mainstay in schools. More than half of teenagers in the United States (54%) have used AI for schoolwork, and teachers are right there with them,…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91634217-AI-models-and-cheating.jpg"
         },
         {
-          "id": "494b958a686c378b",
-          "title": "Integrated Industrial Partner Platforms - CDS Visual Unifies CRM ERP and Service Workflows (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/integrated-industrial-partner-platforms",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-01T10:45:00.000Z",
-          "summary": "(TrendHunter.com) CDS Visual is introducing integrated industrial partner platforms through CDS Partner Exchange, a digital system designed to simplify collaboration between manufacturers,…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649452/649452_1_468.jpeg"
+          "id": "2e407b7944642cdc",
+          "title": "Starbucks is spending $1 billion to undo its biggest mistake",
+          "url": "https://www.fastcompany.com/91632250/starbucks-spending-1-billion-undo-biggest-mistake",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-02T17:30:05.000Z",
+          "summary": "Starbucks spent years solving a very specific problem: making it easier for customers to buy coffee. As a result, it spent a lot of money on things like mobile ordering and redesigning its stores to…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-91632250-starbucks-billion-dollar-change.jpg"
         },
         {
-          "id": "b355a62092b77fc0",
-          "title": "Snickerdoodle Protein Powders - Earth Fed Muscle Brings Back Its Snickerdoodle Protein Powder For Ch (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/snickerdoodle-protein-powders",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-01T10:30:00.000Z",
-          "summary": "(TrendHunter.com) Earth Fed Muscle is bringing Ol' St. Ripped back on November 6, giving holiday-minded protein powder buyers a Snickerdoodle option for winter shakes. The returning Grass-Fed Whey…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649447/649447_1_468.jpeg"
+          "id": "5d7094c9baa2ea58",
+          "title": "In the age of AI, paper ballots are more important than ever",
+          "url": "https://www.fastcompany.com/91633247/in-the-age-of-ai-paper-ballots-are-more-important-than-ever",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-02T17:03:50.000Z",
+          "summary": "It’s no surprise that AI is fueling concerns about widespread election interference, which have plagued the U.S. since at least 2016, when now-President Donald Trump first began to complain about…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91633247-in-praise-of-paper-ballots-election-story.jpg"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "25866d1f2d88031c",
-          "title": "Binance sees spike in customers pulling funds out after covering bulk of stolen $6.3 billion",
-          "url": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+          "id": "105eec90fc23f7c5",
+          "title": "Sherwin-Williams amends credit agreement to add $75 million in borrowing capacity",
+          "url": "https://www.investing.com/news/sec-filings/sherwinwilliams-amends-credit-agreement-to-add-75-million-in-borrowing-capacity-93CH-4992629",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-01T15:54:19.000Z",
+          "publishedAt": "2026-11-02T19:42:52.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA00U4_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
         },
         {
-          "id": "fd52e8180d373dbc",
-          "title": "Raymond James cuts Oil States stock price target on guidance outlook",
-          "url": "https://www.investing.com/news/analyst-ratings/raymond-james-cuts-oil-states-stock-price-target-on-guidance-outlook-93CH-4989767",
+          "id": "f90eb4dd84d4539b",
+          "title": "Nasdaq turns red as tech slumps again, offsetting rotation trade and slide in oil",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-01T15:41:00.000Z",
+          "publishedAt": "2026-11-02T19:37:41.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg"
         },
         {
-          "id": "54bfa131e611cc78",
-          "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-          "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-          "source": "MarketWatch.com",
-          "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-11-01T15:00:00.000Z",
-          "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
-          "image": "https://images.mktw.net/im-47165214"
-        },
-        {
-          "id": "11f64dbfc98cd983",
-          "title": "Serbians mark railway disaster that led to rise of victorious student movement",
-          "url": "https://www.investing.com/news/commodities-news/serbians-mark-railway-disaster-that-led-to-rise-of-victorious-student-movement-4989758",
+          "id": "b185b88c1055e102",
+          "title": "Lakeland Financial director Melinda Truex sells $1.37M in shares",
+          "url": "https://www.investing.com/news/insider-trading-news/lakeland-financial-director-melinda-truex-sells-137m-in-shares-93CH-4992626",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-01T14:42:16.000Z",
+          "publishedAt": "2026-11-02T19:30:57.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA0128_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
         },
         {
-          "id": "2867073e8c332cd8",
-          "title": "Hornbeck earnings up next: First test for Helix merger",
-          "url": "https://www.investing.com/news/earnings/hornbeck-earnings-up-next-first-test-for-helix-merger-93CH-4989757",
+          "id": "b85623a960079eb3",
+          "title": "Court blocks Papaya Gaming U.S. account transfers in Skillz case",
+          "url": "https://www.investing.com/news/company-news/court-blocks-papaya-gaming-us-account-transfers-in-skillz-case-93CH-4992621",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-01T14:35:58.000Z",
+          "publishedAt": "2026-11-02T19:28:36.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+          "image": "https://content-media.investing.com/news/LYNXMPEM3F142_1200_L.jpg"
+        },
+        {
+          "id": "eadd7ad9abc41aac",
+          "title": "BKV stock hits 52-week low at 20.03 USD",
+          "url": "https://www.investing.com/news/company-news/bkv-stock-hits-52week-low-at-2003-usd-93CH-4992619",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-11-02T19:27:12.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg"
         }
       ]
     },
@@ -391,54 +391,54 @@
       "label": "Marketing",
       "articles": [
         {
-          "id": "4e3e09cc04539dd7",
-          "title": "Amazon’s ad revenue growth decelerates due to Prime Day tweaks",
-          "url": "https://www.marketingdive.com/news/amazons-ad-revenue-growth-decelerates-due-to-prime-day-tweaks/873302/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-30T14:15:10.000Z",
-          "summary": "Pushing the sales event to June and a lack of NBA content led to slower ad revenue growth in Q3, but AI agents aren’t disrupting the segment just yet.",
-          "image": "https://imgproxy.divecdn.com/6441MLvnLZyQO9iUakZ2H21NS_tQYCEzGBS219lT158/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEwMTc5NjMxLmpwZw==.webp"
+          "id": "0ed993dac6b0cd50",
+          "title": "AI maturity in marketing: What the research reveals",
+          "url": "https://blog.hubspot.com/marketing/ai-maturity",
+          "source": "Marketing",
+          "sourceUrl": "https://blog.hubspot.com",
+          "publishedAt": "2026-11-02T17:50:05.000Z",
+          "summary": "AI maturity explains why 98% of marketing teams now use AI in some way, yet only 10% report transformational results, according to our 2026 State of AI in Marketing research. AI maturity measures how…",
+          "image": "https://no-cache.hubspot.com/cta/default/53/b72f2b25-8cc9-4642-9a1b-1e675d3d273b.png"
         },
         {
-          "id": "10223114f2cdc6c8",
-          "title": "The changing CMO role in 3 numbers",
-          "url": "https://www.marketingdive.com/news/the-changing-cmo-role-in-3-numbers/873219/",
-          "source": "Marketing Dive",
-          "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-30T13:44:00.000Z",
-          "summary": "Over a quarter of CMOs hired this year have AI skills, compared to just 9% of those hired four years ago, per Findem and CMO Huddles data.",
-          "image": "https://imgproxy.divecdn.com/2p7CEc5tOhgUFwObwNs_bH9mB02o9k4GuuIjZCm3vbQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE2NDk0MDY0LmpwZw==.webp"
+          "id": "0481a4620996abe6",
+          "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+          "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+          "source": "Marketing",
+          "sourceUrl": "https://blog.hubspot.com",
+          "publishedAt": "2026-11-02T17:45:05.000Z",
+          "summary": "Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs. Semrush, and here’s the high-level takeaway if you’re trying to choose: Scrunch…",
+          "image": "https://no-cache.hubspot.com/cta/default/53/9dd5e54b-fbef-4dd0-bc44-1689feb1ea18.png"
         },
         {
-          "id": "7d3f8fd26089e2ad",
-          "title": "Warner Bros. chases ‘Cat in the Hat’ across Amazon’s ad ecosystem",
-          "url": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
+          "id": "2883f0599497f544",
+          "title": "Where agency strategists see opportunity as AI challenges their worth",
+          "url": "https://www.marketingdive.com/news/where-agency-strategists-see-opportunity-as-ai-challenges-their-worth/872985/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-29T16:00:00.000Z",
-          "summary": "“Open to Fun” features a mobile minigame, an Alexa integration and placement across Twitch, Prime Video and IMDb.",
-          "image": "https://imgproxy.divecdn.com/eCJW2BfDVO8ygv8o2pyG4WP1p1tIdtDutJH6LvedrYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CSUwtQ2F0aW50aGVIYXQtbWluaS1nYW1lLTR1cC5qcGc=.webp"
+          "publishedAt": "2026-11-02T16:00:00.000Z",
+          "summary": "While strategists fear the tech will replace their roles, the majority agree that there are also reasons to be optimistic, according to a WARC report.",
+          "image": "https://imgproxy.divecdn.com/qkapRyT_EAdopmLv1sxM6NKBWBP9YuMjJRD3cTIgYyc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA4MzkxNTY3XzEuanBn.webp"
         },
         {
-          "id": "eb76177b36e8583d",
-          "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
-          "url": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
+          "id": "2bf08267b9d9e347",
+          "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
+          "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-29T15:22:00.000Z",
-          "summary": "New insights from the company point to how its artificial intelligence enhancements are powering clicks and conversions.",
-          "image": null
+          "publishedAt": "2026-11-02T15:49:00.000Z",
+          "summary": "The Sazerac-owned vodka brand is pivoting after using artificial intelligence to produce its 2026 big game debut.",
+          "image": "https://imgproxy.divecdn.com/Hvmrqqnkj6iFmElFswLlf9YIsYtj3rK5tBYikvcseAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDI1MDMyXzAwMDAwMV9BbmR5LVN2ZWRib3QtSGVyby1LVi0xX3JlZHVjZWQuanBn.webp"
         },
         {
-          "id": "4a5a4b9f7e4d22f3",
-          "title": "Google’s AI overhaul of search hits snags as ad revenue growth cools",
-          "url": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
+          "id": "595c603521d0412e",
+          "title": "What Reddit’s Q3 earnings mean for marketers amid major traffic shift",
+          "url": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/",
           "source": "Marketing Dive",
           "sourceUrl": "https://marketingdive.com",
-          "publishedAt": "2026-10-29T14:28:00.000Z",
-          "summary": "The rate of ad revenue growth decelerated in Q3 for Google’s core business despite a jump in query volume driven by AI features.",
-          "image": "https://imgproxy.divecdn.com/Xu9BW5pnvt9J4lj7Bd7eieQJ_WmN315ubRxRSDJyaUM/g:nowe:0:75/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2NjcxNDgyLmpwZw==.webp"
+          "publishedAt": "2026-11-02T14:55:00.000Z",
+          "summary": "Reddit is switching to a logged-in only experience to combat user loss, as well as to cultivate a base that is more valuable to advertisers.",
+          "image": "https://imgproxy.divecdn.com/WdVx3gYAGrBtXYte_2YlInvbvLtqfW6IAnN7IawEeOQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTAxODcyODQzLmpwZw==.webp"
         }
       ]
     },
@@ -446,53 +446,53 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "66d53076d9326c94",
-          "title": "Binance resumes withdrawals following $6.3 billion breach",
-          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+          "id": "2c466e9c19dcc6ef",
+          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+          "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-01T16:20:10.000Z",
-          "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+          "publishedAt": "2026-11-02T19:45:54.000Z",
+          "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
           "image": null
         },
         {
-          "id": "a53a40d9d648ac2a",
-          "title": "A fully playable version of Portal prequel F-Stop leaked",
-          "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-01T16:19:21.000Z",
-          "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "5d82caa07468e19d",
-          "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-          "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+          "id": "f0d11490230013aa",
+          "title": "Web host Squarespace lays off 19% of its employees",
+          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-01T15:00:00.000Z",
-          "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+          "publishedAt": "2026-11-02T19:25:59.000Z",
+          "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
           "image": null
         },
         {
-          "id": "d47dca67557a5eeb",
-          "title": "North Korea linked to massive Binance crypto heist",
-          "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+          "id": "3b566659fe8ffb5d",
+          "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+          "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-01T14:33:11.000Z",
-          "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-11-02T19:24:09.000Z",
+          "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch,…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "c0f8e37d433c0d4d",
-          "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-          "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+          "id": "8402594bed2479dc",
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
           "source": "TechCrunch",
           "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-01T14:00:00.000Z",
-          "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+          "publishedAt": "2026-11-02T19:19:17.000Z",
+          "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and…",
+          "image": null
+        },
+        {
+          "id": "2d2f3c476c3c5731",
+          "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+          "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-02T19:11:49.000Z",
+          "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as…",
           "image": null
         }
       ]
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "3f0e252b5b16f8a1",
-          "title": "The Brewers Won The World Series And The Dodgers Didn’t Ruin Baseball",
-          "url": "https://www.forbes.com/sites/danfreedman/2026/11/01/the-brewers-won-the-world-series-and-the-dodgers-didnt-ruin-baseball/",
+          "id": "801c96de69dda60b",
+          "title": "Old Regulations Will Make America Lose The Race For Autonomy At Sea",
+          "url": "https://www.forbes.com/sites/craighooper/2026/11/02/old-regulations-will-make-america-lose-the-race-for-autonomy-at-sea/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-01T15:00:00.000Z",
-          "summary": "The Milwaukee Brewers won the World Series, beating the Los Angeles Dodgers on their way, and proved that there is competitive balance in baseball regardless of payrolls.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae648d3c9efef6bea138697/0x0.jpg"
+          "publishedAt": "2026-11-02T18:30:22.000Z",
+          "summary": "Old regulations are strangling America’s ability to compete for autonomy at sea. It’s time to allow autonomous ship designers prove out the potential of their designs.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae8d3876f0661ea03898985/0x0.jpg"
         },
         {
-          "id": "68fc4ec568d3a382",
-          "title": "A $1,200 Courtyard By Marriott Room In Manhattan Is Not Inflation",
-          "url": "https://www.forbes.com/sites/johntamny/2026/11/01/a-1200-courtyard-by-marriott-room-in-manhattan-is-not-inflation/",
+          "id": "f5045a0c8fb2da95",
+          "title": "NewsNation Plans Sports-Style Election Night Focused On Experts Crunching Data, Not Pundits",
+          "url": "https://www.forbes.com/sites/markjoyella/2026/11/02/newsnation-plans-sports-style-election-night-focused-on-experts-crunching-data-not-pundits/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-01T15:00:00.000Z",
-          "summary": "Unless economics is no longer about tradeoffs, a soaring market price must show up in much lower prices elsewhere in the economy, and vice versa.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae5d11c3a37ed24c42bdbc2/0x0.jpg"
+          "publishedAt": "2026-11-02T18:11:41.000Z",
+          "summary": "The cable news network will put its election data scientists at the core of its coverage, explaining every critical call as the control of Congress is decided.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae8bc92580d98597cf9d797/0x0.jpg"
         },
         {
-          "id": "2d5aee5af4992486",
-          "title": "Reagan’s Farewell Remarks On Immigration Contrasted Sharply With Trump",
-          "url": "https://www.forbes.com/sites/stuartanderson/2026/11/01/reagans-farewell-remarks-on-immigration-contrasted-sharply-with-trump/",
+          "id": "af0aa5c26c1fd1e8",
+          "title": "After The Midterms The SEC And CFTC Face A Crypto Leadership Test",
+          "url": "https://www.forbes.com/sites/digital-assets/2026/11/02/can-election-results-lead-to-bipartisan-sec--cftc-nominations-to-spur-crypto-rules/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-01T14:57:13.000Z",
-          "summary": "Ronald Reagan’s views on immigrants and immigration could not differ more from those Donald Trump has expressed in campaign rallies.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae25308fe382d7447121ced/0x0.jpg?width=960&precrop=3000%2C1688%2Cx0%2Cy192"
+          "publishedAt": "2026-11-02T18:08:54.000Z",
+          "summary": "Midterm election results could reshape U.S. crypto regulation as Washington weighs bipartisan leadership at the SEC and CFTC.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a91a2a26b935898c4ef55f5/0x0.jpg"
         },
         {
-          "id": "0af1be954947d240",
-          "title": "Duke Favored To Win NCAA Championship: ‘In A Class By Themselves’",
-          "url": "https://www.forbes.com/sites/adamzagoria/2026/11/01/duke-favored-to-win-ncaa-championship-in-a-class-by-themselves/",
+          "id": "18b021a2064cb1f7",
+          "title": "Billionaire Investor Tom Steyer’s Blueprint for a Cheaper, Cleaner American Future",
+          "url": "https://www.forbes.com/video/108fc7a1-2c1b-4049-b8f9-ada82cf1b456/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-01T14:45:56.000Z",
-          "summary": "Florida is actually No. 1 in the AP Preseason Poll, having received 47 first-place votes, with Duke at No. 2 with 10 first-place votes. Illinois is No. 4, with UConn at No. 4 and Arizona at No. 5.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae74575837742ee7130fdc5/0x0.jpg"
+          "publishedAt": "2026-11-02T17:42:07.000Z",
+          "summary": "In the premiere episode of Built Different, billionaire investor and climate advocate Tom Steyer sits down with Forbes’ Elisabeth Brier to break down the rapidly accelerating energy transition.…",
+          "image": "https://img.elements.video/108fc7a1-2c1b-4049-b8f9-ada82cf1b456/1_th.jpg"
         },
         {
-          "id": "c6dcaae430b670f4",
-          "title": "Putin Is Losing His Grip On Eastern Europe, But May Make Gains In The West",
-          "url": "https://www.forbes.com/sites/natashalindstaedt/2026/11/01/putin-is-losing-his-grip-on-eastern-europe-but-may-make-gains-in-the-west/",
+          "id": "5df3615d32fdd6dc",
+          "title": "New Wave Of Refrigerator Cyberattacks Roils European Supermarkets: ‘Everything Is Destroyed’",
+          "url": "https://www.forbes.com/sites/conormurray/2026/11/02/new-wave-of-refrigerator-cyberattacks-roils-european-supermarkets-everything-is-destroyed/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-01T14:02:48.000Z",
-          "summary": "Russia is losing allies in Eastern Europe as elections in 2026 have ousted incumbents that were friendly to the Kremlin. But he still has allies or potential allies in the West.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae505843e95696501b463ea/0x0.jpg"
+          "publishedAt": "2026-11-02T17:36:08.000Z",
+          "summary": "The new wave of apparent supermarket cyberattacks, which heated refrigerators above 120 degrees Fahrenheit and ruined food products, comes weeks after hundreds of French supermarkets were targeted.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ae8c9b2ecba3dd01f4c653d/0x0.jpg?width=960&precrop=1890%2C1063%2Cx0%2Cy119"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "5722099362838c9d",
-          "title": "Canelo Álvarez Dominates Christian Mbilli to Reclaim WBC Super Middleweight Championship",
-          "url": "https://hypebeast.com/2026/11/canelo-alvarez-dominates-christian-mbilli-reclaim-wbc-super-middleweight-boxing-championship-announcement",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-01T15:00:02.000Z",
-          "summary": "Summary Canelo Alvarez reclaimed the WBC super middleweight world title with a unanimous decision victory over Christian Mbilli in RiyadhAlvarez controlled the 12-round contest behind scorecards of…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F01%2Fcanelo-alvarez-dominates-christian-mbilli-reclaim-wbc-super-middleweight-boxing-championship-announcement-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "3727ceed882be21a",
+          "title": "The 11 Best Fragrances Released This October",
+          "url": "https://www.esquire.com/style/grooming/a74286641/new-fragrances-to-buy-october-2026/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-11-02T19:30:20.000Z",
+          "summary": "The new smoky, spicy scents you need to know about.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/131472ba-7cf9-4919-888d-7243de05ef02.jpg"
         },
         {
-          "id": "176e5728779f35d7",
-          "title": "JISOO Leans Into Dark Dance-Pop on Hypnotic New Solo Single \"ADDICTED\"",
-          "url": "https://hypebeast.com/2026/11/jisoo-new-single-addicted-music-video-release",
+          "id": "7edbc1e6021f9ea4",
+          "title": "Unpacking the Recipe Behind Goya Gumbani’s EP",
+          "url": "https://hypebeast.com/2026/11/unpacking-the-recipe-behind-goya-gumbanis-ep-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-01T10:00:33.000Z",
-          "summary": "Summary JISOO has officially released her new solo single and accompanying music video for \"ADDICTED\"The dark dance-pop track explores the rush of magnetic attraction as an emotional parallel to her…",
-          "image": null
+          "publishedAt": "2026-11-02T17:09:44.000Z",
+          "summary": "There are a couple of things synonymous with Goya Gumbani: loafers, a large hat, and his distinctive neo-soul and jazz sound. As a continuation from his previous project, Warlord Of Weejuns, which…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F29%2FGoya-Gumbani_web-00.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "e3dc146caf676ec4",
-          "title": "Pas Normal Studios and Salomon Reunite for Sixth Technical Running Capsule",
-          "url": "https://hypebeast.com/2026/11/pas-normal-studios-salomon-sixth-technical-running-capsule-collaboration-release-info",
+          "id": "159de99c6eaf910b",
+          "title": "18 East Revives Alphanumeric for Artisanal Fall 2026 Skate Collection",
+          "url": "https://hypebeast.com/2026/11/18-east-alphanumeric-fall-2026-skate-collaboration-collection-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-01T09:32:09.000Z",
-          "summary": "Summary Pas Normal Studios and Salomon have unveiled their sixth collaboration designed for cyclists transitioning into cold-weather runningThe three-piece collection introduces the waterproof AERO…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F31%2Fpas-normal-studios-salomon-sixth-technical-running-capsule-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-02T14:58:15.000Z",
+          "summary": "Summary 18 East has unveiled its Fall 2026 collection featuring a collaborative nine-piece capsule with Alyasha Owerka Moore's AlphanumericThe capsule reimagines archival skatewear designs through…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2F18-east-alphanumeric-fall-2026-skate-collaboration-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "c181c2086ad28bce",
-          "title": "Palace and Burberry Announce Limited-Edition Capsule for London Flagship Opening",
-          "url": "https://hypebeast.com/2026/11/palace-skateboard-burberry-limited-edition-capsule-london-flagship-opening-exclusive-collaboration-release-info",
+          "id": "36f7015df18401c3",
+          "title": "Here’s What You Should Check Out at ISEA2026 Dubai",
+          "url": "https://hypebeast.com/2026/11/isea2026-dubai-science-art-fair-event-tease",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-01T09:00:20.000Z",
-          "summary": "Summary Palace and Burberry have announced a limited-edition 10-piece collaborative capsule celebrating the opening of Palace's new London flagshipThe lineup reinterprets the classic Camden car coat…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F31%2Fpalace-skateboard-burberry-limited-edition-capsule-london-flagship-opening-exclusive-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-02T14:53:26.000Z",
+          "summary": "The 31st edition of ISEA2026 Dubai is about to take over the city. For 10 days, the electronic and emerging art fair will go from space to systems, with cultural exhibitions, workshops, and…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F02%2Fisea2026-dubai-science-art-fair-event-tease-0.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "b0fffff2bb9dbeac",
-          "title": "Closer Look at the Travis Scott x Nike CPFM Air Flea 1 \"Cactus Jack\"",
-          "url": "https://hypebeast.com/2026/11/travis-scott-nike-cpfm-flea-1-cactus-jack-ix7250-200-closer-look-release-info",
+          "id": "5ebb171a61d7dc06",
+          "title": "New Arrivals From HBX: Hellstar",
+          "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-hellstar-3",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-01T08:26:28.000Z",
-          "summary": "Summary A closer look has surfaced for the upcoming Travis Scott x CPFM x Nike Air Flea 1 Cactus JackThe brand-new silhouette pairs khaki suede and mud-dipped soles with oversized padded collars and…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F30%2Ftravis-scott-nike-cpfm-flea-1-cactus-jack-IX7250-200-closer-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-02T14:31:15.000Z",
+          "summary": "Brand Information: Hellstar is a Los Angeles streetwear brand that hits hard with a raw, rebellious edge. Born in 2020, it throws dark cosmic vibes, bold graphics, and punk attitude into oversized…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Fhs-tattoo-logo-t-shirt-black-product-1-a0cb42bb_1793629863.jpg?w=800&cbr=1&q=90&fit=max"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "540df14f8e305bef",
-          "title": "Tiered immigration hub by Aedas opens at Shenzhen-Hong Kong border",
-          "url": "https://www.dezeen.com/2026/11/01/new-huanggang-port-development-aedas-shenzhen-hong-kong/",
+          "id": "b565c50bb910f926",
+          "title": "65 Chicago Interior Designers to Know From the AD PRO Directory",
+          "url": "https://www.architecturaldigest.com/story/the-best-chicago-interior-designers-on-the-ad-pro-directory",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-11-02T18:20:30.000Z",
+          "summary": "Searching for Windy City interior designers to hire? Look no further than our AD-approved list",
+          "image": "https://media.architecturaldigest.com/photos/691caa57f2f6d72c8874f905/master/pass/third%20coast%20interiors.jpeg"
+        },
+        {
+          "id": "87e0ac462f7d1759",
+          "title": "Neri Oxman experiments with fabric pigment created by bacteria",
+          "url": "https://www.dezeen.com/2026/11/02/neri-oxman-vigils-fabric-silk-pigment/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-01T11:00:00.000Z",
-          "summary": "Architecture studio Aedas has completed a tiered, round-edged building to house a new gateway between Hong Kong and Shenzhen, China. The post Tiered immigration hub by Aedas opens at Shenzhen-Hong…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/10/new-huanggang-port-development-aedas-shenzhen-hong-kong-sq_dezeen_2364_col_1-1024x1024.jpg"
+          "publishedAt": "2026-11-02T18:00:00.000Z",
+          "summary": "Designer Neri Oxman has created a fabric dyeing concept where a bacterial solution is sprayed onto a 3D-knitted silk textile and left to grow a living culture which produces faded indigo and pink…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/10/oxman-vigils-fabric-dying_dezeen_2364_sq-1-1024x1024.jpg"
         },
         {
-          "id": "a913a2d7f799250c",
-          "title": "Escola Sant Ignasi-Jesuïtes de Sarrià / Aquidos",
-          "url": "https://www.archdaily.com/1187783/escola-sant-ignasi-jesuites-de-sarria-aquidos",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-11-01T10:00:00.000Z",
-          "summary": "Sant Ignasi School, inaugurated in 1892 and designed by architect Joan Martorell, is an emblematic building in Barcelona that has welcomed thousands of students since its foundation. Its…",
-          "image": "https://images.adsttc.com/media/images/6ae3/7638/495d/0300/01a7/652a/newsletter/archdaily_SantIgnasi_1.jpg?1793291853"
+          "id": "c3cd9e2877ae35fa",
+          "title": "This Picture-Perfect Suburban Kitchen Is an Argument for Maxed-Out Storage, Smart Appliances, and Custom Furniture",
+          "url": "https://www.architecturaldigest.com/story/mason-and-brass-smart-family-kitchen",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-11-02T14:23:45.000Z",
+          "summary": "A poorly plotted kitchen gets a stylish and functional makeover for a family of five",
+          "image": "https://media.architecturaldigest.com/photos/6ae5e7965467833382fc7c74/master/pass/mason-and-brass-fall-2026-hires-19.jpg"
         },
         {
-          "id": "a65d49097ee086ad",
-          "title": "Dezeen's favourite furniture and homeware from October",
-          "url": "https://www.dezeen.com/2026/11/01/dezeens-favourite-furniture-homeware-october/",
+          "id": "8da4f30b22fa509b",
+          "title": "Jaylen Brown Is Keeping His Boston Skyrise Apartment—and Its 18th-Century Harp Too",
+          "url": "https://www.architecturaldigest.com/story/jaylen-brown-boston-apartment",
+          "source": "Architectural Digest",
+          "sourceUrl": "https://architecturaldigest.com",
+          "publishedAt": "2026-11-02T13:00:00.000Z",
+          "summary": "The apartment “felt the most like home,” the NBA star says",
+          "image": "https://media.architecturaldigest.com/photos/6ae3c5404af0d77379606fa8/master/pass/JaredKuzia_AD_JaylenBrown_18_v2_L.jpg"
+        },
+        {
+          "id": "47ead41948e3f5ff",
+          "title": "Arches create “animated silhouette” at red-brick apartment block in King’s Cross",
+          "url": "https://www.dezeen.com/2026/11/02/cadence-court-alison-brooks-architects-kings-cross/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-01T10:00:00.000Z",
-          "summary": "The first piece of furniture by architecture office Studio Hagen Hall and a pleated cabinet by Didi Ng Wing Yin feature in this roundup of design pieces spotted by Dezeen's Jane Englefield over the…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/10/sq-october-product-favourites_dezeen_2364_col_0-1024x1024.jpg"
-        },
-        {
-          "id": "ab489abc82e90b46",
-          "title": "U-shaped store / MANERA",
-          "url": "https://www.archdaily.com/1187442/u-shaped-store-manera",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-11-01T09:00:00.000Z",
-          "summary": "U-shaped Store is a children's store designed by MANERA atelier. The project explores the relationship between retail space, scenography, and architecture, proposing a flexible environment organized…",
-          "image": "https://images.adsttc.com/media/images/6adb/8d91/3271/8400/01d0/e5b6/newsletter/04_U-shaped_store_Medellin_Colombia_MANERA__Juan_Camilo_Roa.jpg?1792773553"
-        },
-        {
-          "id": "95ad568f6c0fa8ec",
-          "title": "Beyond Affordable Housing: Integrating Civic Infrastructure in US Mixed-Use Developments",
-          "url": "https://www.archdaily.com/1187571/beyond-affordable-housing-integrating-civic-infrastructure-in-us-mixed-use-developments",
-          "source": "ArchDaily Global",
-          "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-11-01T07:30:00.000Z",
-          "summary": "For much of the twentieth century, affordable housing in the United States was conceived as a distinct residential category, shaped by financing structures and development practices that separated…",
-          "image": "https://images.adsttc.com/media/images/6adf/a7ce/20d6/d83c/e040/948c/newsletter/beyond-affordable-housing-integrating-civic-infrastructure-in-mixed-use-developments_3.jpg?1793042387"
+          "publishedAt": "2026-11-02T11:30:00.000Z",
+          "summary": "Two-storey-tall arches frame entrances to Cadence Court, a mixed-use apartment block in King’s Cross, London, which has been completed by local studio Alison Brooks Architects. The post Arches create…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/10/cadence-court-alison-brooks-architects-kings-cross-sq_dezeen_2364_col_0-1024x1024.jpg"
         }
       ]
     }
