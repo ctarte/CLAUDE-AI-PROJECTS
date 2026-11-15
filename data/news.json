@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-11-14T16:17:58.142Z",
+  "generatedAt": "2026-11-15T16:44:34.685Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "86cee693d648c2e0",
-          "title": "Fuel crisis and protests pressure Chile's far-right president",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-          "source": "NPR Topics: World",
-          "sourceUrl": "https://feeds.npr.org",
-          "publishedAt": "2026-11-14T16:05:12.000Z",
-          "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg"
-        },
-        {
-          "id": "aba212013333162f",
-          "title": "EU calls for immediate humanitarian access to Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+          "id": "302649646d522abe",
+          "title": "Thousands rally in Czech Republic against state media funding changes",
+          "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-14T15:57:22.000Z",
-          "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+          "publishedAt": "2026-11-15T16:32:22.000Z",
+          "summary": "Critics say proposed funding changes will give the government more control of state media.",
           "image": null
         },
         {
-          "id": "92720765a427577c",
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-14T15:53:55.000Z",
-          "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-        },
-        {
-          "id": "f913251039d633b2",
-          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-14T15:42:54.000Z",
-          "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
-        },
-        {
-          "id": "c5c97682f1315e5f",
-          "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+          "id": "e02355c7a550724b",
+          "title": "British tourist smashes Jesus statue outside Vilnius church",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-14T15:36:37.000Z",
-          "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+          "publishedAt": "2026-11-15T16:04:22.000Z",
+          "summary": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+          "image": null
+        },
+        {
+          "id": "76222d4d3122ef18",
+          "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-11-15T15:57:03.000Z",
+          "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "311e9be033eab28d",
+          "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-11-15T15:32:43.000Z",
+          "summary": "70 bodies recovered from Gaza rubble, thousands still missing",
+          "image": null
+        },
+        {
+          "id": "e6c7e401883d7698",
+          "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-11-15T15:21:21.000Z",
+          "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
           "image": null
         }
       ]
@@ -61,54 +61,54 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "9aa29a9320bec7c3",
-          "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-          "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+          "id": "3368737bc3df901b",
+          "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+          "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-11-14T16:01:02.000Z",
-          "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/canton-network-privacy-learn-gID_4-pID_6.png"
+          "publishedAt": "2026-11-15T16:01:02.000Z",
+          "summary": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png"
         },
         {
-          "id": "b918d6c7270c0261",
-          "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-          "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-11-14T15:38:27.000Z",
-          "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+          "id": "2bed2cca4d10f984",
+          "title": "Enterprise blockchain is going to come back from the dead",
+          "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-11-15T14:30:00.000Z",
+          "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg"
         },
         {
-          "id": "c6edf19e65a23c78",
-          "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-          "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-11-14T15:00:00.000Z",
-          "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-        },
-        {
-          "id": "3baeba662fbedf47",
-          "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-          "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+          "id": "bddcae0d0eff9f2a",
+          "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+          "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-11-14T14:01:02.000Z",
-          "summary": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous…",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg"
+          "publishedAt": "2026-11-15T14:01:02.000Z",
+          "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg"
         },
         {
-          "id": "fc787b1b4f9ee3d7",
-          "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-          "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+          "id": "2b65f49987c721d5",
+          "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+          "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-11-14T13:00:00.000Z",
-          "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/139f96d99240c3a1ed36b5aee8360db8f6ec9f2e-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+          "publishedAt": "2026-11-15T14:00:00.000Z",
+          "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+        },
+        {
+          "id": "043a2bf5f6f78168",
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-11-15T11:18:48.000Z",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
         }
       ]
     },
@@ -171,60 +171,100 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "a0bc79dd3afa44fd",
-          "title": "Musk: 'Critical deals will be lost' at Nvidia without Huang",
-          "url": "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/",
+          "id": "fc6238d6c0dcbb79",
+          "title": "Pence calls Vance ‘wrong’ on Iran war, GOP midterm losses",
+          "url": "https://thehill.com/homenews/administration/6221381-pence-vance-midterm-losses/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-14T16:02:25.000Z",
-          "summary": "SpaceX CEO Elon Musk wrote on Saturday that Nvidia will lose “critical deals” after CEO Jensen Huang’s exit from the company following reports of his extramarital affairs, including one with an…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/696ac696182088.59400215-e1794671426619.jpeg?w=900"
+          "publishedAt": "2026-11-15T16:34:46.000Z",
+          "summary": "Former Vice President Mike Pence said Vice President Vance was “wrong” about attributing the Iran war to the GOP’s midterm losses, where the party lost control of Congress. Appearing on NBC’s “Meet…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2025/04/pencemike_040925gn10_w.jpg?w=900"
         },
         {
-          "id": "38f6d94b1e94b432",
-          "title": "A different kind of ticket-splitting",
-          "url": "https://thehill.com/opinion/campaign/6219403-midterm-election-ticket-splitting-results/",
+          "id": "ab3a3f90d8f1ac5a",
+          "title": "Duffy pins ground stop on Congress's lack of funding",
+          "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-14T16:00:00.000Z",
-          "summary": "While Democrats won significant victories in recent midterm elections, voters in several states also approved conservative-leaning ballot initiatives regarding school sports and voter identification.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26296014272472.jpg?w=900"
+          "publishedAt": "2026-11-15T16:04:46.000Z",
+          "summary": "Transportation Secretary Sean Duffy blamed his predecessors and Congress for failing to adequately fund the nation’s aging air traffic control system following a nationwide ground stop for all U.S.…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26318577901046-e1794758492226.jpg?w=900"
         },
         {
-          "id": "e4264a3a54c62e5c",
-          "title": "FAA ground stop leads to multiple delays, postponements in college football",
-          "url": "https://thehill.com/policy/sports-gaming/6220667-faa-ground-stop-college-football-delays/",
+          "id": "8280b11db7d0f150",
+          "title": "AI can improve 911, but humans must remain in charge",
+          "url": "https://thehill.com/opinion/technology/6209185-modernizing-911-via-ai/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-14T15:19:35.000Z",
-          "summary": "Friday’s nationwide ground stop issued by the Federal Aviation Administration (FAA) has led to some changes in Saturday's schedule for several college football games across the country. The…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26284027851416-e1794668646779.jpg?w=900"
+          "publishedAt": "2026-11-15T16:00:00.000Z",
+          "summary": "The U.S. is not handing its emergency response system over to computers. AI is making emergency communications faster and more resilient, but trained 911 professionals remain in charge.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP25192624640880.jpg?w=900"
         },
         {
-          "id": "d64efacdaca707f2",
-          "title": "Democrats win an election and immediately move to subvert democracy",
-          "url": "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/",
+          "id": "60a141b1ff5ef455",
+          "title": "Trump calls on Congress to fund new air traffic control system",
+          "url": "https://thehill.com/policy/transportation/6221316-trump-requests-air-traffic-funding/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-14T15:00:00.000Z",
-          "summary": "The standard for impeachment is not \"kind of legalizing a lot.\"",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26282085553237.jpg?w=900"
+          "publishedAt": "2026-11-15T15:25:50.000Z",
+          "summary": "President Trump on Sunday asked Congress to fund a new air traffic control system following Friday’s rare nationwide ground stop for all U.S. flights. “If Congress approves the desperately needed…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26318605825317-e1794755655673.jpg?w=900"
         },
         {
-          "id": "82f95c32882e2d0a",
-          "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-14T14:56:05.000Z",
-          "summary": "Ken Skates apologises to voters after May's historic election defeat.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fee/live/d8461de0-e02d-11f1-9ca9-b3b288fceb81.jpg"
+          "id": "253eda97ee943a89",
+          "title": "Van Hollen says 'bunch of nonsense' that he can't win Senate majority leader",
+          "url": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/",
+          "source": "TheHill.com Just In",
+          "sourceUrl": "https://thehill.com",
+          "publishedAt": "2026-11-15T15:11:11.000Z",
+          "summary": "Sen. Chris Van Hollen (D-Md.) calls it a “bunch of nonsense” that he can’t win Senate Majority Leader over Sen. Chuck Schumer (D-N.Y.) in response to a report from The Hill that alleged Senate…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/vanhollenchris_062526gn03_w.jpg?w=900"
         }
       ]
     },
     "ai": {
       "label": "AI",
       "articles": [
+        {
+          "id": "acaf00569e865f08",
+          "title": "Where was Nvidia’s security team?",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-15T00:08:07.000Z",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to…",
+          "image": null
+        },
+        {
+          "id": "a4a92fbcda03532a",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-14T21:41:22.000Z",
+          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+          "image": null
+        },
+        {
+          "id": "7134e7e1ad670b60",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-14T17:30:00.000Z",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "image": null
+        },
+        {
+          "id": "075bbfb634c2a8a5",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-14T16:34:15.000Z",
+          "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+          "image": null
+        },
         {
           "id": "ec577d4c46a6d8ce",
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -234,46 +274,6 @@
           "publishedAt": "2026-11-13T22:43:00.000Z",
           "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
           "image": null
-        },
-        {
-          "id": "645e798427f902eb",
-          "title": "AI agent startup LangChain hits $3B valuation",
-          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-13T19:37:57.000Z",
-          "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-          "image": null
-        },
-        {
-          "id": "3dc626ea28ff3a7d",
-          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-13T18:40:30.000Z",
-          "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-          "image": null
-        },
-        {
-          "id": "c231d25e54b9ad3f",
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-13T16:00:12.000Z",
-          "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-          "image": null
-        },
-        {
-          "id": "59c58e3f39cc6e58",
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-13T15:58:00.000Z",
-          "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-          "image": null
         }
       ]
     },
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "9dd15c73c575b534",
-          "title": "The FAA’s IT troubles are far bigger then AI",
-          "url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
+          "id": "8edd280b08fc9f71",
+          "title": "Thinking of quitting your job? Don’t until you consider this factor",
+          "url": "https://www.fastcompany.com/91633889/thinking-of-quitting-your-job-dont-do-it-until-you-consider-this-under-recognized-factor-workplace-quitting-job",
           "source": "Fast Company",
           "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-11-14T15:22:59.000Z",
-          "summary": "U.S. airlines are still reeling from a nationwide groundstop issued late Friday night that interrupted weekend travel and wreaked havoc on schedules. The culprit, the Federal Aviation Administration…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91642664-faa.jpg"
+          "publishedAt": "2026-11-15T13:10:00.000Z",
+          "summary": "You know that stinging sensation you get when your coworker gets the promotion that you thought was yours? Or that sinking feeling of doom when you realize that a new hire could take over your role?…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91633889-thinking-of-quitting-your-job-dont-do-it-until-you-consider-this-under-recognized-factor-workplace-quitting-job.jpg"
         },
         {
-          "id": "49730cb030d22a15",
-          "title": "A cyberattack forces you to pull the plug. Can your business keep running?",
-          "url": "https://www.fastcompany.com/91640272/a-cyberattack-forces-you-to-pull-the-plug-can-your-business-keep-running-technology-cyberattacks",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-11-14T13:47:11.000Z",
-          "summary": "The recent cyberattack on European supermarkets sent the temperature in some Swedish freezers to a sweltering 131 F (55 C). The Dutch grocery chain Ahold Delhaize warned that a separate hack could…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91640272-can-your-business-survive-a-cyber-attack.jpg"
+          "id": "352c49bd299b8cc0",
+          "title": "Holiday Social Tonics - Hiyo Adds A Limited-Edition Apple Cinnamon Tonic For The Holidays (TrendHunter.com)",
+          "url": "https://www.trendhunter.com/trends/holiday-social-tonics",
+          "source": "TREND HUNTER",
+          "sourceUrl": "https://trendhunter.com",
+          "publishedAt": "2026-11-15T11:38:00.000Z",
+          "summary": "(TrendHunter.com) Hiyo is giving its non-alcoholic social tonic range a festive update with Apple Cinnamon, the brand's first limited-edition flavour. The spiced apple blend brings a seasonal twist…",
+          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653678/653678_1_468.jpeg"
         },
         {
-          "id": "7278a0c0ed1241a7",
-          "title": "5 ways to turn your cold outreach into a job offer",
-          "url": "https://www.fastcompany.com/91631346/5-ways-to-turn-your-cold-outreach-into-a-job-offer-job-hunting",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-11-14T13:12:14.000Z",
-          "summary": "Taylor Stanton, a former student of mine, spent nearly 15 years as a communications professional for tech CEOs in Silicon Valley. On the side, he photographed the underexplored backcountry of…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91631346-how-to-turn-outreach-into-success.jpg"
+          "id": "9a02b1d59266f66f",
+          "title": "Carton-Packed Snack Meals - Panda Express Tests A Snack-Size Beef Noodle Box In California (TrendHunter.com)",
+          "url": "https://www.trendhunter.com/trends/carton-packed-snack-meals",
+          "source": "TREND HUNTER",
+          "sourceUrl": "https://trendhunter.com",
+          "publishedAt": "2026-11-15T11:23:00.000Z",
+          "summary": "(TrendHunter.com) Panda Express is experimenting with a smaller way to serve its noodles with the Shanghai Beef Noodle Box, a new snack-size option packaged in a classic folded takeout carton. Priced…",
+          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653677/653677_1_468.jpeg"
         },
         {
-          "id": "0f0d5e98aef70bce",
-          "title": "Taxing billionaires failed in California, but other states are taking steps to collect from the rich",
-          "url": "https://www.fastcompany.com/91641216/taxing-billionaires-failed-california-other-states-taking-steps-collect-rich",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "summary": "State efforts to tax the rich did relatively well in the 2026 midterm elections, following a series of state legislative moves in that direction in recent years. That might come as a surprise because…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91641216-california-wealth-tax.jpg"
+          "id": "f1a5be5e26dea400",
+          "title": "Telehealth Wellness Memberships - Genesis One Brings Personalized Wellness Programs Home (TrendHunter.com)",
+          "url": "https://www.trendhunter.com/trends/telehealth-wellness-memberships",
+          "source": "TREND HUNTER",
+          "sourceUrl": "https://trendhunter.com",
+          "publishedAt": "2026-11-15T11:08:00.000Z",
+          "summary": "(TrendHunter.com) Telehealth wellness memberships are expanding access to personalized care as Genesis One prepares to launch its digital platform in January 2027. The service will bring clinic-based…",
+          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653672/653672_1_468.jpeg"
         },
         {
-          "id": "713db22b01330d85",
-          "title": "Here’s how to fix the looming Social Security shortfall",
-          "url": "https://www.fastcompany.com/91642066/heres-how-to-fix-the-looming-social-security-shortfall",
-          "source": "Fast Company",
-          "sourceUrl": "https://fastcompany.com",
-          "publishedAt": "2026-11-14T11:00:00.000Z",
-          "summary": "The Social Security Board of Trustees announced earlier this year that everyone’s favorite government program can pay 100% of scheduled benefits until the fourth quarter of 2032. After that, the…",
-          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91642066-heres-how-to-fix-the-looming-social-security-shortfall.jpg"
+          "id": "a98e94822a267144",
+          "title": "Smart Radon Detectors - X-Sense Introduces Continuous Home Radon Monitoring at Lowe's (TrendHunter.com)",
+          "url": "https://www.trendhunter.com/trends/smart-radon-detectors",
+          "source": "TREND HUNTER",
+          "sourceUrl": "https://trendhunter.com",
+          "publishedAt": "2026-11-15T10:53:00.000Z",
+          "summary": "(TrendHunter.com) Smart radon detectors are making continuous home safety monitoring more accessible as X-Sense expands availability of its XR0A-iR Wi-Fi Smart Radon Detector through Lowe's stores…",
+          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653666/653666_1_468.jpeg"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "93f92bb58e46adf1",
-          "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-          "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+          "id": "abaa077164b9985a",
+          "title": "Cape Verde votes for president with emigration in focus",
+          "url": "https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-11-15T16:24:18.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAE04B_L.jpg"
+        },
+        {
+          "id": "0bca27be692ca51e",
+          "title": "Bread Financial EVP Dennis McCarthy acquires $1,718 in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/bread-financial-evp-dennis-mccarthy-acquires-1718-in-stock-93CH-5028011",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-11-15T16:16:01.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+        },
+        {
+          "id": "46addb5096b50923",
+          "title": "Intuitive Surgical VP Fredrik Widman sells $407,765 in common stock",
+          "url": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-vp-fredrik-widman-sells-407765-in-common-stock-93CH-5028008",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-11-15T16:01:20.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
+        },
+        {
+          "id": "f2483a4f533c1a6f",
+          "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+          "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
           "source": "MarketWatch.com",
           "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-11-14T16:15:00.000Z",
-          "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-          "image": "https://images.mktw.net/im-62799282"
+          "publishedAt": "2026-11-15T16:00:00.000Z",
+          "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+          "image": "https://images.mktw.net/im-41887542"
         },
         {
-          "id": "2618677956bc0fe5",
-          "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-          "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-          "source": "MarketWatch.com",
-          "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-11-14T16:04:00.000Z",
-          "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-          "image": "https://images.mktw.net/im-22072072"
-        },
-        {
-          "id": "f33af63605a15cf8",
-          "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
-          "url": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+          "id": "b250db7c661b89a8",
+          "title": "Mizuho upgrades Viking Holdings stock rating on normalized valuation",
+          "url": "https://www.investing.com/news/analyst-ratings/mizuho-upgrades-viking-holdings-stock-rating-on-normalized-valuation-93CH-5028005",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-14T16:00:25.000Z",
+          "publishedAt": "2026-11-15T15:56:55.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAD0GP_L.jpg"
-        },
-        {
-          "id": "e5c2279b98015428",
-          "title": "Fed’s Collins says gradual rate hikes best to manage economic risks",
-          "url": "https://www.investing.com/news/economy-news/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks-5027385",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-14T15:48:19.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAD0GK_L.jpg"
-        },
-        {
-          "id": "f5d0e96ac2327771",
-          "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-          "source": "All News",
-          "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-14T15:32:23.000Z",
-          "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
         }
       ]
     },
@@ -446,54 +446,54 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "9d893453c0dadee0",
-          "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-          "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-14T15:00:00.000Z",
-          "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "id": "84e57f9fb52388b4",
+          "title": "The tech products we enthusiastically recommend this holiday season",
+          "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+          "source": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-15T16:00:00.000Z",
+          "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+          "image": null
         },
         {
-          "id": "d46b516a4c8344dc",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "id": "86b92c1c4e1de33b",
+          "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+          "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-14T15:00:00.000Z",
-          "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-11-15T16:00:00.000Z",
+          "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/hampton-headshot-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "3fdf29b5c4eabeab",
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+          "id": "589f2eca044b32b0",
+          "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+          "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-14T14:18:36.000Z",
-          "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded,…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-11-15T14:00:00.000Z",
+          "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "30ba9526ee506416",
-          "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-          "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+          "id": "93924dd20f9b7e51",
+          "title": "The Sony Aibo was a robot revolution dressed like a dog",
+          "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-14T14:00:00.000Z",
-          "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-11-15T13:57:30.000Z",
+          "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         },
         {
-          "id": "f6ab18d54d4e8319",
-          "title": "A gadget to make your dumb house smarter",
-          "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+          "id": "4c525e5e54fa3645",
+          "title": "An overview of Jensen Huang’s messy days",
+          "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-14T13:00:00.000Z",
-          "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-11-15T13:00:00.000Z",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         }
       ]
     },
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "a86bce1e070a8384",
-          "title": "James Gunn Addresses Reports About A Hacked-Up ‘Man Of Tomorrow’",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/14/james-gunn-addresses-reports-about-a-hacked-up-man-of-tomorrow/",
+          "id": "f4bd8e7d173b4663",
+          "title": "Appellate Court Says Federal Supervised Release Should Be Shortened",
+          "url": "https://www.forbes.com/sites/walterpavlo/2026/11/15/appellate-court-says-federal-supervised-release-should-be-shortened/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-14T14:26:22.000Z",
-          "summary": "The fate of James Gunn's DCU remains unclear as he leaves his role leading the studio, but now he's returned to address one troublesome rumor specifically.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/683b06196ee6f2f4104109f7/0x0.jpg"
+          "publishedAt": "2026-11-15T16:21:11.000Z",
+          "summary": "US Probation Officers are struggling with workload. An appellate court just provided some guidance to reduce their case load.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6af9d96d213ed4e896170707/0x0.jpg"
         },
         {
-          "id": "17d77400ed25799e",
-          "title": "Carlos Alcaraz And ATP Finals Upstage WTA In Fashion Flair",
-          "url": "https://www.forbes.com/sites/merlisalawrencecorbett/2026/11/14/carlos-alcaraz-and-atp-finals-upstage-wta-in-fashion-flair/",
+          "id": "aca30bd595e9270b",
+          "title": "Adjusting To Pacers Isn’t Easy, But Ivica Zubac Finally Getting System",
+          "url": "https://www.forbes.com/sites/tonyeast/2026/11/15/adjusting-to-pacers-isnt-easy-but-ivica-zubac-finally-getting-system/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-14T14:24:29.000Z",
-          "summary": "The ATP Tour Finals players fashion outshines the WTA Tour finalists who dressed down during their year-end tournament in Indian Wells",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6af842845d3adf8d693950b3/0x0.jpg"
+          "publishedAt": "2026-11-15T15:14:19.000Z",
+          "summary": "The Indiana Pacers believe Ivica Zubac can be the answer at center as they try to compete once again. After a few games, the big man is starting to figure out the system.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6af75b8c9cdc6811f020c49a/0x0.jpg"
         },
         {
-          "id": "ff4b3a95044b56a0",
-          "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
-          "url": "https://www.forbes.com/sites/conormurray/2026/11/14/gta-vi-has-already-sold-1-billion-in-preorders-but-may-not-revive-console-sales-amid-ai-driven-price-hikes/",
+          "id": "d32fe4002a380a00",
+          "title": "Planes Collide At Miami International Airport While Taxiing—One Day After Nationwide Ground Stop",
+          "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/15/planes-collide-at-miami-international-airport-while-taxiing-one-day-after-nationwide-ground-stop/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-14T14:00:00.000Z",
-          "summary": "“Grand Theft Auto VI” may be the biggest video game launch of all time, but it comes as PlayStation and Xbox models are more expensive than ever thanks to an AI-fueled memory chip shortage, and…",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6af77892bf5bdf9a371ad3eb/0x0.jpg?width=960&precrop=2932%2C1955%2Cx1%2Cy0"
+          "publishedAt": "2026-11-15T15:07:42.000Z",
+          "summary": "A Copa Airlines flight and a UPS cargo flight collided on the ground at the Miami airport.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6af9ca83f8d3df8e35a8c329/0x0.jpg?width=960&precrop=3497%2C1966%2Cx0%2Cy361"
         },
         {
-          "id": "16ec17a65cba3e9d",
-          "title": "Some New Updates On ‘The Body’ Season 2 On Netflix",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/14/some-new-updates-on-the-body-season-2-on-netflix/",
+          "id": "b62b47a62d126f04",
+          "title": "Government Spending Saps Economic Growth, So Does Fed Rate Fiddling",
+          "url": "https://www.forbes.com/sites/johntamny/2026/11/15/government-spending-saps-economic-growth-so-does-fed-rate-fiddling/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-14T13:59:38.000Z",
-          "summary": "'The Body' is an excellent series that fans are loving. Now, there are some updates about season 2 and the future of the series.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6af734e24d132450d8ad1b42/0x0.jpg"
+          "publishedAt": "2026-11-15T15:00:00.000Z",
+          "summary": "Production is the only source of demand. Governments that produce nothing can in no way increase it, but they can warp the consumptive and investment effects of it.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fa41b5426255e06eef782/0x0.jpg"
         },
         {
-          "id": "cbdcb606f0b0a17c",
-          "title": "The Prisoner’s Dilemma Behind College Football Scheduling",
-          "url": "https://www.forbes.com/sites/giovannimalloy/2026/11/14/the-prisoners-dilemma-behind-college-football-scheduling/",
+          "id": "058d0e66f1ac6047",
+          "title": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 6 ‘Roughstock’ Drops On CBS And Paramount+",
+          "url": "https://www.forbes.com/sites/erikkain/2026/11/15/marshals-season-2-episode-6-release-time-cbs-paramount-plus-schedule/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-14T13:30:00.000Z",
-          "summary": "Is college football scheduling a Prisoner's Dilemma? An analysis of 12 years of CFP rankings reveals how winning percentage and strength of schedule influence selection.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6aba8dc98cc7ea38ee95aae9/0x0.jpg?width=960"
+          "publishedAt": "2026-11-15T14:58:07.000Z",
+          "summary": "Marshals Season 2 Episode 6, “Roughstock,” airs Sunday, Nov. 15. Here's the CBS release time, Paramount+ streaming details, plot and full schedule.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6ac25f10e44b5f5f37f92a8a/0x0.jpg"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "8d5d4ed6fd8f8d5d",
-          "title": "Vincent Tsang Brings Quiet Luxury to the Fairway With PIERRE",
-          "url": "https://hypebeast.com/2026/11/vincent-tsang-montreal-pierre-golf-lifestyle-apparel-brand-debut-release-info",
+          "id": "151bc23ebcd702e7",
+          "title": "New Arrivals From HBX: Hender Scheme",
+          "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-hender-scheme-2",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-14T10:00:25.000Z",
-          "summary": "Summary Dime artistic director Vincent Tsang serves as artistic director for PIERRE, a new golf-inspired luxury apparel labelDesigned in Montréal and manufactured in Japan, the brand crafts garments…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F14%2Fvincent-tsang-montreal-pierre-golf-lifestyle-apparel-brand-debut-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-15T14:19:41.000Z",
+          "summary": "Brand Information: \"Gender\" means social and cultural differences about sex, while \"sex\" refers to physical and biological differences HenderScheme proposes a concept which surpasses the \"gender\"…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Ftwo-way-tote-black-product-1-758a2a0c_1794752341.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "c20aadc67f298af9",
-          "title": "Mercedes-Benz Unveils Holographic Tech to Turn Windshields Into Screens",
-          "url": "https://hypebeast.com/2026/11/mercedes-benz-unveils-holographic-tech-turn-windshields-into-screens",
+          "id": "61b51b60c6502dd5",
+          "title": "Kengo Kuma’s KAI Water Culture House Is Built From Roughly 300,000 Handmade Bricks",
+          "url": "https://hypebeast.com/2026/11/kengo-kumas-kai-water-culture-house-is-built-from-roughly-300000-handmade-bricks",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-14T08:00:22.000Z",
-          "summary": "Summary Mercedes-Benz has announced Holo Display technology that turns a vehicle windshield into a transparent screenUsing a dashboard projector and laminated holographic film the system displays…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fmercedes-benz-unveils-holographic-tech-turn-windshields-into-screens-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-15T09:00:51.000Z",
+          "summary": "Summary Kengo Kuma & Associates unveils Copenhagen's 5,800-square-meter KAI Water Culture House.The complex features handmade brick towers above a glazed base.Opening December 5, it offers ten pools…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F13%2Fkengo-kuma-associates-water-culture-house-copenhagen-december-opening-info.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "cbdbd03c6461d33e",
-          "title": "Alessio Ascari on What Lasts Once the Hype Dies Down",
-          "url": "https://hypebeast.com/2026/11/exclusive-conversation-with-alessio-ascari-what-stays-when-the-hype-fades",
+          "id": "f828cf7ee0fdd68e",
+          "title": "Nike Air Force 1 Low “Iridescent Wolf Grey” Shimmers With Blue and Lavender Hues",
+          "url": "https://hypebeast.com/2026/11/nike-air-force-1-low-wolf-grey-white-geyser-grey-ix0154-001-official-images",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-14T07:43:11.000Z",
-          "summary": "As the founder of KALEIDOSCOPE and Capsule, Alessio Ascari is one of the few figures in design publishing who translates ideas into physical spaces—from Spazio Maiocchi in Milan and Manifesto in…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2FAlessio_Ascari_by_MattiadeNardis_1-2-scaled-1.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-15T08:00:15.000Z",
+          "summary": "Name: Nike Air Force 1 Low “Iridescent Wolf Grey”Colorway: Wolf Grey/White-Geyser GreySKU: IX0154-001MSRP: TBCRelease Date: Holiday 2026Nike continues to bring an experimental energy to Bruce…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F13%2Fnike-air-force-1-low-wolf-grey-white-geyser-grey-ix0154-001-official-images-0.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "09d24e857f19c8d5",
-          "title": "The Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver” Takes the Lifestyle Icon to the Gridiron",
-          "url": "https://hypebeast.com/2026/11/nike-zoom-vomero-5-vapor-pro-black-metallic-silver-jf3428-001-release-info",
+          "id": "b1ddf954d63563d7",
+          "title": "Leica Revives Its Rare Hammertone Finish for the M-A and M11-P Cameras",
+          "url": "https://hypebeast.com/2026/11/leica-m-a-m11-p-hammertone-finish-release-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-14T04:00:55.000Z",
-          "summary": "Name: Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver”Colorway: Black/White-Metallic SilverSKU: JF3428-001MSRP: $200 USDRelease Date: November 16Where to Buy: NikeNike is taking the Zoom Vomero 5…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2FNike-Zoom-Vomero-5-Vapor-Pro-Black-Metallic-Silver-JF3428-001-Release-Info.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-15T06:00:12.000Z",
+          "summary": "Summary Leica releases the M-A and M11-P cameras featuring a rare, vintage hammertone finish.The analog and digital models pair textured solid brass with vulcanite-style leatherette.Available…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F13%2Fleica-m-a-m11-p-hammertone-finish-release-info-0.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "1f2ab67418e9271c",
-          "title": "Globe-Trotter and YOSHIROTTEN Split a “SUPERNOVA” Across Three Suitcases",
-          "url": "https://hypebeast.com/2026/11/globe-trotter-yoshirotten-supernova-luggage-collaboration-collection-release-info",
+          "id": "2deb4b237cb27667",
+          "title": "ASICS Dresses the GEL-CUMULUS 16 in Three Earthy, Warm-Toned Colorways",
+          "url": "https://hypebeast.com/2026/11/asics-gel-cumulus-16-1203b439-200-mocha-burnt-umber-1203b439-201-pink-sand-coconut-1203b439-800-burnt-umber-pink-sand-official-images-info",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-14T02:00:23.000Z",
-          "summary": "Summary Globe-Trotter and YOSHIROTTEN have built a three-piece suitcase set that forms one continuous artwork when the cases stand side by sideThe graphics draw from YOSHIROTTEN’s “SUPERNOVA” work,…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2FGlobe-Trotter-YOSHIROTTEN-supernova-luggage-Collaboration-collection-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-15T04:00:04.000Z",
+          "summary": "Name: ASICS GEL-CUMULUS 16Colorway: Mocha/Burnt Umber, Pink Sand/Coconut, Burnt Umber/Pink SandSKU: 1203B439.200, 1203B439.201, 1203B439.800MSRP: €120 EUR (approx. $133 USD)Release Date: November…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F13%2Fasics-gel-cumulus-16-1203b439-200-mocha-burnt-umber-1203b439-201-pink-sand-coconut-1203b439-800-burnt-umber-pink-sand-official-images-info-0.jpg?w=800&cbr=1&q=90&fit=max"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "dfa126542b74083b",
-          "title": "Japanese sauna by Daichi Inc makes \"people feel as though they are dissolving into the forest\"",
-          "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
+          "id": "2ef30fd121071057",
+          "title": "Reims 502 uses pink palette for \"non-referential\" commercial building in Mexico",
+          "url": "https://www.dezeen.com/2026/11/15/reims-502-rosadoce/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-14T11:00:00.000Z",
-          "summary": "Tree trunks puncture the slim timber platforms of this minimalist sauna in a Japanese woodland, designed by local architecture studio Daichi Inc. The post Japanese sauna by Daichi Inc makes \"people…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg"
+          "publishedAt": "2026-11-15T11:00:00.000Z",
+          "summary": "A stepped facade fronts this pink commercial building in Mexico called Rosadoce, designed by local studio Reims 502 to suit various tenants over its lifespan. The post Reims 502 uses pink palette for…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_sq-1024x1024.jpg"
         },
         {
-          "id": "affb9a3dd655c3c7",
-          "title": "Mexico's Parque del Jaguar protects jaguars with 18-kilometre limestone wall",
-          "url": "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/",
+          "id": "a8994bcba4610519",
+          "title": "Mecanoo transforms former gold vault into \"city’s living room\" in renovation of De Nederlandsche Bank in Amsterdam",
+          "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-14T10:00:00.000Z",
-          "summary": "Colectivo C733 has created an 18-kilometre-long limestone wall that allows wildlife to pass through while protecting more than 1,000 hectares of forest at Parque del Jaguar in Tulum, Mexico. The post…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park-sq_dezeen_2364_col_0-1024x1024.jpg"
+          "publishedAt": "2026-11-15T10:00:00.000Z",
+          "summary": "Dutch firm Mecanoo has completed a major renovation of the Netherlands' central bank, which involved dismantling a 14-storey tower and opening up the former gold vault. The post Mecanoo transforms…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg"
         },
         {
-          "id": "a019ca7bf05d443f",
-          "title": "Art, Architecture, Archaeology: A Refuge for Artists at Amman’s Darat al Funun",
-          "url": "https://www.archdaily.com/1187920/art-architecture-archaeology-a-refuge-for-artists-at-ammans-darat-al-funun",
+          "id": "aa8a244d76d7035a",
+          "title": "Against Program: The Productive Ambiguity of Contemporary Architecture",
+          "url": "https://www.archdaily.com/1188137/against-program-the-productive-ambiguity-of-contemporary-architecture",
           "source": "ArchDaily Global",
           "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-11-14T07:30:00.000Z",
-          "summary": "At a time when public support for the arts is under pressure in many countries, Darat al Funun — literally \"House of the Arts\" — stands by its long-standing mission to champion artists. \"Artists are…",
-          "image": "https://images.adsttc.com/media/images/6aeb/631e/c723/9a01/895a/27e9/newsletter/the-stratified-sanctuary-of-darat-al-funun-embracing-the-artist-as-a-historiographer_1.jpg?1793811244"
+          "publishedAt": "2026-11-15T07:30:00.000Z",
+          "summary": "This article is part of our new Opinion section, a format for argument-driven essays on critical questions shaping our field.",
+          "image": "https://images.adsttc.com/media/images/6aec/a627/d2cc/6001/8a4f/70e4/newsletter/against-program-the-productive-ambiguity-of-contemporary-architecture_2.jpg?1793893937"
         },
         {
-          "id": "c27eb93c7d076199",
-          "title": "Vandeuren III-IV / P&P Architectes + Atelier d'Architecture A4",
-          "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+          "id": "75ca01dc9efb5313",
+          "title": "OkiDoki Matcha Bar / Dobrochna Rajcic",
+          "url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
           "source": "ArchDaily Global",
           "sourceUrl": "https://archdaily.com",
-          "publishedAt": "2026-11-14T06:00:00.000Z",
-          "summary": "Winner of the Be-Exemplary Award 2019, Vandeuren III and IV is part of an ambitious renovation strategy for social housing in Brussels. The project transforms 160 dwellings into 132 reconfigured…",
-          "image": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/newsletter/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243"
+          "publishedAt": "2026-11-15T06:00:00.000Z",
+          "summary": "Third Place. Set inside Wrocław's historic 1904 Feniks building (formerly the Barasch Brothers' Department Store) at 75 Szewska Street, Oki Doki is a minimalist matcha bar. The design weaves exposed…",
+          "image": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/newsletter/migdal_okidoki_6.jpg?1794132644"
         },
         {
-          "id": "adcf8f2bb4ba9bf4",
-          "title": "This week Sony revived its classic Walkman headphones",
-          "url": "https://www.dezeen.com/2026/11/14/this-week-sony-walkman-headphones/",
+          "id": "8cadf84f5012eb7f",
+          "title": "Kohler's gut-health tracker clips onto the toilet bowl",
+          "url": "https://www.dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-14T06:00:00.000Z",
-          "summary": "This week on Dezeen, Japanese electronics company Sony launched a remake of its original Walkman headphones, which feature colourful foam pads and lean into 1980s nostalgia. The post This week Sony…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/11/b-sony-mdr-3r-headphones_dezeen_2364_sq-1024x1024.jpg"
+          "publishedAt": "2026-11-15T06:00:00.000Z",
+          "summary": "American bathroom brand Kohler has created Dekoda, a health tracker specifically for the toilet, through its spin-off venture, Kohler Health. The post Kohler's gut-health tracker clips onto the…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_sq-1024x1024.jpg"
         }
       ]
     }
