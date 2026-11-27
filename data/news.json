@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-11-26T19:22:37.618Z",
+  "generatedAt": "2026-11-27T19:17:46.339Z",
   "isSample": false,
   "categories": {
     "world": {
       "label": "World",
       "articles": [
         {
-          "id": "fcf159b694606797",
-          "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-26T18:30:36.000Z",
-          "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
-          "image": null
-        },
-        {
-          "id": "1e98c764a73ebd09",
-          "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
-          "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-26T18:27:27.000Z",
-          "summary": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections.",
-          "image": null
-        },
-        {
-          "id": "ddd9768f2614e272",
-          "title": "Guinea-Bissau presidential election delayed by two years",
-          "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-26T18:07:18.000Z",
-          "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
-          "image": null
-        },
-        {
-          "id": "a5a563c2a3a6d766",
-          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "id": "4d345bd13c7ea574",
+          "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+          "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-26T17:54:22.000Z",
-          "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+          "publishedAt": "2026-11-27T18:52:33.000Z",
+          "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "f660e1dfe935c14d",
-          "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
-          "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+          "id": "5e6bff05103609fc",
+          "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+          "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-11-27T18:42:50.000Z",
+          "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "15078c8b6a4adf35",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "sourceUrl": "https://feeds.bbci.co.uk",
+          "publishedAt": "2026-11-27T18:00:40.000Z",
+          "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "145e9c36a46af2ef",
+          "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+          "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "sourceUrl": "https://aljazeera.com",
-          "publishedAt": "2026-11-26T17:53:44.000Z",
-          "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+          "publishedAt": "2026-11-27T17:58:36.000Z",
+          "summary": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
+          "image": null
+        },
+        {
+          "id": "2e463f3bfba720f5",
+          "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "sourceUrl": "https://aljazeera.com",
+          "publishedAt": "2026-11-27T17:44:50.000Z",
+          "summary": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
           "image": null
         }
       ]
@@ -61,54 +61,54 @@
       "label": "Crypto",
       "articles": [
         {
-          "id": "6e431443e35d183e",
-          "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
-          "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+          "id": "8dc1f076e45c0302",
+          "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+          "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-11-26T19:01:02.000Z",
-          "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png"
+          "publishedAt": "2026-11-27T18:16:03.000Z",
+          "summary": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png"
         },
         {
-          "id": "c3fd12f65711b991",
-          "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-          "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph.com News",
-          "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-11-26T18:26:31.000Z",
-          "summary": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CCD2RN9Y8M1ZHAA60WA1ZA/frozen-token-with-spanish-flag.png"
-        },
-        {
-          "id": "48e81f6caab228d3",
-          "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-          "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+          "id": "9cd525e70b11c61a",
+          "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+          "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
           "source": "Decrypt",
           "sourceUrl": "https://decrypt.co",
-          "publishedAt": "2026-11-26T18:15:29.000Z",
-          "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
-          "image": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg"
+          "publishedAt": "2026-11-27T17:43:29.000Z",
+          "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and…",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg"
         },
         {
-          "id": "9682524a5f16d9cc",
-          "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-          "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "id": "20a21b3a6daea920",
+          "title": "China sets March 2027 rollout for blockchain identity regulations",
+          "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph.com News",
           "sourceUrl": "https://cointelegraph.com",
-          "publishedAt": "2026-11-26T17:39:53.000Z",
-          "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CA3FNTMVJ8NYKSJGRZZ4NT/hi-impact-of-fed-interest-rates-on-crypto-holders-2-960x640.webp"
+          "publishedAt": "2026-11-27T17:37:23.000Z",
+          "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg"
         },
         {
-          "id": "7c4c0f4cf79f40d3",
-          "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-          "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "sourceUrl": "https://coindesk.com",
-          "publishedAt": "2026-11-26T17:30:00.000Z",
-          "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+          "id": "4b2c934570ffa2cb",
+          "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+          "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+          "source": "Decrypt",
+          "sourceUrl": "https://decrypt.co",
+          "publishedAt": "2026-11-27T17:09:30.000Z",
+          "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm.",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png"
+        },
+        {
+          "id": "822c3fdc84cf9f71",
+          "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph.com News",
+          "sourceUrl": "https://cointelegraph.com",
+          "publishedAt": "2026-11-27T16:48:51.000Z",
+          "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8ESH2B3W3M02NVS1RNS6AQH/crypto-bitcoin-btc-price-960x640-960x640.webp"
         }
       ]
     },
@@ -116,13 +116,33 @@
       "label": "Economy",
       "articles": [
         {
+          "id": "2efc868044975ae9",
+          "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+          "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+          "source": "Economy",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-11-27T08:47:36.000Z",
+          "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+          "image": null
+        },
+        {
           "id": "981d7fc3754d03fb",
           "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
           "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
           "source": "Economy",
           "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-11-26T15:28:26.000Z",
+          "publishedAt": "2026-11-27T06:50:38.000Z",
           "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+          "image": null
+        },
+        {
+          "id": "5d28a5ddaa2745f4",
+          "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+          "source": "Economy",
+          "sourceUrl": "https://cnbc.com",
+          "publishedAt": "2026-11-27T06:09:51.000Z",
+          "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
           "image": null
         },
         {
@@ -144,26 +164,6 @@
           "publishedAt": "2026-11-25T21:56:43.000Z",
           "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
           "image": null
-        },
-        {
-          "id": "35460b7c3efec4a0",
-          "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-          "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-          "source": "Economy",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-11-25T16:17:13.000Z",
-          "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-          "image": null
-        },
-        {
-          "id": "4fc9c7b0e27d86e5",
-          "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-          "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-          "source": "Economy",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-11-25T14:18:45.000Z",
-          "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-          "image": null
         }
       ]
     },
@@ -171,60 +171,100 @@
       "label": "Politics",
       "articles": [
         {
-          "id": "c1affa3d77da8e67",
-          "title": "Thanksgiving has a bumpy history",
-          "url": "https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/",
-          "source": "TheHill.com Just In",
-          "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-26T19:00:00.000Z",
-          "summary": "The history of the American Thanksgiving holiday has evolved from early colonial feasts and Revolutionary War era proclamations to modern debates over its religious nature and official date.",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP289888419349.jpg?w=900"
-        },
-        {
-          "id": "5850a2a7aaf3ffa6",
-          "title": "Burnham joined by former PMs at Widdecombe service",
-          "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
+          "id": "8e05e0262ad5e0d6",
+          "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-26T18:26:09.000Z",
-          "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0063/live/ac781c10-e9ae-11f1-99b6-a35a62fa4264.jpg"
+          "publishedAt": "2026-11-27T19:15:30.000Z",
+          "summary": "The Department for Work and Pensions says some of its services have been take offline as a precaution.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "e246d51812f0b364",
-          "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "sourceUrl": "https://feeds.bbci.co.uk",
-          "publishedAt": "2026-11-26T18:22:31.000Z",
-          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812f/live/23b5af10-e99e-11f1-b880-15b494ba858d.png"
-        },
-        {
-          "id": "abfa18c13c7e68a8",
-          "title": "Zeldin: No airborne lead detected in Iowa a day after Army blast",
-          "url": "https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/",
+          "id": "2fb6a43136d075fd",
+          "title": "Keep the filibuster, but make senators earn it",
+          "url": "https://thehill.com/opinion/congress-blog/6243890-senate-filibuster-reform-proposals/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-26T18:21:06.000Z",
-          "summary": "The Environmental Protection Agency (EPA) said Thursday that its air monitors have detected no airborne lead following the Army’s controlled detonation of thousands of pounds of unstable explosives…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26329782129664-e1795716888720.jpg?w=900"
+          "publishedAt": "2026-11-27T19:00:00.000Z",
+          "summary": "The author proposes reforming the Senate filibuster by requiring a talking component and flipping the burden of proof to ensure legislative accountability.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP17096617316080.jpg?w=900"
         },
         {
-          "id": "7c2954f504b463a4",
-          "title": "FIFA says 'limited set of personal and business information' stolen in cyber attack",
-          "url": "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
+          "id": "5c11fb83934ed76d",
+          "title": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia: Reports",
+          "url": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/",
           "source": "TheHill.com Just In",
           "sourceUrl": "https://thehill.com",
-          "publishedAt": "2026-11-26T18:10:00.000Z",
-          "summary": "FIFA, the international governing body for soccer, said Thursday that it had been subject to a cyberattack that resulted in a “limited set of personal and business information\" that was stolen. “FIFA…",
-          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/08/6a91dffb4ea4a3.64248738.jpeg?w=900"
+          "publishedAt": "2026-11-27T18:49:53.000Z",
+          "summary": "President Trump is reportedly set to attend the groundbreaking of a Phoenix facility that will manufacture semiconductor chips, including for Nvidia, which has seized the spotlight this month over…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/trump_donald_11242026_AP26328738998909-2.jpg?w=900"
+        },
+        {
+          "id": "49cf6796cc458819",
+          "title": "Cenk Uygur backs Ro Khanna in 2028 race",
+          "url": "https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/",
+          "source": "TheHill.com Just In",
+          "sourceUrl": "https://thehill.com",
+          "publishedAt": "2026-11-27T18:04:27.000Z",
+          "summary": "Progressive media personality Cenk Uygur on Thursday backed Rep. Ro Khanna (D-Calif.) as a candidate in the 2028 presidential race if he decides to run. “So, 2028 presidential campaign starts right…",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/06/khannaro_041426gn18_w.jpg?w=900"
+        },
+        {
+          "id": "bfbf1759b75edf47",
+          "title": "14 years of DACA isn’t a milestone — it’s a failure of Congress",
+          "url": "https://thehill.com/opinion/immigration/6240998-daca-delays-congressional-inaction/",
+          "source": "TheHill.com Just In",
+          "sourceUrl": "https://thehill.com",
+          "publishedAt": "2026-11-27T18:00:00.000Z",
+          "summary": "This isn't a policy debate anymore. It's machinery of government breaking down in real time, and hundreds of thousands of people are caught in the gears.",
+          "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GettyImages-845445806.jpg?w=900"
         }
       ]
     },
     "ai": {
       "label": "AI",
       "articles": [
+        {
+          "id": "e0750e6833be5a4b",
+          "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+          "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-11-27T13:00:00.000Z",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?w=840"
+        },
+        {
+          "id": "b4e61911e477721b",
+          "title": "Our 2027 Innovators Under 35 competition is now open",
+          "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-11-27T10:48:47.000Z",
+          "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today,…",
+          "image": null
+        },
+        {
+          "id": "f7c430bedf7a2e8d",
+          "title": "How cutting-edge prosthetics can help probe the human mind",
+          "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+          "source": "MIT Technology Review",
+          "sourceUrl": "https://technologyreview.com",
+          "publishedAt": "2026-11-27T10:00:00.000Z",
+          "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and…",
+          "image": null
+        },
+        {
+          "id": "94305b427e5aac0a",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "AI News & Artificial Intelligence",
+          "sourceUrl": "https://techcrunch.com",
+          "publishedAt": "2026-11-26T20:03:54.000Z",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "image": null
+        },
         {
           "id": "e5c5d8632474a2a0",
           "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -234,46 +274,6 @@
           "publishedAt": "2026-11-26T16:00:00.000Z",
           "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
           "image": null
-        },
-        {
-          "id": "df757b3ca1dd4130",
-          "title": "The Download: Better bionic hands and AI’s natural-gas boom",
-          "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-          "source": "MIT Technology Review",
-          "sourceUrl": "https://technologyreview.com",
-          "publishedAt": "2026-11-26T13:10:00.000Z",
-          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel…",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?w=840"
-        },
-        {
-          "id": "3351794e6a63e8ff",
-          "title": "The next generation of bionic hands is here—and they can feel",
-          "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
-          "source": "MIT Technology Review",
-          "sourceUrl": "https://technologyreview.com",
-          "publishedAt": "2026-11-26T09:59:00.000Z",
-          "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him…",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/261124_ProsetheticHand_Embed1.jpg?w=840"
-        },
-        {
-          "id": "707319c903aa5aba",
-          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-25T22:44:32.000Z",
-          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-          "image": null
-        },
-        {
-          "id": "dc85126b0ac71765",
-          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-          "source": "AI News & Artificial Intelligence",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-25T20:03:27.000Z",
-          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-          "image": null
         }
       ]
     },
@@ -281,54 +281,54 @@
       "label": "Trends",
       "articles": [
         {
-          "id": "7b9d9318548d4c26",
-          "title": "Professional Smartphone Photography - Xiaomi Combines Advanced Cameras with Premium Mobile Design (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/professional-smartphone-photography",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-26T13:50:00.000Z",
-          "summary": "(TrendHunter.com) Professional smartphone photography is becoming a greater focus for Xiaomi as the company showcases a mobile device combining advanced camera hardware with premium styling. The…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653898/653898_1_468.jpeg"
+          "id": "8b94c96a3266df56",
+          "title": "A popular password manager was hacked. Here’s what you need to know",
+          "url": "https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-27T18:55:44.000Z",
+          "summary": "Password managers are the safest way short of secret sticky notes to keep track of the hundreds of logins in your life, but even they don’t have perfect security. Popular Password manager 1Password…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91649530-1password-data-breach.jpg"
         },
         {
-          "id": "d38e5271e430b922",
-          "title": "Interactive Vocal Training Apps - Simply Sing Offers Personalized Tools for Singing Practice (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/interactive-vocal-training-apps",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-26T13:35:00.000Z",
-          "summary": "(TrendHunter.com) Interactive vocal training apps are making singing practice more personalized, with Simply Sing offering mobile tools that help users explore their voices and develop confidence.…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653802/653802_1_468.jpeg"
+          "id": "2463a2b3d48e7296",
+          "title": "Elon Musk is giving away nearly $18 billion in SpaceX stock. Here’s who can get it",
+          "url": "https://www.fastcompany.com/91649518/elon-musk-is-giving-away-nearly-18-billion-in-spacex-stock-heres-who-can-get-it",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-27T18:00:00.000Z",
+          "summary": "Your kid is becoming quite the capitalist. Every U.S. child with an active Trump account will soon receive two shares of SpaceX, the space exploration company run by Elon Musk. This donation marks…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91649518-elon-musk-to-give-away-18-billion-in-space-x-stock-to-us-children.jpg"
         },
         {
-          "id": "2a67e6e5cfb92a08",
-          "title": "High-Speed Electric Drives - ZF Develops Compact Motors with Reduced Weight and Magnet Use (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/high-speed-electric-drives",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-26T13:20:00.000Z",
-          "summary": "(TrendHunter.com) High-speed electric drives are becoming more compact as ZF develops its High Revolution Drive, a three-in-one system capable of reaching 30,000 rpm. By combining faster motor…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/656/656155/656155_1_468.jpeg"
+          "id": "13d2b6150583ad90",
+          "title": "Aibo, Sony’s robot dog, now has a second life in hospitals",
+          "url": "https://www.fastcompany.com/91649467/how-sony-giving-dog-robot-aibo-second-life-hospitals",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-27T17:30:41.000Z",
+          "summary": "The people at Sony don’t use words like “product” or “reboot” when they talk about Aibo, the Japanese electronics and entertainment company’s robotic dog. Aibo robots, which first went on sale in…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/AP26330219752109.jpg"
         },
         {
-          "id": "4b871601b38b0258",
-          "title": "Verified Product Claim Packaging - Polytag and Provenance Bring Verified Claims to Smart QR Codes (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/verified-product-claim-packaging",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-26T13:05:00.000Z",
-          "summary": "(TrendHunter.com) Verified product claim packaging is becoming more accessible as Polytag partners with Provenance to connect scannable QR codes with evidence supporting product claims. The…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/655/655907/655907_1_468.jpeg"
+          "id": "558d9b65edf99ebf",
+          "title": "Southwest Airlines is offering 55 days of buy-one-get-one flights. Here’s how to get them",
+          "url": "https://www.fastcompany.com/91649546/southwest-airlines-is-offering-55-days-of-buy-one-get-one-flights-heres-how-to-get-them",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-27T17:11:42.000Z",
+          "summary": "Southwest Airlines is taking a slightly different approach to Black Friday this year. Rather than simply discounting flights, the airline is giving travelers an opportunity to earn one of its most…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-91649546-southwest-airlines-companion-pass-black-friday-deal.jpg"
         },
         {
-          "id": "45675fcbbb26f573",
-          "title": "Value-Focused Casual Dining - Ruby Tuesday Refreshes Its Menu with Affordable Meal Options (TrendHunter.com)",
-          "url": "https://www.trendhunter.com/trends/value-focused-casual-dining",
-          "source": "TREND HUNTER",
-          "sourceUrl": "https://trendhunter.com",
-          "publishedAt": "2026-11-26T12:50:00.000Z",
-          "summary": "(TrendHunter.com) Value-focused casual dining is gaining attention as Ruby Tuesday introduces a refreshed nationwide menu alongside affordable meal selections. The restaurant chain is emphasizing…",
-          "image": "https://cdn.trendhunterstatic.com/phpthumbnails/655/655296/655296_1_468.jpeg"
+          "id": "fe6f90b8e06053e1",
+          "title": "Travis and Jason Kelce’s Garage Beer lands $20 million as craft brewers pull back",
+          "url": "https://www.fastcompany.com/91647430/travis-jason-kelces-garage-beer-lands-20-million-craft-brewers-pull-back",
+          "source": "Fast Company",
+          "sourceUrl": "https://fastcompany.com",
+          "publishedAt": "2026-11-27T16:30:00.000Z",
+          "summary": "Travis Kelce’s beer brand just secured a huge financial deal to help promote its popular brew. On Tuesday, Travis and his brother Jason Kelce’s Garage Beer brand secured a $20 million revolving…",
+          "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/garage-beer-kelce-brothers-inc.jpg"
         }
       ]
     },
@@ -336,54 +336,54 @@
       "label": "Stock Market",
       "articles": [
         {
-          "id": "fa1ec3af9c9ca762",
-          "title": "Kodiak AI CEO buys $2.2 million in common stock",
-          "url": "https://www.investing.com/news/insider-trading-news/kodiak-ai-ceo-buys-22-million-in-common-stock-93CH-5052687",
+          "id": "f5697aafee2c7ac0",
+          "title": "Spok Holdings COO sells over $211,000 in company stock",
+          "url": "https://www.investing.com/news/insider-trading-news/spok-holdings-coo-sells-over-211000-in-company-stock-93CH-5053806",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-26T19:01:01.000Z",
+          "publishedAt": "2026-11-27T19:00:56.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
         },
         {
-          "id": "dff55039892e894e",
-          "title": "Saul Centers president acquires $100k in common stock",
-          "url": "https://www.investing.com/news/insider-trading-news/saul-centers-president-acquires-100k-in-common-stock-93CH-5052686",
+          "id": "6b793e318d78c485",
+          "title": "ExlService Holdings executive sells $597,457 in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/exlservice-holdings-executive-sells-597457-in-stock-93CH-5053805",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-26T19:00:48.000Z",
+          "publishedAt": "2026-11-27T19:00:53.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
         },
         {
-          "id": "7e5ea1401cb59a6a",
-          "title": "Retail inventories and goods trade balance among economic data due Friday",
-          "url": "https://www.investing.com/news/stock-market-news/retail-inventories-and-goods-trade-balance-among-economic-data-due-friday-93CH-5052685",
+          "id": "a6e0fe55aee2821c",
+          "title": "Chicago PMI and CFTC speculative positions among economic data due Monday",
+          "url": "https://www.investing.com/news/stock-market-news/chicago-pmi-and-cftc-speculative-positions-among-economic-data-due-monday-93CH-5053804",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-26T19:00:41.000Z",
+          "publishedAt": "2026-11-27T19:00:51.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+          "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
         },
         {
-          "id": "260035de0ff6afdc",
-          "title": "Bekaert and more set to report earnings Friday",
-          "url": "https://www.investing.com/news/stock-market-news/bekaert-and-more-set-to-report-earnings-friday-93CH-5052684",
+          "id": "ba13362614bbcc58",
+          "title": "Rubrik, Nano Nuclear Energy, and more set to report earnings Friday",
+          "url": "https://www.investing.com/news/stock-market-news/rubrik-nano-nuclear-energy-and-more-set-to-report-earnings-friday-93CH-5053802",
           "source": "All News",
           "sourceUrl": "https://investing.com",
-          "publishedAt": "2026-11-26T19:00:33.000Z",
+          "publishedAt": "2026-11-27T19:00:32.000Z",
           "summary": "",
-          "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+          "image": "https://content-media.investing.com/news/LYNXMPEA7O0S8_M.jpg"
         },
         {
-          "id": "ffc9529500e12798",
-          "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-          "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-          "source": "MarketWatch.com",
-          "sourceUrl": "https://feeds.content.dowjones.io",
-          "publishedAt": "2026-11-26T19:00:00.000Z",
-          "summary": "“Retirement is a financial status, not an age.”",
-          "image": "https://images.mktw.net/im-83830528"
+          "id": "e0d9b712083db228",
+          "title": "Exclusive-Armani heirs consider buying small slice of fashion house in stake sale, sources say",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivearmani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-5053801",
+          "source": "All News",
+          "sourceUrl": "https://investing.com",
+          "publishedAt": "2026-11-27T19:00:22.000Z",
+          "summary": "",
+          "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1MX_L.jpg"
         }
       ]
     },
@@ -446,54 +446,54 @@
       "label": "Technology",
       "articles": [
         {
-          "id": "242c0816468ef8f2",
-          "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
-          "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+          "id": "7c1769739d070ca9",
+          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-11-27T18:59:19.000Z",
+          "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "id": "5648d4b4387fa210",
+          "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+          "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-11-27T18:30:00.000Z",
+          "summary": "Anker’s 100W universal travel charger has a tiny screen for monitoring your power usage. | Image: Anker During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "id": "637be427288cde5b",
+          "title": "Here are the best Black Friday deals you can grab for $30 or less",
+          "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+          "source": "The Verge",
+          "sourceUrl": "https://theverge.com",
+          "publishedAt": "2026-11-27T17:30:00.000Z",
+          "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        },
+        {
+          "id": "a3a64e2095da62c5",
+          "title": "The best Black Friday deals Ars could find",
+          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
           "source": "Ars Technica",
           "sourceUrl": "https://feeds.arstechnica.com",
-          "publishedAt": "2026-11-26T18:00:29.000Z",
-          "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg"
+          "publishedAt": "2026-11-27T17:05:37.000Z",
+          "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg"
         },
         {
-          "id": "b8b8a9d24770a802",
-          "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-          "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+          "id": "badc48b15acb2e35",
+          "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
           "source": "The Verge",
           "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-26T17:07:00.000Z",
-          "summary": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "fc3f6c861a538768",
-          "title": "Android app developers will soon have to share their address publicly",
-          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-26T17:06:24.000Z",
-          "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-        },
-        {
-          "id": "948f79b6fa502fa7",
-          "title": "A month with the iPhone Duo has changed how I use my phone",
-          "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-          "source": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com",
-          "publishedAt": "2026-11-26T17:00:00.000Z",
-          "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
-          "image": null
-        },
-        {
-          "id": "b10ebf43407e6161",
-          "title": "The best Black Friday deals we’ve already found",
-          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "source": "The Verge",
-          "sourceUrl": "https://theverge.com",
-          "publishedAt": "2026-11-26T16:55:00.000Z",
-          "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+          "publishedAt": "2026-11-27T16:30:37.000Z",
+          "summary": "The MacBook Pro with PROLED XDR has hit a new low price just a few months after release. | Photo: Antonio G. Di Benedetto / The Verge Black Friday is one of the best times of the year to save some…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
         }
       ]
     },
@@ -501,54 +501,54 @@
       "label": "Business",
       "articles": [
         {
-          "id": "971aeaf326b07853",
-          "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-          "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-          "source": "Business News",
-          "sourceUrl": "https://cnbc.com",
-          "publishedAt": "2026-11-26T18:27:43.000Z",
-          "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-          "image": null
-        },
-        {
-          "id": "91ed548237f53aca",
-          "title": "Trump Says He Told Putin To ‘Pull Back’ All Military Aggression Against Europe",
-          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/26/trump-says-he-told-putin-to-pull-back-all-military-aggression-against-europe/",
+          "id": "2b96289180939a25",
+          "title": "Jackson Koivun Wins The 2026 Skins Game",
+          "url": "https://www.forbes.com/sites/jeffhartman/2026/11/27/jackson-koivun-wins-the-2026-skins-game/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-26T17:24:54.000Z",
-          "summary": "While Russia is not formally at war with any European countries, its military strikes have landed in Poland as airspace violations have also been made in places like Germany, Romania and Finland.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6b086ae054b97428a83b002a/0x0.jpg?width=960&precrop=3194%2C2128%2Cx0%2Cy80"
+          "publishedAt": "2026-11-27T19:00:30.000Z",
+          "summary": "Jackson Koivun, the 21-year-old phenom, edged out Brooks Koepka, Justin Thomas, and Wyndham Clark in the 2026 Skins Game.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6b09cbba37b8aaa5665de4d8/0x0.jpg"
         },
         {
-          "id": "68a81e95013e69ff",
-          "title": "What To Stream On Thanksgiving Weekend 2026: K-Dramas, Indian Hits And Global Picks",
-          "url": "https://www.forbes.com/sites/hannahabraham/2026/11/26/what-to-stream-on-thanksgiving-weekend-2026-k-dramas-indian-hits-and-global-picks/",
+          "id": "2fa9468a78ca1e7f",
+          "title": "Anthropic Surges 11% In Best Day Since IPO Boom",
+          "url": "https://www.forbes.com/sites/saradorn/2026/11/27/anthropic-surges-11-in-best-day-since-ipo-boom/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-26T17:21:47.000Z",
-          "summary": "This guide also mixes in all-new arrivals with titles from the past weeks that are still a good use of your Thanksgiving couch time.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6b0869fa8e4ff05f0445c537/0x0.jpg?width=960"
+          "publishedAt": "2026-11-27T18:44:57.000Z",
+          "summary": "Anthropic closed at a price of $91.88 on Friday—above its $83 IPO point.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6b09cea613a64781f7c606bf/0x0.jpg?width=960"
         },
         {
-          "id": "2e318dc0dfd64be8",
-          "title": "Streaming TV’s Best Black Friday Deals For 2026",
-          "url": "https://www.forbes.com/sites/rickellis/2026/11/26/streaming-tvs-best-black-friday-deals-for-2026/",
+          "id": "b7871c864a4a877b",
+          "title": "The Best Black Friday Deals On HBO Max, Peacock, Hulu, Disney+ And Other Streaming Services",
+          "url": "https://www.forbes.com/sites/erikkain/2026/11/27/best-black-friday-streaming-deals-2026/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-26T17:09:42.000Z",
-          "summary": "Black Friday has become one of the most important days in the American streaming media business. Nearly every streamer is offering some sort of a deal.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6b06ce94cf90204fc926cdf6/0x0.jpg?width=960"
+          "publishedAt": "2026-11-27T18:44:13.000Z",
+          "summary": "These are all the best Black Friday streaming deals of 2026, including Disney+, Hulu, HBO Max, Peacock, STARZ, Apple TV, Paramount+ and Roku.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6b09cac053a294df7cc1f4f9/0x0.jpg"
         },
         {
-          "id": "fdce97a7b468a492",
-          "title": "Florian Wirtz Is Finally Living Up To The Hype As A Liverpool Player",
-          "url": "https://www.forbes.com/sites/grahamruthven/2026/11/26/florian-wirtz-is-finally-living-up-to-the-hype-as-a-liverpool-player/",
+          "id": "68ae0cfefbbfd330",
+          "title": "Small Business Saturday Means Big Business For Main Street",
+          "url": "https://www.forbes.com/sites/pamdanziger/2026/11/27/small-business-saturday-means-big-business-for-main-street/",
           "source": "Forbes",
           "sourceUrl": "https://forbes.com",
-          "publishedAt": "2026-11-26T16:55:35.000Z",
-          "summary": "Florian Wirtz is in excellent form and is finally living up to his price tag as one of Liverpool's most important players.",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6b086417214e9837872520b2/0x0.jpg"
+          "publishedAt": "2026-11-27T18:12:56.000Z",
+          "summary": "What began as a post-Thanksgiving promotion, Small Business Saturday is a day to celebrate small businesses that keep local communities vibrant year-round.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6b09b9f25a616aee066d3354/0x0.jpg"
+        },
+        {
+          "id": "e49243baf31e5ba0",
+          "title": "The Tragic True Story Behind ‘The Mosquito Bowl’—What Happened To The Players?",
+          "url": "https://www.forbes.com/sites/monicamercuri/2026/11/27/the-tragic-true-story-behind-the-mosquito-bowl-what-happened-to-the-players/",
+          "source": "Forbes",
+          "sourceUrl": "https://forbes.com",
+          "publishedAt": "2026-11-27T17:40:19.000Z",
+          "summary": "Netflix’s “The Mosquito Bowl” tells the heartbreaking true story of football stars who traded the field for the battlefield. Here’s what happened to the real-life players.",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6b09bd7413a64781f7c606bd/0x0.jpg?width=960&precrop=1599%2C1066%2Cx0%2Cy0"
         }
       ]
     },
@@ -556,54 +556,54 @@
       "label": "Fashion — Men",
       "articles": [
         {
-          "id": "7eb25f1a3a633725",
-          "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
-          "url": "https://hypebeast.com/2026/11/nike-mind-001-palomino-hq4307-201-official-images",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-26T09:45:31.000Z",
-          "summary": "Name: Nike Mind 001 “Palomino”Colorway: Palomino/Tar-Metallic PlatinumSKU: HQ4307-201MSRP: $95 USDRelease Date: Spring 2027The Nike Mind 001 \"Palomino\" is set to give one of Nike's more experimental…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F26%2FNike-Mind-001-Palomino-HQ4307-201-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "2a558530e7f36f93",
+          "title": "Every Pair of Levi’s Is on Sale for Black Friday, Starting at 40% Off",
+          "url": "https://www.esquire.com/style/mens-fashion/a74251445/levis-505-jeans-black-friday-cyber-monday-sale/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-11-27T18:21:05.000Z",
+          "summary": "They’re the best cheap jeans money can buy, and they’re at the best price of the year.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/e2711fe3-8adf-48b4-929b-6a68d2b31fca.png"
         },
         {
-          "id": "43b8c2c3e12fd8ea",
-          "title": "Panini Turns ‘GTA VI's’ In-Game Collectibles Into a Real Sports Trading Card Collection",
-          "url": "https://hypebeast.com/2026/11/panini-rockstar-games-grand-theft-auto-gta-vi-trading-cards-announcement-info",
+          "id": "0c29057eab1debca",
+          "title": "G-SHOCK’s GMC-2500 and GAC-2500 Turns a Beetle’s Exoskeleton Into Armor for the Wrist",
+          "url": "https://hypebeast.com/2026/11/casio-g-shock-gmc-2500-yosuke-nagayama-interview",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-26T09:37:21.000Z",
-          "summary": "Summary Panini America and Rockstar Games are releasing the ‘GTA VI’ Sports Trading Card Collection, their first trading card tie-in for the gameThe officially licensed set turns the collectible…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F26%2FPanini-Rockstar-Games-grand-theft-auto-gta-vi-Trading-Cards-Announcement-Info-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-27T18:00:53.000Z",
+          "summary": "Since the DW-5000C arrived in 1983, G-SHOCK has been built on one promise: a watch that won’t break. More than four decades on, the brand’s newest series translates the functional beauty of that…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F12%2Fcasio-g-shock-gmc-2500-yosuke-nagayama-interview-000.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "aacae6ac6ac18446",
-          "title": "Lil Uzi Vert Weaves a Rainbow of Thread Into the Vans Authentic 44 \"Pink Cosmos\"",
-          "url": "https://hypebeast.com/2026/11/lil-uzi-vert-vans-authentic-44-pink-cosmos-vn0010wy3td-official-images",
+          "id": "ad0291988f8db73c",
+          "title": "Martine Rose’s Latest Nike Is All Business, With a Little Track and Field",
+          "url": "https://hypebeast.com/2026/11/martine-rose-nike-mr-trax-sp-release-date",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-26T09:02:18.000Z",
-          "summary": "Name: Lil Uzi Vert x Vans Authentic 44 “Pink Cosmos”Colorway: Pink/Multi-ColorSKU: VN0010WY3TDMSRP: TBCRelease Date: Holiday 2026Lil Uzi Vert's Vans Authentic 44 \"Pink Cosmos\" is reportedly set to…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F26%2FLil-Uzi-Vert-Vans-Authentic-44-Pink-Cosmos-VN0010WY3TD-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-27T17:20:05.000Z",
+          "summary": "Summary Martine Rose’s latest Nike collaboration, the MR Trax SP, reimagines competitive track footwear as a low-profile women’s lifestyle sneaker.Reminiscent of Nike’s Skylon franchise, the…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fmartine-rose-nike-mr-trax-sp-release-date-00.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "05a32747d07501f3",
-          "title": "Apple Is Reportedly Planning an M6 MacBook Air Refresh for Spring 2027 Ahead of an OLED Redesign",
-          "url": "https://hypebeast.com/2026/11/apple-prepares-two-phase-rollout-for-macbook-air",
+          "id": "6f9e47b0dae9f7aa",
+          "title": "Stone Island’s Milan Flagship Is a Material Research Lab in Its Own Right",
+          "url": "https://hypebeast.com/2026/11/stone-island-milan-flagship-store-renovation",
           "source": "Hypebeast",
           "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-26T09:02:12.000Z",
-          "summary": "Summary Apple is preparing a dual-phase rollout for the MacBook Air, starting with an M6 chip update in spring 2027The initial launch will be a straightforward spec refresh, arriving alongside the…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F25%2Fapple-prepares-two-phase-rollout-for-macbook-air-0.jpg?w=800&cbr=1&q=90&fit=max"
+          "publishedAt": "2026-11-27T16:33:19.000Z",
+          "summary": "Summary Stone Island reunites with OMA/AMO to renovate and expand its 600-square-meter Milan flagship.Burnt cork, handmade fused glass, and recycled resin translate the brand’s garment research into…",
+          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F27%2Fstone-island-milan-flagship-store-renovation-00.jpg?w=800&cbr=1&q=90&fit=max"
         },
         {
-          "id": "f405a0baeab48501",
-          "title": "Maison Kitsuné and Paraboot Rework the Classic Chambord for Fall/Winter 2026",
-          "url": "https://hypebeast.com/2026/11/maison-kitsune-paraboot-collab-release-info",
-          "source": "Hypebeast",
-          "sourceUrl": "https://hypebeast.com",
-          "publishedAt": "2026-11-26T08:54:50.000Z",
-          "summary": "Summary Maison Kitsuné and Paraboot reunite to reinterpret the classic Chambord derby.Glossy brown leather pairs with white contrast stitching and asymmetrical logo tabs.Priced at approx. $670 USD,…",
-          "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F26%2Fmaison-kitsun-x-paraboot-collab-release-info-000.jpg?w=800&cbr=1&q=90&fit=max"
+          "id": "5621724d92b578a5",
+          "title": "Lululemon’s Black Friday Sale Is Stacked",
+          "url": "https://www.esquire.com/style/mens-fashion/a74549606/lululemon-black-friday-deals-2026/",
+          "source": "Style",
+          "sourceUrl": "https://esquire.com",
+          "publishedAt": "2026-11-27T15:19:15.000Z",
+          "summary": "Time to start checking off that gift list.",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/616ef6be-4a1c-458c-a6ac-e91b827a07be.png"
         }
       ]
     },
@@ -611,54 +611,54 @@
       "label": "Architecture",
       "articles": [
         {
-          "id": "81f72210a8742da4",
-          "title": "Five lighting designs listed by Marset on Dezeen Showroom",
-          "url": "https://www.dezeen.com/2026/11/26/lighting-designs-marset-dezeen-showroom/",
+          "id": "a658d1df266c241b",
+          "title": "Estúdio 41 wraps coastal Brazilian house in white brise-soleil",
+          "url": "https://www.dezeen.com/2026/11/27/guaratuba-house-brazil-estudio-41/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-26T19:00:00.000Z",
-          "summary": "Spanish lighting brand Marset has showcased five of its products on Dezeen Showroom, including a mid-century reissue and a ceiling light that appears like a block of ice. Marset's selection includes…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/03/gambosa-lamp-mathias-hahn-marset-design_dezeen_2364_sq2-411x411.jpg"
+          "publishedAt": "2026-11-27T18:00:00.000Z",
+          "summary": "Estúdio 41 has completed the Guaratuba House, which features exterior screens and a structural system that \"explores the architectural expression of exposed precast concrete\". The post Estúdio 41…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/11/guaratuba-house-brazil-estudio-41_dezeen_2364_sq-1-1024x1024.jpg"
         },
         {
-          "id": "a0d6237912bc491c",
-          "title": "Royal Society for Arts appoints five Royal Designers for Industry",
-          "url": "https://www.dezeen.com/2026/11/26/royal-society-for-arts-royal-designers-industry/",
+          "id": "608b759a04385433",
+          "title": "Texas reveals proposal for US Space Academy in Houston",
+          "url": "https://www.dezeen.com/2026/11/27/us-space-academy-houston-texas/",
           "source": "Dezeen",
           "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-26T18:30:00.000Z",
-          "summary": "The UK's Royal Society for Arts has announced the five Royal Designers for Industry thand named an Honorary Royal Designer. The post Royal Society for Arts appoints five Royal Designers for Industry…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/11/royal-scoiety-arts-royal-designers-for-industry_dezeen_2364_col_sq-1024x1024.jpg"
+          "publishedAt": "2026-11-27T15:00:00.000Z",
+          "summary": "The Texas Space Commission has published a proposal for the newly created United States Space Academy, which would be built in Houston. The post Texas reveals proposal for US Space Academy in Houston…",
+          "image": "https://static-2026.dezeen.com/uploads/2026/11/us-space-academy-houston-texas_dezeen_2364_sq_11-1024x1024.jpg"
         },
         {
-          "id": "497f392fc7475221",
-          "title": "Base Design gives Visa a brand refresh \"for the next generation\"",
-          "url": "https://www.dezeen.com/2026/11/26/visa-logo-redesign-base-design/",
-          "source": "Dezeen",
-          "sourceUrl": "https://dezeen.com",
-          "publishedAt": "2026-11-26T18:00:00.000Z",
-          "summary": "As part of a visual identity update for Visa, design agency Base Design created a more \"compact\" version of its logo and worked with Displaay Type Foundry on a new typeface. The post Base Design…",
-          "image": "https://static-2026.dezeen.com/uploads/2026/11/visa-base-design-brand-identity_dezeen_2364_sq-1-1024x1024.jpg"
+          "id": "e703be97128ff324",
+          "title": "Intermodal Hub of Lousada / spaceworkers",
+          "url": "https://www.archdaily.com/1035818/intermodal-hub-of-lousada-spaceworkers",
+          "source": "ArchDaily Global",
+          "sourceUrl": "https://archdaily.com",
+          "publishedAt": "2026-11-27T13:00:00.000Z",
+          "summary": "The planned intervention is located in the northern area of Lousada, a growing zone where new residential clusters, cultural spaces, and an expanded road network are being proposed to integrate with…",
+          "image": "https://images.adsttc.com/media/images/690d/2aa6/b04b/1c13/755a/3b77/newsletter/intermodal-hub-of-lousada-spaceworkers_1.jpg?1762470589"
         },
         {
-          "id": "55e7f28aa2b81d9f",
-          "title": "23 Christmas Decoration Ideas, From Traditional Tartans to a Jewel-Toned Winter Wonderland",
-          "url": "https://www.architecturaldigest.com/story/christmas-decoration-ideas-holiday",
+          "id": "90732ba2e6962077",
+          "title": "The AD Team's Favorite Tea Kettle",
+          "url": "https://www.architecturaldigest.com/story/fellow-stagg-kettle",
           "source": "Architectural Digest",
           "sourceUrl": "https://architecturaldigest.com",
-          "publishedAt": "2026-11-26T16:00:00.000Z",
-          "summary": "Whether you’re dreaming of subtle yuletide vignettes or a maximalist fantasy, these Christmas decoration ideas will get you in the holiday spirit",
-          "image": "https://media.architecturaldigest.com/photos/673b974070b926b7ad1a1408/master/pass/9_Courtesy%20of%20Annie%20Sloan.jpg"
+          "publishedAt": "2026-11-27T12:03:00.000Z",
+          "summary": "We all love our Fellow Stagg, which is 20% off for Black Friday",
+          "image": "https://media.architecturaldigest.com/photos/6b05f16dd446458e9347a550/master/pass/AmazonGifts-kettle.jpg"
         },
         {
-          "id": "63b0fc58b726b845",
-          "title": "This Designer Finds Unexpected Beauty in Marble’s Leftovers",
-          "url": "https://www.architecturaldigest.com/story/this-designer-finds-unexpected-beauty-in-marbles-leftovers",
-          "source": "Architectural Digest",
-          "sourceUrl": "https://architecturaldigest.com",
-          "publishedAt": "2026-11-26T13:00:00.000Z",
-          "summary": "In his Carrara workshop, Daniel Kolodziejczak creates objects inspired by ancient Rome",
-          "image": "https://media.architecturaldigest.com/photos/6af499aa4bbe9406e4328f5f/master/pass/AD1226_OTW_1%20copy.jpg"
+          "id": "504b7f519007edac",
+          "title": "Verrière House / Projectoire",
+          "url": "https://www.archdaily.com/1189089/verriere-house-projectoire",
+          "source": "ArchDaily Global",
+          "sourceUrl": "https://archdaily.com",
+          "publishedAt": "2026-11-27T12:00:00.000Z",
+          "summary": "The project involves the extension of an old barn that had previously been converted into a family residence. Located in Potton, a township bordered to the south by the Canada–United States border…",
+          "image": "https://images.adsttc.com/media/images/6b04/89bc/94d7/ea00/019d/0351/newsletter/Projectoire_Shcoolcraft_160620226_0256.jpg?1795459540"
         }
       ]
     }
